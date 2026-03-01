@@ -1,0 +1,1429 @@
+export const premiumPalettes = [
+  { id: 1, name: "Nordic Frost", colors: ["#2E3440", "#3B4252", "#434C5E", "#4C566A", "#88C0D0"], style: "retro", family: "blue" },
+  { id: 2, name: "Sunset Boulevard", colors: ["#FF5F6D", "#FFC371", "#FFD200", "#F7971E", "#FF4E50"], style: "pastel", family: "red" },
+  { id: 3, name: "Midnight Cyber", colors: ["#0F0C29", "#302B63", "#24243E", "#000000", "#0FB9B1"], style: "retro", family: "black" },
+  { id: 4, name: "Soft Matcha", colors: ["#F1F8E9", "#DCEDC8", "#AED581", "#8BC34A", "#689F38"], style: "pastel", family: "green" },
+  // ... we can add 100s more or fetch from a backend later
+  { 
+    id: 5,
+    name: "Velvet Ember",
+    colors: ["#2B2D42", "#8D99AE", "#EF233C", "#D90429", "#EDF2F4"],
+    style: "luxury",
+    family: "red"
+  },
+  { 
+    id: 6,
+    name: "Desert Clay",
+    colors: ["#C97B63", "#E8A87C", "#E27D60", "#85DCB0", "#41B3A3"],
+    style: "earthy",
+    family: "orange"
+  },
+  { 
+    id: 7,
+    name: "Neon Pulse",
+    colors: ["#0D0221", "#0F084B", "#A6FF00", "#FF00C8", "#00F5D4"],
+    style: "neon",
+    family: "purple"
+  },
+  { 
+    id: 8,
+    name: "Ocean Minimal",
+    colors: ["#012A4A", "#013A63", "#014F86", "#2A6F97", "#A9D6E5"],
+    style: "minimal",
+    family: "blue"
+  },
+  { 
+    id: 9,
+    name: "Blush Bloom",
+    colors: ["#FFE5EC", "#FFC2D1", "#FFB3C6", "#FF8FAB", "#FB6F92"],
+    style: "pastel",
+    family: "pink"
+  },
+  { 
+    id: 10,
+    name: "Forest Ritual",
+    colors: ["#081C15", "#1B4332", "#2D6A4F", "#40916C", "#D8F3DC"],
+    style: "nature",
+    family: "green"
+  },
+  { 
+    id: 11,
+    name: "Golden Hour",
+    colors: ["#3A0CA3", "#7209B7", "#F72585", "#F77F00", "#FFBA08"],
+    style: "nature",
+    family: "yellow"
+  },
+  { 
+    id: 12,
+    name: "Cyber Steel",
+    colors: ["#1F2933", "#323F4B", "#52606D", "#9AA5B1", "#00B3A4"],
+    style: "minimal",
+    family: "gray"
+  },
+  { 
+    id: 13,
+    name: "Lavender Dream",
+    colors: ["#F3E8FF", "#E9D5FF", "#D8B4FE", "#C084FC", "#A855F7"],
+    style: "soft-modern",
+    family: "purple"
+  },
+  { 
+    id: 14,
+    name: "Crimson Night",
+    colors: ["#1A1A2E", "#16213E", "#0F3460", "#E94560", "#533483"],
+    style: "retro",
+    family: "red"
+  },
+  { 
+    id: 15,
+    name: "Renaissance Studio",
+    colors: ["#2C1B18", "#6E3B2C", "#B55239", "#E0A96D", "#F5E6CA"],
+    style: "classical",
+    family: "brown"
+  },
+  { 
+    id: 16,
+    name: "Impressionist Garden",
+    colors: ["#355C7D", "#6C5B7B", "#C06C84", "#F67280", "#F8B195"],
+    style: "nature",
+    family: "multi"
+  },
+  { 
+    id: 17,
+    name: "Abstract Fire",
+    colors: ["#1B1B2F", "#162447", "#E43F5A", "#FF7F11", "#FFD23F"],
+    style: "abstract",
+    family: "red"
+  },
+  { 
+    id: 18,
+    name: "Muted Atelier",
+    colors: ["#7D7461", "#A99985", "#D1C7BD", "#EFEAD8", "#4B5D67"],
+    style: "muted",
+    family: "neutral"
+  },
+  { 
+    id: 19,
+    name: "Bohemian Canvas",
+    colors: ["#283618", "#606C38", "#BC6C25", "#DDA15E", "#FEFAE0"],
+    style: "boho",
+    family: "earth"
+  },
+  { 
+    id: 20,
+    name: "Neon Graffiti",
+    colors: ["#0F0F0F", "#00F0FF", "#FF00A8", "#39FF14", "#FF9F1C"],
+    style: "street",
+    family: "neon"
+  },
+  { 
+    id: 21,
+    name: "Watercolor Breeze",
+    colors: ["#A8DADC", "#457B9D", "#F1FAEE", "#E63946", "#FFB703"],
+    style: "watercolor",
+    family: "blue"
+  },
+  { 
+    id: 22,
+    name: "Dark Academia",
+    colors: ["#2F2A24", "#4A403A", "#8A6E4B", "#C2A878", "#E6D3B3"],
+    style: "vintage-dark",
+    family: "brown"
+  },
+  { 
+    id: 23,
+    name: "Pop Surreal",
+    colors: ["#22223B", "#9A8C98", "#C9ADA7", "#F2E9E4", "#FF006E"],
+    style: "pop-art",
+    family: "pink"
+  },
+  { 
+    id: 24,
+    name: "Aurora Mist",
+    colors: ["#03045E", "#0077B6", "#00B4D8", "#90E0EF", "#CAF0F8"],
+    style: "atmospheric",
+    family: "cyan"
+  },
+   { 
+    id: 25,
+    name: "Vintage Sepia",
+    colors: ["#3E2C23", "#6F4E37", "#A67B5B", "#D2B48C", "#F5E6CC"],
+    style: "vintage",
+    family: "brown"
+  },
+  { 
+    id: 26,
+    name: "Retro 70s Groove",
+    colors: ["#4A2C2A", "#B85C38", "#E09F3E", "#F2CC8F", "#8D6A9F"],
+    style: "retro",
+    family: "orange"
+  },
+  { 
+    id: 27,
+    name: "Old Poster Print",
+    colors: ["#2F3E46", "#52796F", "#84A98C", "#CAD2C5", "#E76F51"],
+    style: "vintage",
+    family: "green"
+  },
+  { 
+    id: 28,
+    name: "Classic Americana",
+    colors: ["#1D3557", "#457B9D", "#A8DADC", "#F1FAEE", "#E63946"],
+    style: "vintage",
+    family: "blue"
+  },
+  { 
+    id: 29,
+    name: "Forest Moss",
+    colors: ["#283618", "#606C38", "#A3B18A", "#DAD7CD", "#344E41"],
+    style: "nature",
+    family: "green"
+  },
+  { 
+    id: 30,
+    name: "Ocean Depth",
+    colors: ["#03045E", "#023E8A", "#0077B6", "#0096C7", "#90E0EF"],
+    style: "nature",
+    family: "blue"
+  },
+  { 
+    id: 31,
+    name: "Autumn Harvest",
+    colors: ["#582F0E", "#7F4F24", "#A68A64", "#BC6C25", "#DDA15E"],
+    style: "nature-autumn",
+    family: "orange"
+  },
+  { 
+    id: 32,
+    name: "Desert Sage",
+    colors: ["#6B705C", "#A5A58D", "#B7B7A4", "#DDBEA9", "#CB997E"],
+    style: "nature",
+    family: "neutral"
+  },
+  { 
+    id: 33,
+    name: "Mono Mist",
+    colors: ["#111111", "#2E2E2E", "#6E6E6E", "#BFBFBF", "#F5F5F5"],
+    style: "Minimal",
+    family: "gray"
+  },
+  { 
+    id: 34,
+    name: "Stone Calm",
+    colors: ["#1C1C1C", "#3A3A3A", "#707070", "#CFCFCF", "#FFFFFF"],
+    style: "Minimal",
+    family: "neutral"
+  },
+  { 
+    id: 35,
+    name: "Retro Arcade",
+    colors: ["#2B2D42", "#EF233C", "#D90429", "#8D99AE", "#EDF2F4"],
+    style: "Retro",
+    family: "red"
+  },
+  { 
+    id: 36,
+    name: "Sunset Retro Pop",
+    colors: ["#355070", "#6D597A", "#B56576", "#E56B6F", "#EAAC8B"],
+    style: "Retro",
+    family: "pink"
+  },
+  { 
+    id: 37,
+    name: "Soft Peach",
+    colors: ["#FFE5D9", "#FFD7BA", "#FEC89A", "#FCD5CE", "#FAE1DD"],
+    style: "Pastel",
+    family: "orange"
+  },
+  { 
+    id: 38,
+    name: "Baby Sky",
+    colors: ["#E3F2FD", "#BBDEFB", "#90CAF9", "#64B5F6", "#42A5F5"],
+    style: "Pastel",
+    family: "blue"
+  },
+  { 
+    id: 39,
+    name: "Antique Paper",
+    colors: ["#3A2F2F", "#6F4E37", "#C4A484", "#EADBC8", "#F8F1E5"],
+    style: "Vintage",
+    family: "brown"
+  },
+  { 
+    id: 40,
+    name: "Old Cinema",
+    colors: ["#1B263B", "#415A77", "#778DA9", "#E0E1DD", "#C1121F"],
+    style: "Vintage",
+    family: "blue"
+  },
+  { 
+    id: 41,
+    name: "Deep Forest",
+    colors: ["#081C15", "#1B4332", "#2D6A4F", "#40916C", "#D8F3DC"],
+    style: "Nature",
+    family: "green"
+  },
+  { 
+    id: 42,
+    name: "Mountain Air",
+    colors: ["#2F3E46", "#354F52", "#52796F", "#84A98C", "#CAD2C5"],
+    style: "Nature",
+    family: "green"
+  },
+  { 
+    id: 43,
+    name: "Royal Velvet",
+    colors: ["#240046", "#3C096C", "#5A189A", "#9D4EDD", "#E0AAFF"],
+    style: "Luxury",
+    family: "purple"
+  },
+  { 
+    id: 44,
+    name: "Black Gold",
+    colors: ["#000000", "#1C1C1C", "#C6A75E", "#E5C07B", "#F5E6CA"],
+    style: "Luxury",
+    family: "gold"
+  },
+  { 
+    id: 45,
+    name: "Clean Horizon",
+    colors: ["#0B132B", "#1C2541", "#3A506B", "#5BC0BE", "#F4F4F4"],
+    style: "Minimal",
+    family: "blue"
+  },
+  { 
+    id: 46,
+    name: "Neon Memory",
+    colors: ["#22223B", "#4A4E69", "#9A8C98", "#F72585", "#F2E9E4"],
+    style: "Retro",
+    family: "purple"
+  },
+  { 
+    id: 47,
+    name: "Mint Candy",
+    colors: ["#D8F3DC", "#B7E4C7", "#95D5B2", "#74C69D", "#52B788"],
+    style: "Pastel",
+    family: "green"
+  },
+  { 
+    id: 48,
+    name: "Dusty Rose Vintage",
+    colors: ["#4A4E69", "#9A8C98", "#C9ADA7", "#F2E9E4", "#C06C84"],
+    style: "Vintage",
+    family: "pink"
+  },
+  { 
+    id: 49,
+    name: "Ocean Breeze",
+    colors: ["#03045E", "#0077B6", "#00B4D8", "#90E0EF", "#CAF0F8"],
+    style: "Nature",
+    family: "blue"
+  },
+  { 
+    id: 50,
+    name: "Emerald Elite",
+    colors: ["#081C15", "#1B4332", "#2D6A4F", "#A3B18A", "#E9EDC9"],
+    style: "Luxury",
+    family: "green"
+  },
+  { 
+    id: 51,
+    name: "Soft Linen",
+    colors: ["#F8F9FA", "#E9ECEF", "#DEE2E6", "#CED4DA", "#ADB5BD"],
+    style: "Minimal",
+    family: "neutral"
+  },
+  { 
+    id: 52,
+    name: "Golden Era",
+    colors: ["#2C1B18", "#6E3B2C", "#B55239", "#E0A96D", "#FFD700"],
+    style: "Luxury",
+    family: "gold"
+  },
+  { 
+    id: 53,
+    name: "Obsidian Gold",
+    colors: ["#0B0B0C", "#1A1A1D", "#2C2C2F", "#C6A75E", "#F5E6CA"],
+    style: "Luxury",
+    family: "black"
+  },
+  { 
+    id: 54,
+    name: "Midnight Platinum",
+    colors: ["#000000", "#121212", "#2A2A2A", "#8E9AAF", "#E5E5E5"],
+    style: "Luxury",
+    family: "black"
+  },
+  { 
+    id: 55,
+    name: "Black Sapphire",
+    colors: ["#050A14", "#0F1C2E", "#1B263B", "#415A77", "#E0E1DD"],
+    style: "Luxury",
+    family: "black"
+  },
+  { 
+    id: 56,
+    name: "Noir Emerald",
+    colors: ["#0C0F0A", "#1A1F16", "#2D3A2E", "#2D6A4F", "#D8F3DC"],
+    style: "Luxury",
+    family: "black"
+  },
+  { 
+    id: 57,
+    name: "Black Ruby",
+    colors: ["#0F0F14", "#1C1C24", "#2E1F27", "#9D0208", "#E85D04"],
+    style: "Luxury",
+    family: "black"
+  },
+  { 
+    id: 58,
+    name: "Midnight Signal",
+    colors: ["#0E0E10", "#1F1F23", "#3A3A40", "#EAEAEA", "#FF3B3F"],
+    style: "Minimal",
+    family: "black"
+  },
+  { 
+    id: 59,
+    name: "Arctic Bold",
+    colors: ["#111827", "#374151", "#9CA3AF", "#F9FAFB", "#2563EB"],
+    style: "Minimal",
+    family: "blue"
+  },
+  { 
+    id: 60,
+    name: "Graphite Lime",
+    colors: ["#121212", "#2A2A2A", "#525252", "#E5E5E5", "#A3E635"],
+    style: "Minimal",
+    family: "green"
+  },
+  { 
+    id: 61,
+    name: "Ivory Ember",
+    colors: ["#1C1C1C", "#3D3D3D", "#F5F5F4", "#E7E5E4", "#EA580C"],
+    style: "Minimal",
+    family: "orange"
+  },
+  { 
+    id: 62,
+    name: "Slate Crimson",
+    colors: ["#0F172A", "#334155", "#CBD5E1", "#F1F5F9", "#DC2626"],
+    style: "Minimal",
+    family: "red"
+  },
+  { 
+    id: 63,
+    name: "Stone Teal",
+    colors: ["#171717", "#404040", "#A3A3A3", "#F5F5F5", "#14B8A6"],
+    style: "Minimal",
+    family: "teal"
+  },
+  { 
+    id: 64,
+    name: "Carbon Violet",
+    colors: ["#0B0B12", "#26263A", "#4C4C6D", "#EDEDED", "#7C3AED"],
+    style: "Minimal",
+    family: "purple"
+  },
+  
+  
+  { 
+    id: 65,
+    name: "Sahara Dusk",
+    colors: ["#B64926", "#FFB03B", "#FFF0A5", "#A8D0DB", "#468966"],
+    style: "Nature",
+    family: "orange"
+  },
+  { 
+    id: 66,
+    name: "Royal Peacock",
+    colors: ["#022D36", "#1C6668", "#2F9B8C", "#9FD9C7", "#F2C94C"],
+    style: "Luxury",
+    family: "teal"
+  },
+  { 
+    id: 67,
+    name: "Dusty Lavender",
+    colors: ["#67697C", "#7C7F9B", "#9FA0C3", "#C0B9DD", "#E5D4ED"],
+    style: "Pastel",
+    family: "purple"
+  },
+  { 
+    id: 68,
+    name: "Urban Concrete",
+    colors: ["#2C2C2C", "#4A4A4A", "#7A7A7A", "#BDBDBD", "#F4A261"],
+    style: "Minimal",
+    family: "gray"
+  },
+  { 
+    id: 69,
+    name: "Tropical Rainforest",
+    colors: ["#1A3B2E", "#2D5A4B", "#3B7A6B", "#6BBF9C", "#F2E863"],
+    style: "Nature",
+    family: "green"
+  },
+  { 
+    id: 70,
+    name: "Art Deco Rose",
+    colors: ["#260F1F", "#4A2430", "#AD5E5E", "#E7B183", "#F2E3D5"],
+    style: "Vintage",
+    family: "pink"
+  },
+  { 
+    id: 71,
+    name: "Midnight Aurora",
+    colors: ["#0B1A2E", "#1D3B5C", "#2A6F8C", "#4FB3BF", "#B9E6D9"],
+    style: "Nature",
+    family: "blue"
+  },
+  { 
+    id: 72,
+    name: "Candy Pop",
+    colors: ["#FF5E78", "#FF967D", "#FFC77F", "#B1E6D9", "#8AC4FF"],
+    style: "Retro",
+    family: "pink"
+  },
+  { 
+    id: 73,
+    name: "Terracotta Village",
+    colors: ["#994636", "#C36A4D", "#E5986B", "#F5C196", "#F9E1C0"],
+    style: "Nature",
+    family: "orange"
+  },
+  { 
+    id: 74,
+    name: "Platinum Pearl",
+    colors: ["#1E1E1E", "#4F4F4F", "#8F8F8F", "#CFCFCF", "#F5F0E6"],
+    style: "Luxury",
+    family: "neutral"
+  },
+  { 
+    id: 75,
+    name: "Neon Tokyo",
+    colors: ["#0B0B1F", "#1F2A5F", "#E31B6D", "#FFCB47", "#47E0FF"],
+    style: "Retro",
+    family: "neon"
+  },
+  { 
+    id: 76,
+    name: "Sorbet Swirl",
+    colors: ["#F8C7CC", "#FAD1D0", "#FFE1C6", "#C7E5D9", "#B5D0E6"],
+    style: "Pastel",
+    family: "multi"
+  },
+  { 
+    id: 77,
+    name: "Vintage Postcard",
+    colors: ["#734B3C", "#A67C6B", "#C7A98F", "#E5D1BF", "#F2E3D5"],
+    style: "Vintage",
+    family: "brown"
+  },
+  { 
+    id: 78,
+    name: "Galaxy Nebula",
+    colors: ["#0E0B28", "#2A1E4A", "#4A2E6A", "#7A4E8A", "#B88ACB"],
+    style: "Luxury",
+    family: "purple"
+  },
+  { 
+    id: 79,
+    name: "Fresh Mint",
+    colors: ["#E0F2E9", "#B8E0D2", "#8FCDBB", "#66B9A4", "#3DA58D"],
+    style: "Minimal",
+    family: "green"
+  },
+  { 
+    id: 80,
+    name: "Boho Sunset",
+    colors: ["#3D2B3D", "#6B4E71", "#B287A3", "#F2BB9C", "#F6E1B0"],
+    style: "Vintage",
+    family: "purple"
+  },
+  { 
+    id: 81,
+    name: "Arctic Dawn",
+    colors: ["#C7E2F0", "#A9D4E9", "#7CB9E0", "#4F9FD4", "#2A6F97"],
+    style: "Nature",
+    family: "blue"
+  },
+  { 
+    id: 82,
+    name: "Champagne Gold",
+    colors: ["#2C2C2C", "#5C5C5C", "#B89B7B", "#E5C9A7", "#F7EAD5"],
+    style: "Luxury",
+    family: "gold"
+  },
+  { 
+    id: 83,
+    name: "Retro Diner",
+    colors: ["#D14D4D", "#F09B5E", "#F5D06B", "#7BA39D", "#4A6B8F"],
+    style: "Retro",
+    family: "red"
+  },
+  { 
+    id: 84,
+    name: "Whisper Pink",
+    colors: ["#FCE4EC", "#F8BBD9", "#F48FB1", "#F06292", "#EC407A"],
+    style: "Pastel",
+    family: "pink"
+  },
+  { 
+    id: 85,
+    name: "Ancient Scroll",
+    colors: ["#4A3B2C", "#6B5A48", "#9C8A73", "#CBBBA0", "#E5D9C7"],
+    style: "Vintage",
+    family: "brown"
+  },
+  { 
+    id: 86,
+    name: "Electric Storm",
+    colors: ["#1A2639", "#2E3B4E", "#4A5C6E", "#7B8C9E", "#D4AF37"],
+    style: "Luxury",
+    family: "gray"
+  },
+  { 
+    id: 87,
+    name: "Botanical Study",
+    colors: ["#2F5230", "#4F7A4B", "#7FA86A", "#B7D7A8", "#E2F0D6"],
+    style: "Nature",
+    family: "green"
+  },
+  { 
+    id: 88,
+    name: "Coral Reef",
+    colors: ["#FF6B6B", "#FF8E72", "#FFB17A", "#6EC4B6", "#4A9BAA"],
+    style: "Nature",
+    family: "orange"
+  },
+  { 
+    id: 89,
+    name: "Monochrome Studio",
+    colors: ["#1A1A1A", "#4D4D4D", "#808080", "#B3B3B3", "#E6E6E6"],
+    style: "Minimal",
+    family: "gray"
+  },
+  { 
+    id: 90,
+    name: "Harvest Moon",
+    colors: ["#3A281F", "#6B4F3C", "#A67C5B", "#D9B382", "#F5E1C0"],
+    style: "Nature",
+    family: "brown"
+  },
+  { 
+    id: 91,
+    name: "Vintage Hollywood",
+    colors: ["#2D2327", "#4A3637", "#7A5B4E", "#C49A6C", "#E5D1B3"],
+    style: "Vintage",
+    family: "brown"
+  },
+  { 
+    id: 92,
+    name: "Cyber Mint",
+    colors: ["#0F2027", "#203A43", "#2C5364", "#0B845C", "#B6E6BD"],
+    style: "Minimal",
+    family: "green"
+  },
+  { 
+    id: 93,
+    name: "Lavender Honey",
+    colors: ["#6A4C93", "#8B6EB5", "#AC92CE", "#CDB5E8", "#F2E3D5"],
+    style: "Luxury",
+    family: "purple"
+  },
+  { 
+    id: 94,
+    name: "Retro Wave",
+    colors: ["#231B42", "#3F2B5C", "#7B3E6F", "#E86A6A", "#FFB347"],
+    style: "Retro",
+    family: "purple"
+  },
+  { 
+    id: 95,
+    name: "Silk Road",
+    colors: ["#8B3A3A", "#B85C3A", "#D6844A", "#EAB86A", "#F5EACE"],
+    style: "Vintage",
+    family: "red"
+  },
+  { 
+    id: 96,
+    name: "Pacific Coast",
+    colors: ["#005F73", "#0A9396", "#94D2BD", "#E9D8A6", "#EE9B00"],
+    style: "Nature",
+    family: "teal"
+  },
+  { 
+    id: 97,
+    name: "Matte Velvet",
+    colors: ["#2E1B3D", "#4A2C4A", "#6D4457", "#9E6B64", "#D4A77C"],
+    style: "Luxury",
+    family: "purple"
+  },
+  { 
+    id: 98,
+    name: "Cloud Nine",
+    colors: ["#D6E2E9", "#BCD4E6", "#9FB7D9", "#819BB8", "#627A97"],
+    style: "Pastel",
+    family: "blue"
+  },
+  { 
+    id: 99,
+    name: "Industrial Loft",
+    colors: ["#2C2C2C", "#4E4E4E", "#767676", "#B0B0B0", "#D77A3E"],
+    style: "Minimal",
+    family: "orange"
+  },
+  { 
+    id: 100,
+    name: "Royal Decadence",
+    colors: ["#1A1423", "#3D2B3D", "#5D3F4F", "#9E6D6D", "#D4AF37"],
+    style: "Luxury",
+    family: "gold"
+  },
+  { 
+    id: 101,
+    name: "Summer Fade",
+    colors: ["#FAD0C4", "#FEE7E0", "#FFF2E5", "#C9E4DE", "#B5D6D6"],
+    style: "Pastel",
+    family: "pink"
+  },
+  { 
+    id: 102,
+    name: "Noir Cinema",
+    colors: ["#1E1E1E", "#3A3A3A", "#5A5A5A", "#8A8A8A", "#C0C0C0"],
+    style: "Minimal",
+    family: "black"
+  },
+  { 
+    id: 103,
+    name: "Enchanted Forest",
+    colors: ["#1A3B2E", "#2C5A3A", "#3E7946", "#6A9C78", "#A7C5A3"],
+    style: "Nature",
+    family: "green"
+  },
+  { 
+    id: 104,
+    name: "Amber Glow",
+    colors: ["#442B1D", "#6B4226", "#9C5E2F", "#CD823A", "#F5B45C"],
+    style: "Nature",
+    family: "orange"
+  },
+  { 
+    id: 105,
+    name: "Retro Candy",
+    colors: ["#FFB3BA", "#FFDFBA", "#FFFFBA", "#BAFFC9", "#BAE1FF"],
+    style: "Retro",
+    family: "pastel"
+  },
+  { 
+    id: 106,
+    name: "Black Opal",
+    colors: ["#0F0F0F", "#1F2A3A", "#2F456A", "#4F6D8A", "#7AA5B5"],
+    style: "Luxury",
+    family: "black"
+  },
+  { 
+    id: 107,
+    name: "Vintage Map",
+    colors: ["#5F4B3A", "#7F684A", "#9F856A", "#BFA88A", "#DFCBAA"],
+    style: "Vintage",
+    family: "brown"
+  },
+  { 
+    id: 108,
+    name: "Berry Smoothie",
+    colors: ["#6A2E4A", "#8E3A5E", "#B24A72", "#D66A96", "#F29AC6"],
+    style: "Pastel",
+    family: "pink"
+  },
+  { 
+    id: 109,
+    name: "Minimalist Hue",
+    colors: ["#F8F9FA", "#E9ECEF", "#DEE2E6", "#212529", "#0D6EFD"],
+    style: "Minimal",
+    family: "blue"
+  },
+  { 
+    id: 110,
+    name: "Desert Oasis",
+    colors: ["#C97C5B", "#B4725A", "#8F6B5C", "#5F6C5B", "#3F6A5A"],
+    style: "Nature",
+    family: "earth"
+  },
+  
+  { 
+    id: 111,
+    name: "Cotton Candy Sky",
+    colors: ["#E2C2FF", "#D4B2FF", "#C4A2FF", "#B8D8FF", "#D4F0FF"],
+    style: "Pastel",
+    family: "purple"
+  },
+  { 
+    id: 112,
+    name: "Seafoam Dream",
+    colors: ["#C7E9D0", "#B2DEC6", "#9ED3BB", "#8AC8B1", "#76BDA6"],
+    style: "Pastel",
+    family: "green"
+  },
+  { 
+    id: 113,
+    name: "Buttercream",
+    colors: ["#FFF2CC", "#FFE5A3", "#FFD97A", "#FCE38A", "#FFF9C4"],
+    style: "Pastel",
+    family: "yellow"
+  },
+  { 
+    id: 114,
+    name: "Lilac Mist",
+    colors: ["#E6D7FF", "#DCCBFF", "#D2BFFF", "#C8B3FF", "#BEA7FF"],
+    style: "Pastel",
+    family: "purple"
+  },
+  { 
+    id: 115,
+    name: "Peach Sorbet",
+    colors: ["#FFE0D4", "#FFD1C0", "#FFC2AC", "#FFB398", "#FFA484"],
+    style: "Pastel",
+    family: "orange"
+  },
+  { 
+    id: 116,
+    name: "Fairy Frost",
+    colors: ["#E0F2FE", "#D0EAFD", "#C0E2FC", "#B0DAFB", "#A0D2FA"],
+    style: "Pastel",
+    family: "blue"
+  },
+  { 
+    id: 117,
+    name: "Macaron Morning",
+    colors: ["#FFD9DA", "#FFC8CD", "#FFB7C0", "#F2D7D5", "#F0E2D0"],
+    style: "Pastel",
+    family: "pink"
+  },
+  { 
+    id: 118,
+    name: "Water Lily",
+    colors: ["#E5D9F2", "#DCCDF0", "#D3C1EE", "#CAB5EC", "#C1A9EA"],
+    style: "Pastel",
+    family: "purple"
+  },
+  { 
+    id: 119,
+    name: "Marshmallow Sky",
+    colors: ["#E3F0FF", "#D6E9FF", "#C9E2FF", "#BCDBFF", "#AFD4FF"],
+    style: "Pastel",
+    category: "blue"
+  },
+  { 
+    id: 120,
+    name: "Vanilla Cream",
+    colors: ["#FFF9E6", "#FFF5D9", "#FFF1CC", "#FFEDBF", "#FFE9B2"],
+    style: "Pastel",
+    family: "yellow"
+  },
+   // ===== INDIAN LUXURY (5 palettes) =====
+  { 
+    id: 121,
+    name: "Royal Jaipur",
+    colors: ["#E04F39", "#FF9933", "#F7C35C", "#D4A59A", "#7A4D3A"],
+    style: "Luxury",
+    family: "orange",
+    inspiration: "Inspired by the pink city's palaces and the warm sandstone of Hawa Mahal"
+  },
+  { 
+    id: 122,
+    name: "Bollywood Gold",
+    colors: ["#800020", "#C49A2B", "#F5E7B2", "#4A2C2A", "#D4AF37"],
+    style: "Luxury",
+    family: "red",
+    inspiration: "Deep burgundy (wine red) paired with opulent gold - the colors of Indian celebration"
+  },
+  { 
+    id: 123,
+    name: "Maharaja's Turban",
+    colors: ["#702963", "#D4AF37", "#E6B800", "#2E1A47", "#C06B8A"],
+    style: "Luxury",
+    family: "purple",
+    inspiration: "Royal purple traditionally worn by Indian royalty, accented with pure gold"
+  },
+  { 
+    id: 124,
+    name: "Spice Bazaar",
+    colors: ["#C46210", "#E3A857", "#9B2C2C", "#4A7029", "#F5E1A4"],
+    style: "Luxury",
+    family: "orange",
+    inspiration: "Turmeric yellow, saffron orange, cardamom green - India's precious spices [citation:1]"
+  },
+  { 
+    id: 125,
+    name: "Taj Mahal Dawn",
+    colors: ["#F5E6D3", "#C0A080", "#7E5E4A", "#3A6B8F", "#D4B28C"],
+    style: "Luxury",
+    family: "neutral",
+    inspiration: "White marble with aged patina, accented by the reflecting pool's blue"
+  },
+  
+  // ===== AMERICAN LUXURY (4 palettes) =====
+  { 
+    id: 126,
+    name: "Old Hollywood Glamour",
+    colors: ["#1A1A1A", "#BFA77A", "#E8DCCA", "#A52A2A", "#F5F0E6"],
+    style: "Luxury",
+    family: "gold",
+    inspiration: "Black tie elegance with champagne and crimson velvet"
+  },
+  { 
+    id: 127,
+    name: "Manhattan Penthouse",
+    colors: ["#2C2C2C", "#5F5F5F", "#9F9F9F", "#C0C0C0", "#1E3A5F"],
+    style: "Luxury",
+    family: "gray",
+    inspiration: "Steel and glass skyscraper sophistication with deep navy accents"
+  },
+  { 
+    id: 128,
+    name: "Aspen Winter",
+    colors: ["#2B4F6E", "#7D9EB5", "#D6E2EA", "#9E7B56", "#F5F5F5"],
+    style: "Luxury",
+    family: "blue",
+    inspiration: "Mountain lodge luxury - alpine blue with warm wood tones"
+  },
+  { 
+    id: 129,
+    name: "Napa Valley Reserve",
+    colors: ["#722F37", "#B76E79", "#D4A59A", "#5A4C3E", "#C2A27F"],
+    style: "Luxury",
+    family: "red",
+    inspiration: "Cabernet sauvignon reds aged in oak, vineyard earth tones"
+  },
+  
+  // ===== ITALIAN LUXURY (4 palettes) =====
+  { 
+    id: 130,
+    name: "Milano Portaluppi",
+    colors: ["#1E3F3F", "#8B3A3A", "#6B4C3C", "#D2B48C", "#C0A040"],
+    style: "Luxury",
+    family: "green",
+    inspiration: "Piero Portaluppi's Milanese Rationalist palette - verde alpí and merlot red [citation:4]"
+  },
+  { 
+    id: 131,
+    name: "Roman Palazzo",
+    colors: ["#B87A4D", "#DCC7A1", "#6A4E3A", "#9E2A2B", "#CFB53B"],
+    style: "Luxury",
+    family: "brown",
+    inspiration: "Travertine marble, terracotta, and ancient bronze"
+  },
+  { 
+    id: 132,
+    name: "Venetian Velvet",
+    colors: ["#0A2F44", "#9F2D3E", "#C7A252", "#EADAB9", "#4F2D3F"],
+    style: "Luxury",
+    family: "blue",
+    inspiration: "Grand Canal at dusk - deep blue waters, burgundy velvets, aged gold"
+  },
+  { 
+    id: 133,
+    name: "Tuscan Villa",
+    colors: ["#C68B5E", "#DAA06D", "#E8C39E", "#8F7A5A", "#3F704D"],
+    style: "Luxury",
+    family: "orange",
+    inspiration: "Cypress trees, olive groves, sun-baked terracotta"
+  },
+  
+  // ===== FRENCH LUXURY (4 palettes) =====
+  { 
+    id: 134,
+    name: "Parisian Apartment",
+    colors: ["#D6C6B6", "#A6907C", "#6F5E50", "#9A463D", "#C2A758"],
+    style: "Luxury",
+    family: "neutral",
+    inspiration: "Haussmannian limestone, herringbone oak, subtle gilt accents"
+  },
+  { 
+    id: 135,
+    name: "Château Bordeaux",
+    colors: ["#4A2C2A", "#7E4B3A", "#B47C5A", "#D4AF37", "#2A3A4A"],
+    style: "Luxury",
+    family: "brown",
+    inspiration: "Wine cellars, leather-bound books, antique gold leaf"
+  },
+  { 
+    id: 136,
+    name: "French Riviera",
+    colors: ["#1B4B6C", "#4E8BBE", "#F5E6D3", "#E6B422", "#B76E79"],
+    style: "Luxury",
+    family: "blue",
+    inspiration: "Mediterranean azure, belle époque glamour, sun-drenched villas"
+  },
+  { 
+    id: 137,
+    name: "Gonalons Atelier",
+    colors: ["#F2D5D0", "#D4B2A0", "#B28A7C", "#7BA39D", "#CFA3BF"],
+    style: "Luxury",
+    family: "pink",
+    inspiration: "Poudre de riz, celadon, and bleu des Vosges - French refinement [citation:3]"
+  },
+  
+  // ===== MOROCCAN LUXURY (3 palettes) =====
+  { 
+    id: 138,
+    name: "Marrakech Palace",
+    colors: ["#1E4460", "#C84C3D", "#F2C744", "#4B7A5A", "#D9B382"],
+    style: "Luxury",
+    family: "blue",
+    inspiration: "Cobalt blue zellige tiles, ruby red silks, golden accents [citation:7]"
+  },
+  { 
+    id: 139,
+    name: "Souk des Épices",
+    colors: ["#D2691E", "#E6B422", "#9B2C2C", "#2C5F2D", "#6F4E3A"],
+    style: "Luxury",
+    family: "orange",
+    inspiration: "Spice market richness - saffron, paprika, mint tea, and leather"
+  },
+  { 
+    id: 140,
+    name: "Fez Midnight",
+    colors: ["#191970", "#2A52BE", "#C49A2B", "#7A4D3A", "#D4B28C"],
+    style: "Luxury",
+    family: "blue",
+    inspiration: "Indigo-dyed textiles, brass lanterns, ancient medina walls"
+  },
+  
+  // ===== JAPANESE LUXURY (3 palettes) =====
+  { 
+    id: 141,
+    name: "Kyoto Imperial",
+    colors: ["#7A4D3A", "#B67A4B", "#D4AF37", "#4A6B5A", "#F5F0E6"],
+    style: "Luxury",
+    family: "brown",
+    inspiration: "Ancient temple wood, gold leaf screens, matcha ceremony"
+  },
+  { 
+    id: 142,
+    name: "Auralee Tonal",
+    colors: ["#A39B8B", "#7F7665", "#5F5647", "#DAB47C", "#9A7D4C"],
+    style: "Luxury",
+    family: "neutral",
+    inspiration: "Japanese minimalist luxury - sophisticated heather tones and mustard yellows [citation:6]"
+  },
+  { 
+    id: 143,
+    name: "Rin-no-Tama",
+    colors: ["#B22222", "#D4AF37", "#000000", "#F5F5F5", "#2E4A3A"],
+    style: "Luxury",
+    family: "red",
+    inspiration: "Lacquerware red, gold leaf, calligraphy ink - timeless elegance"
+  },
+  
+  // ===== BRITISH LUXURY (3 palettes) =====
+  { 
+    id: 144,
+    name: "Royal Ascot",
+    colors: ["#1B4B3B", "#9F8B6B", "#D4AF37", "#7A2E2E", "#F5F0E6"],
+    style: "Luxury",
+    family: "green",
+    inspiration: "Hunter green, tweed, royal gold, and racing crimson"
+  },
+  { 
+    id: 145,
+    name: "Mayfair Townhouse",
+    colors: ["#36454F", "#7F6E5C", "#C0A080", "#8B3A3A", "#E8DCCA"],
+    style: "Luxury",
+    family: "gray",
+    inspiration: "Georgian elegance - charcoal flannel, leather, mahogany"
+  },
+  { 
+    id: 146,
+    name: "Divine Damson",
+    colors: ["#614E6B", "#7D5D7A", "#9B7B9C", "#C49A6C", "#F5E1C0"],
+    style: "Luxury",
+    family: "purple",
+    inspiration: "Graham & Brown's Colour of the Year 2026 - rich plum with timeless appeal [citation:9]"
+  },
+  
+  // ===== RUSSIAN LUXURY (3 palettes) =====
+  { 
+    id: 147,
+    name: "Winter Palace",
+    colors: ["#1A4D3E", "#7D5535", "#C49A2B", "#9E2A2B", "#F5F0E6"],
+    style: "Luxury",
+    family: "green",
+    inspiration: "Malachite rooms, amber, imperial gold, and malinovyi crimson"
+  },
+  { 
+    id: 148,
+    name: "Moscow Noir",
+    colors: ["#2F2F2F", "#4A4A4A", "#C49A2B", "#6B2D2D", "#F5F5F5"],
+    style: "Luxury",
+    family: "black",
+    inspiration: "Anthracite, sapphire depths, emerald richness with gold accents [citation:8]"
+  },
+  { 
+    id: 149,
+    name: "Fabergé Egg",
+    colors: ["#7AA5B5", "#D4AF37", "#9E2A2B", "#A0522D", "#F5E6D3"],
+    style: "Luxury",
+    family: "blue",
+    inspiration: "Enameled treasures - robin's egg blue, guilloché gold, ruby red"
+  },
+  
+  // ===== CHINESE LUXURY (3 palettes) =====
+  { 
+    id: 150,
+    name: "Forbidden City",
+    colors: ["#9E2A2B", "#D4AF37", "#2E4A3A", "#4A2C2A", "#F5E6D3"],
+    style: "Luxury",
+    family: "red",
+    inspiration: "Imperial red, golden rooftiles, jade green, ancient lacquer"
+  },
+  { 
+    id: 151,
+    name: "Shanghai Moderne",
+    colors: ["#2A2A2A", "#C0C0C0", "#D4AF37", "#9E2A2B", "#4A6B8F"],
+    style: "Luxury",
+    family: "gray",
+    inspiration: "Art Deco Shanghai - chrome, gold, lacquer red, Shanghai blue"
+  },
+  { 
+    id: 152,
+    name: "Zi Yun Hua Ying",
+    colors: ["#F0CFE3", "#DCC7E1", "#A67EB7", "#7D5284", "#420B2F"],
+    style: "Luxury",
+    family: "purple",
+    inspiration: "Traditional Chinese purple gradations - from dawn pink to deep imperial violet [citation:10]"
+  },
+   { 
+    id: 153,
+    name: "Atomic Diner",
+    colors: ["#F5D742", "#F28C38", "#E34A2F", "#6AB0D6", "#E5E1D1"],
+    style: "Retro",
+    family: "yellow",
+    inspiration: "1950s Americana - chrome diners, jukebox neon, and pastel Formica countertops"
+  },
+  { 
+    id: 154,
+    name: "Mod London",
+    colors: ["#C43E3E", "#FADF63", "#2D6E8F", "#E0E0E0", "#2B2B2B"],
+    style: "Retro",
+    family: "red",
+    inspiration: "1960s Carnaby Street - Union Jack boldness, Op Art contrast, and mod minimalist sophistication"
+  },
+  { 
+    id: 155,
+    name: "Disco Fever",
+    colors: ["#E6B422", "#C85A8F", "#46A49C", "#A63569", "#2E1A47"],
+    style: "Retro",
+    family: "purple",
+    inspiration: "1970s Studio 54 - mirrorball shimmer, velvet ropes, and glitterball glamour"
+  },
+  { 
+    id: 156,
+    name: "Miami Vice",
+    colors: ["#FF6F91", "#FF9671", "#FFC75F", "#4A8FE4", "#A67CFF"],
+    style: "Retro",
+    family: "pink",
+    inspiration: "1980s Miami pastels - neon sunsets, pastel blazers, and ocean drive art deco"
+  },
+  { 
+    id: 157,
+    name: "Memphis Milano",
+    colors: ["#F7C242", "#E34A6F", "#4B9CD3", "#D9B48F", "#2C2C2C"],
+    style: "Retro",
+    family: "multi",
+    inspiration: "1980s Memphis Group - Ettore Sottsass radical geometries, laminate patterns, and playful irony"
+  },
+  
+  // ===== NEO-RETRO (Modern Vintage Revival) =====
+  { 
+    id: 158,
+    name: "Neo-Memphis",
+    colors: ["#FADF63", "#F28C8C", "#8AB3CF", "#C8A2C8", "#2F4F4F"],
+    style: "Retro",
+    family: "yellow",
+    inspiration: "Contemporary Memphis revival - softened geometries, muted neons, and postmodern sophistication"
+  },
+  { 
+    id: 159,
+    name: "Synthwave Sunset",
+    colors: ["#FF3A5E", "#B63E96", "#2B0F54", "#00C2BA", "#F9C80E"],
+    style: "Retro",
+    family: "purple",
+    inspiration: "Neo-80s synthwave - outrun sunsets, cyberpunk grids, and retrowave nostalgia"
+  },
+  { 
+    id: 160,
+    name: "Vaporwave Dreams",
+    colors: ["#A3C9F1", "#F2B9D9", "#C5A1D4", "#5BC8AF", "#D4A5A5"],
+    style: "Retro",
+    family: "blue",
+    inspiration: "Vaporwave aesthetic - glitched-out Greco-Roman busts, Windows 95, and liminal space nostalgia"
+  },
+  { 
+    id: 161,
+    name: "Neo-Deco",
+    colors: ["#D4AF37", "#1E2F4A", "#C44C4C", "#A67B5B", "#E5E1D1"],
+    style: "Retro",
+    family: "gold",
+    inspiration: "Art Deco revival - contemporary takes on Gatsby-era glamour with modern metallics"
+  },
+  { 
+    id: 162,
+    name: "Cassette Futurism",
+    colors: ["#E34A6F", "#2B4F6E", "#F5D742", "#4A8FE4", "#A5697A"],
+    style: "Retro",
+    family: "red",
+    inspiration: "Analog future - retro-futurism from the 70s and 80s, like alien landscapes on vinyl covers"
+  },
+    // ===== MODERN BOLD MINIMALIST =====
+  { 
+    id: 163,
+    name: "Crimson Edge",
+    colors: ["#1E1E1E", "#F5F5F5", "#D32F2F", "#B71C1C", "#EF9A9A"],
+    style: "Minimal",
+    family: "red"
+  },
+  { 
+    id: 164,
+    name: "Electric Cobalt",
+    colors: ["#0B1E33", "#D6E6F5", "#1E4A7A", "#2979FF", "#B0C4DE"],
+    style: "Minimal",
+    family: "blue"
+  },
+  { 
+    id: 165,
+    name: "Minimal Amber",
+    colors: ["#2C2C2C", "#FAF0E6", "#FF8C42", "#BF6F2C", "#FFF3E0"],
+    style: "Minimal",
+    family: "orange"
+  },
+  { 
+    id: 166,
+    name: "Frost Teal",
+    colors: ["#1A2F3A", "#E0F2F1", "#006064", "#00ACC1", "#B2EBF2"],
+    style: "Minimal",
+    family: "teal"
+  },
+  { 
+    id: 167,
+    name: "Razor Pink",
+    colors: ["#0D0D0D", "#FFFFFF", "#E91E63", "#AD1457", "#F8BBD9"],
+    style: "Minimal",
+    family: "pink"
+  },
+  { 
+    id: 168,
+    name: "Solar Flare",
+    colors: ["#1C0F2B", "#F9F3E6", "#FECB2E", "#F79D1C", "#E0B0FF"],
+    style: "Minimal",
+    family: "yellow"
+  },
+  { 
+    id: 169,
+    name: "Graphite Mint",
+    colors: ["#2E3B3B", "#F0F7F4", "#1F7A5C", "#0B5345", "#A3E4D7"],
+    style: "Minimal",
+    family: "green"
+  },
+  { 
+    id: 170,
+    name: "Ultramarine Focus",
+    colors: ["#0F1A2F", "#EDF2F9", "#3F51B5", "#1A237E", "#9FA8DA"],
+    style: "Minimal",
+    family: "blue"
+  },
+  { 
+    id: 171,
+    name: "Violet Contrast",
+    colors: ["#1A142B", "#F2EAF9", "#8A4FFF", "#5A2D8C", "#D1B3FF"],
+    style: "Minimal",
+    family: "purple"
+  },
+  { 
+    id: 172,
+    name: "Scarlet Minimal",
+    colors: ["#1C1C1C", "#FFFFFF", "#C62828", "#8B0000", "#FFCDD2"],
+    style: "Minimal",
+    family: "red"
+  },
+   // ===== FUNKY RETRO =====
+  { 
+    id: 173,
+    name: "Psychedelic Groove",
+    colors: ["#F9423E", "#FFD639", "#00A79D", "#8A4FFF", "#FF8ED4"],
+    style: "Retro",
+    family: "multi"
+  },
+  { 
+    id: 174,
+    name: "Funky Disco",
+    colors: ["#E84342", "#F39C12", "#2ECC71", "#3498DB", "#9B59B6"],
+    style: "Retro",
+    family: "multi"
+  },
+  { 
+    id: 175,
+    name: "Funky Punch",
+    colors: ["#FF6B6B", "#4ECDC4", "#FFE66D", "#C7B9FF", "#FF9F1C"],
+    style: "Retro",
+    family: "multi"
+  },
+  { 
+    id: 176,
+    name: "Funky Tropical",
+    colors: ["#FF9F1C", "#2EC4B6", "#E71D36", "#FFBF69", "#CBF0F0"],
+    style: "Retro",
+    family: "multi"
+  },
+  { 
+    id: 177,
+    name: "Funky Soul",
+    colors: ["#702963", "#FFB347", "#40E0D0", "#FF6F61", "#FADF63"],
+    style: "Retro",
+    family: "multi"
+  },
+    { 
+    id: 178,
+    name: "Digital Lavender",
+    colors: ["#1E1E2F", "#B8A9D9", "#E5D9F2", "#6B4E71", "#A291C4"],
+    style: "Minimal",
+    family: "purple"
+  },
+  { 
+    id: 179,
+    name: "Neo Mint",
+    colors: ["#0F2B25", "#B6E5D8", "#F0F7F4", "#206A5D", "#8FD5C6"],
+    style: "Minimal",
+    family: "green"
+  },
+  { 
+    id: 180,
+    name: "Terracotta Dream",
+    colors: ["#4A2C2A", "#C97B5E", "#F2D0A7", "#8A6E4B", "#E5C5A0"],
+    style: "Nature",
+    family: "orange"
+  },
+  { 
+    id: 181,
+    name: "Cyber Lime",
+    colors: ["#0F0F0F", "#E0E0E0", "#BFFF00", "#7FAA00", "#3A3A3A"],
+    style: "Retro",
+    family: "green"
+  },
+  { 
+    id: 182,
+    name: "Soft Peach Blush",
+    colors: ["#FFE5D9", "#FFD1C0", "#FBB89C", "#F09B7E", "#E07A5F"],
+    style: "Pastel",
+    family: "orange"
+  },
+  { 
+    id: 183,
+    name: "Deep Indigo Night",
+    colors: ["#0B1A33", "#2C3E66", "#5A6F9E", "#A5B8D9", "#C6D9F0"],
+    style: "Luxury",
+    family: "blue"
+  },
+  { 
+    id: 184,
+    name: "Warm Sand Dune",
+    colors: ["#3A2F2A", "#6B5A4E", "#A48C7A", "#D9C5B3", "#F0E1D0"],
+    style: "Vintage",
+    family: "neutral"
+  },
+  { 
+    id: 185,
+    name: "Electric Coral",
+    colors: ["#1E1E1E", "#FF6B6B", "#FF8E72", "#FFB17A", "#F5F5F5"],
+    style: "Retro",
+    family: "orange"
+  },
+  { 
+    id: 186,
+    name: "Dusty Cedar",
+    colors: ["#4A3B34", "#7A5E4F", "#A67B6E", "#D4A59A", "#F0D9CC"],
+    style: "Vintage",
+    family: "brown"
+  },
+  { 
+    id: 187,
+    name: "Opulent Plum",
+    colors: ["#1A142B", "#3D2A3D", "#6B4E6B", "#A27C9C", "#D4B7C9"],
+    style: "Luxury",
+    family: "purple"
+  },
+  
+  // ===== 2026-27 TREND FORECAST =====
+  { 
+    id: 188,
+    name: "Quiet Contour",
+    colors: ["#F5F5F5", "#E0E0E0", "#9E9E9E", "#616161", "#BBDEFB"],
+    style: "Minimal",
+    family: "neutral"
+  },
+  { 
+    id: 189,
+    name: "Y2K Glitch",
+    colors: ["#E34A6F", "#FADF63", "#4B9CD3", "#A67CFF", "#2B2B2B"],
+    style: "Retro",
+    family: "multi"
+  },
+  { 
+    id: 190,
+    name: "Cloud Puff",
+    colors: ["#FED7C1", "#FDE2C4", "#FEF9C3", "#D9F0EC", "#E0D4F0"],
+    style: "Pastel",
+    family: "pink"
+  },
+  { 
+    id: 191,
+    name: "Faded Memories",
+    colors: ["#B7A99A", "#9C8A7A", "#7C6A5A", "#D4C2B2", "#EADBC8"],
+    style: "Vintage",
+    family: "brown"
+  },
+  { 
+    id: 192,
+    name: "Canopy Twilight",
+    colors: ["#1A3B2E", "#2D5A4B", "#4A7C6B", "#9BBF9A", "#D4C9A6"],
+    style: "Nature",
+    family: "green"
+  },
+  { 
+    id: 193,
+    name: "Noir Opulence",
+    colors: ["#0F0F0F", "#2C2C2C", "#C6A75E", "#A67C52", "#F5E6D3"],
+    style: "Luxury",
+    family: "gold"
+  },
+  { 
+    id: 194,
+    name: "Arctic Calm",
+    colors: ["#F0F4F8", "#D9E2EC", "#BCCCDB", "#9FB0C0", "#5F7D9C"],
+    style: "Minimal",
+    family: "blue"
+  },
+  { 
+    id: 195,
+    name: "Cassette Pop",
+    colors: ["#F28C38", "#E34A2F", "#FADF63", "#4B9CD3", "#A63569"],
+    style: "Retro",
+    family: "multi"
+  },
+  { 
+    id: 196,
+    name: "Lavender Sachet",
+    colors: ["#E6E6FA", "#D8D0F0", "#CAB8E6", "#B8A2D4", "#9F8AC0"],
+    style: "Pastel",
+    family: "purple"
+  },
+  { 
+    id: 197,
+    name: "Desert Bloom",
+    colors: ["#C97B5E", "#E8A87C", "#E27D60", "#85DCB0", "#41B3A3"],
+    style: "Nature",
+    family: "orange"
+  }
+
+
+
+];

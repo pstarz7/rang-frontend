@@ -5,17 +5,13 @@ import {
   LayoutDashboard, 
   Compass, 
   LogOut, 
-  Menu, 
   X, 
   Zap,
   FolderOpen,
-  User,
   ChevronDown,
   Camera,
-  ShieldCheck,
-  ArrowRight,
-  Sparkles,
-  Command
+  Command,
+  ChevronRight
 } from 'lucide-react';
 import { useAuth } from '../../context/AuthContext';
 
@@ -44,10 +40,10 @@ const Navbar = () => {
   }, [isMobileMenuOpen]);
 
   const navLinks = [
-    { name: 'Generate', path: '/generate', icon: <Zap size={14} /> },
-    { name: 'Explore', path: '/explore', icon: <Compass size={14} /> },
-    { name: 'Collage', path: '/collage', icon: <Camera size={14} /> },
-    { name: 'Library', path: '/library', icon: <FolderOpen size={14} /> },
+    { name: 'Generate', path: '/generate', icon: <Zap size={14} />, protected: false },
+    { name: 'Explore', path: '/explore', icon: <Compass size={14} />, protected: false },
+    { name: 'Collage', path: '/collage', icon: <Camera size={14} />, protected: true },
+    { name: 'Library', path: '/library', icon: <FolderOpen size={14} />, protected: true },
   ];
 
   const handleLogout = () => {
@@ -59,8 +55,23 @@ const Navbar = () => {
 
   const closeMobileMenu = () => setIsMobileMenuOpen(false);
 
+  // --- GATEKEEPER NAVIGATION LOGIC ---
+  const handleNavClick = (e, link) => {
+    if (link.protected && !user) {
+      e.preventDefault();
+      closeMobileMenu();
+      navigate('/signup'); 
+    } else {
+      closeMobileMenu();
+    }
+  };
+
   return (
-    <nav className={`fixed top-0 left-0 w-full z-[1000] px-3 md:px-10 transition-all duration-700 ease-in-out ${isScrolled ? 'py-4' : 'py-6 md:py-10'}`}>
+    <nav 
+      className={`fixed top-0 left-0 w-full z-[1000] px-3 md:px-10 transition-all duration-700 ease-in-out ${isScrolled ? 'py-4' : 'py-6 md:py-10'}`}
+      role="navigation"
+      aria-label="Main Navigation"
+    >
       <div className={`max-w-[1600px] mx-auto flex items-center justify-between transition-all duration-500 bg-white/80 backdrop-blur-3xl border border-white/20 px-4 md:px-6 py-3 rounded-[35px] md:rounded-[45px] shadow-[0_20px_70px_rgba(0,0,0,0.05)] ${isScrolled ? 'shadow-[0_40px_100px_rgba(0,0,0,0.1)] border-black/10' : ''}`}>
         
         {/* --- LOGO --- */}
@@ -68,9 +79,9 @@ const Navbar = () => {
           <div className="w-9 h-9 md:w-12 md:h-12 bg-black rounded-[15px] md:rounded-[18px] flex items-center justify-center text-white shadow-2xl group-hover:rotate-[15deg] transition-all duration-500">
             <Palette size={18} md:size={22} fill="currentColor" />
           </div>
-          <div className="flex flex-col">
+          <div className="flex flex-col text-left">
             <span className="text-lg md:text-3xl font-black tracking-tighter uppercase italic leading-none text-black">Rang.</span>
-            <span className="text-[7px] md:text-[9px] font-black uppercase tracking-[0.5em] text-slate-400 mt-1 opacity-60">Lab</span>
+            <span className="text-[7px] md:text-[9px] font-black uppercase tracking-[0.5em] text-slate-400 mt-1 opacity-60">Lab-beta</span>
           </div>
         </Link>
 
@@ -82,6 +93,7 @@ const Navbar = () => {
               <Link
                 key={link.path}
                 to={link.path}
+                onClick={(e) => handleNavClick(e, link)}
                 className={`flex items-center gap-2.5 px-6 py-3 rounded-[22px] text-[10px] font-black uppercase tracking-[0.25em] transition-all duration-500 ${
                   isActive ? 'bg-white text-black shadow-lg scale-105' : 'text-slate-400 hover:text-black'
                 }`}
@@ -99,6 +111,7 @@ const Navbar = () => {
             <div className="relative">
               <button 
                 onClick={() => setIsProfileOpen(!isProfileOpen)}
+                aria-label="Toggle user menu"
                 className="flex items-center gap-2 md:gap-3 p-1 pr-3 md:pr-5 bg-white border border-slate-100 rounded-full hover:shadow-xl transition-all duration-500"
               >
                 <div className="w-8 h-8 md:w-10 md:h-10 bg-black rounded-full flex items-center justify-center text-white text-[10px] md:text-[12px] font-black">
@@ -107,7 +120,6 @@ const Navbar = () => {
                 <ChevronDown size={14} className={`transition-transform duration-700 ${isProfileOpen ? 'rotate-180 text-black' : 'text-slate-300'}`} />
               </button>
 
-              {/* --- SIMPLIFIED PROFILE DROPDOWN (3 ITEMS) --- */}
               {isProfileOpen && (
                 <>
                   <div className="fixed inset-0 z-[-1]" onClick={() => setIsProfileOpen(false)} />
@@ -135,9 +147,10 @@ const Navbar = () => {
             </div>
           )}
 
-          {/* MOBILE TOGGLE (FIXED WITH CLOSE ICON) */}
+          {/* MOBILE TOGGLE (SMART SWITCH: COMMAND -> X) */}
           <button 
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            aria-label={isMobileMenuOpen ? "Close menu" : "Open menu"}
             className="lg:hidden w-10 h-10 flex items-center justify-center bg-slate-100 rounded-[15px] text-black hover:bg-black hover:text-white transition-all active:scale-90"
           >
             {isMobileMenuOpen ? <X size={20} /> : <Command size={20} />}
@@ -145,9 +158,20 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* --- MOBILE FULLSCREEN OVERLAY (FIXED) --- */}
+      {/* --- MOBILE FULLSCREEN OVERLAY --- */}
       {isMobileMenuOpen && (
-        <div className="lg:hidden fixed inset-0 w-full h-screen bg-white z-[1000] animate-in fade-in slide-in-from-top duration-500">
+        <div className="lg:hidden fixed inset-0 w-full h-screen bg-white z-[1000] animate-in fade-in slide-in-from-top duration-500 overflow-y-auto">
+          {/* Internal Close Button (Redundancy for A11y) */}
+          <div className="absolute top-10 right-10">
+              <button 
+                onClick={closeMobileMenu} 
+                className="w-12 h-12 bg-black text-white rounded-full flex items-center justify-center shadow-2xl active:scale-75 transition-all"
+                aria-label="Exit Menu"
+              >
+                <X size={24} />
+              </button>
+          </div>
+
           <div className="p-6 pt-32 h-full flex flex-col justify-between">
             <div className="space-y-3">
               <p className="text-[9px] font-black uppercase tracking-[0.5em] text-slate-300 mb-6 pl-4 border-l-2 border-black">Navigation Menu</p>
@@ -155,7 +179,7 @@ const Navbar = () => {
                 <Link
                   key={link.path}
                   to={link.path}
-                  onClick={closeMobileMenu}
+                  onClick={(e) => handleNavClick(e, link)}
                   className={`flex items-center justify-between p-6 rounded-[30px] transition-all ${
                     location.pathname === link.path ? 'bg-black text-white shadow-2xl scale-105' : 'bg-slate-50 text-black active:scale-95'
                   }`}
@@ -164,7 +188,7 @@ const Navbar = () => {
                     <span className={location.pathname === link.path ? 'text-white' : 'text-slate-400'}>{link.icon}</span>
                     <span className="text-sm font-black uppercase tracking-widest">{link.name}</span>
                   </div>
-                  <ChevronDown size={18} className="-rotate-90 opacity-20" />
+                  <ChevronRight size={18} className="-rotate-90 opacity-20" />
                 </Link>
               ))}
             </div>

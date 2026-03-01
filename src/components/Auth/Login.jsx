@@ -88,7 +88,7 @@ const Login = () => {
             <input type="password" required className="w-full bg-slate-50 border border-transparent focus:border-black rounded-2xl py-4 px-6 outline-none transition-all font-bold" placeholder="••••••••" value={password} onChange={(e) => setPassword(e.target.value)} />
           </div>
           <button type="submit" className="w-full bg-black text-white py-5 rounded-2xl text-[11px] font-black uppercase tracking-widest shadow-2xl flex items-center justify-center gap-3 active:scale-95 transition-transform">
-            Authorize <ArrowRight size={16} />
+            Login <ArrowRight size={16} />
           </button>
         </form>
 

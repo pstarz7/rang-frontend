@@ -103,7 +103,7 @@ const Login = () => {
         <p className="mt-10 text-center text-xs font-bold text-slate-400">
           New to Rang? <Link to="/signup" className="text-black underline ml-1">Create Account</Link>
         </p>
-      </div>
+      </div> 
     </div>
   );
 };

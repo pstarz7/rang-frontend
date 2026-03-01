@@ -10,7 +10,7 @@ import Navbar from './components/Layout/Navbar';
 import LandingPage from './components/Layout/LandingPage';
 
 // Pages
-import Generatorpage from './pages/Generatorpage';
+import Generatorpage from './pages/GeneratorPage';
 import Dashboardpage from './pages/Dashboard'; 
 import Explorepage from './pages/Explore';
 import Librarypage from './pages/Library';

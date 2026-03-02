@@ -15,6 +15,7 @@ We wanted to create a workspace where a creator can:
 * **Visualize** work on actual UI mockups before writing a single line of CSS.
 * **Organize** assets into cloud-synced folders for real-world client projects.
 
+![Rang.Lab Mobile Preview](https://github.com/pstarz7/rang-frontend/blob/main/ranglab2.png?raw=true)
 ---
 
 ## 🧠 The Science: Color Logic & Perceptual Math

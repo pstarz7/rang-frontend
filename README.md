@@ -1,7 +1,7 @@
 # 🎨 Rang.Lab — Professional Color Design Studio
 
 **Rang.Lab** is a high-performance color workstation designed for artists, designers, and developers. It moves beyond standard random generators by using mathematical **LCH Perceptual Mapping** to ensure every palette is visually balanced, accessible, and production-ready.
-
+[RangLab Studio](https://ranglab.vercel.app/)
 ---
 
 ## 🚀 The Vision: Why Rang.Lab?
@@ -74,9 +74,9 @@ To deliver a studio-grade tool efficiently, I utilized **Generative AI** as a se
 ---
 
 ### 👨‍💻 Developed by
-**Dipu Badatya** *Full-Stack Developer based in Odisha, India*
+**papu Badatya** *Frtontend Focused Full-Stack Developer based in Odisha, India*
 
-[Portfolio](https://your-portfolio-link.com) • [LinkedIn](https://linkedin.com/in/your-handle) • [Instagram](https://instagram.com/your-handle)
+[RangLab Studio](https://ranglab.vercel.app/)  • [Portfolio](https://pstarz.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/papu-badatya-759767254/)x
 
 ---
 © 2026 Pstarz Creative Studio. Built for the Artist Community.

@@ -2,6 +2,8 @@
 
 **Rang.Lab** is a high-performance color workstation designed for artists, designers, and developers. It moves beyond standard random generators by using mathematical **LCH Perceptual Mapping** to ensure every palette is visually balanced, accessible, and production-ready.
 [RangLab Studio](https://ranglab.vercel.app/)
+
+![Rang.Lab Desktop Preview](https://github.com/pstarz7/rang-frontend/blob/main/ranglab.png?raw=true)
 ---
 
 ## 🚀 The Vision: Why Rang.Lab?

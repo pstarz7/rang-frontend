@@ -80,8 +80,8 @@ const Navbar = () => {
             <Palette size={18} md:size={22} fill="currentColor" />
           </div>
           <div className="flex flex-col text-left">
-            <span className="text-lg md:text-3xl font-black tracking-tighter uppercase italic leading-none text-black">Rang.</span>
-            <span className="text-[7px] md:text-[9px] font-black uppercase tracking-[0.5em] text-slate-400 mt-1 opacity-60">Lab-beta</span>
+            <span className="text-lg md:text-3xl font-black tracking-tighter leading-none text-[#1b263b]">RangLab</span>
+            <span className="text-[7px] md:text-[9px] font-black uppercase tracking-[0.5em] text-[#c1121f] mt-1 opacity-60">Studio-beta</span>
           </div>
         </Link>
 

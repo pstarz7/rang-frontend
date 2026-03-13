@@ -224,7 +224,7 @@ const LandingPage = () => {
           <div className="flex items-center gap-4">
              <div className="w-12 h-12 bg-black rounded-[18px] flex items-center justify-center text-white shadow-lg"><Palette size={24} /></div>
              <div className="flex flex-col text-left">
-                <span className="text-2xl font-black italic tracking-tighter uppercase leading-none text-black">Rang.Lab</span>
+                <span className="text-2xl font-black tracking-tighter uppercase leading-none text-black">RangLab</span>
                 <span className="text-[8px] font-black uppercase tracking-[0.3em] text-blue-600 mt-1">Color Studio • beta version</span>
              </div>
           </div>

@@ -131,7 +131,7 @@ const ExportModal = ({ onClose, colors = [] }) => {
               </div>
             ))}
             <div className="pt-6 text-center">
-               <h2 className="text-xl md:text-2xl font-black italic uppercase tracking-tighter text-black">Rang.Lab</h2>
+               <h2 className="text-xl md:text-2xl font-black italic uppercase tracking-tighter text-black">RangLab</h2>
                <p className="text-[7px] md:text-[8px] font-bold text-slate-300 uppercase tracking-[0.4em] mt-1">Color Palette for Artists</p>
             </div>
           </div>

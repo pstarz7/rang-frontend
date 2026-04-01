@@ -202,13 +202,13 @@ export const premiumPalettes = [
     "style": "Vintage",
     "family": "orange"
   },
-  {
-    "id": 30,
-    "name": "Victorian Velvet",
-    "colors": ["#FDFCF0", "#C19A6B", "#704214", "#4E0707", "#1A0F0F"],
-    "style": "Vintage",
-    "family": "red"
-  },
+{
+  "id": 30,
+  "name": "Victorian Velvet",
+  "colors": ["#FDFCF0", "#C19A6B", "#704214", "#4E0707", "#1A0F0F"],
+  "style": "Vintage",
+  "family": "red"
+},
 {
     "id": 31,
     "name": "Lunar Mono",
@@ -658,7 +658,7 @@ export const premiumPalettes = [
     "family": "green"
   },
   {
-    "id": 5,
+    "id": 95,
     "name": "Midnight Crimson",
     "colors": ["#FAFAFA", "#F4F4F5", "#991B1B", "#DC2626", "#18181B"],
     "style": "Minimal",
@@ -2064,6 +2064,86 @@ export const premiumPalettes = [
     "colors": ["#FAF5FF", "#E9D5FF", "#D8B4FE", "#A855F7", "#581C87"],
     "style": "Pastel",
     "family": "purple"
+  },
+  {
+    "id": 296,
+    "name": "Bubblegum Bounce",
+    "colors": ["#FF007F", "#7000FF", "#00E5FF", "#FFD700", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A high-energy, neon-adjacent palette for children's apps or snack branding."
+  },
+  {
+    "id": 297,
+    "name": "Sorbet Playground",
+    "colors": ["#FF8C94", "#FFAAA5", "#FFD3B6", "#DCE775", "#1E293B"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Warm fruit-toned tints grounded by a deep navy for readable text."
+  },
+  {
+    "id": 298,
+    "name": "Jelly Bean Mix",
+    "colors": ["#6366F1", "#EC4899", "#8B5CF6", "#FACC15", "#F8FAFC"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Vibrant purple and pink pulses with a sunny yellow 'action' button color."
+  },
+  {
+    "id": 299,
+    "name": "Arcade Pixel",
+    "colors": ["#000000", "#39FF14", "#FF3131", "#1F51FF", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Retro-gaming inspired primaries that 'pop' against dark UI containers."
+  },
+  {
+    "id": 300,
+    "name": "Sky-Blue Kite",
+    "colors": ["#0EA5E9", "#38BDF8", "#F472B6", "#FDE047", "#F0F9FF"],
+    "style": "Playful",
+    "family": "blue",
+    "note": "Optimistic summer vibes using bright blues and a playful magenta accent."
+  },
+  {
+    "id": 301,
+    "name": "Citrus Carnival",
+    "colors": ["#F97316", "#FB923C", "#A3E635", "#FFFFFF", "#064E3B"],
+    "style": "Playful",
+    "family": "orange",
+    "note": "Zesty orange and lime tones that feel fresh, bouncy, and organic."
+  },
+  {
+    "id": 302,
+    "name": "Confetti Parade",
+    "colors": ["#D946EF", "#06B6D4", "#F59E0B", "#10B981", "#0F172A"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A festive, multi-colored layout designed for gamified interfaces."
+  },
+  {
+    "id": 303,
+    "name": "Toon Town Teal",
+    "colors": ["#2DD4BF", "#FB7185", "#C084FC", "#FFF1F2", "#1E1B4B"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Modern 'Cartoon' aesthetic with high-contrast pastel-neon pairings."
+  },
+  {
+    "id": 304,
+    "name": "Sunny Sidewalk",
+    "colors": ["#FFD600", "#FF6B00", "#4D7C0F", "#F7FEE7", "#1A1A1A"],
+    "style": "Playful",
+    "family": "yellow",
+    "note": "High-visibility yellow and safety orange for energetic outdoor or sports apps."
+  },
+  {
+    "id": 305,
+    "name": "Grape Fizz",
+    "colors": ["#7C3AED", "#C026D3", "#22D3EE", "#FDF4FF", "#000000"],
+    "style": "Playful",
+    "family": "purple",
+    "note": "A liquid-smooth purple gradient with a refreshing splash of electric cyan."
   },
   {
     "id": 306,
@@ -3678,7 +3758,7 @@ export const premiumPalettes = [
     "note": "Cold iron greys warmed by a saturated, functional safety-orange tint."
   },
   {
-    "id": 30,
+    "id": 530,
     "name": "Cyber Parakeet",
     "colors": ["#052E16", "#166534", "#ADFF2F", "#00D1FF", "#F0FDF4"],
     "style": "Nature",
@@ -4061,7 +4141,1476 @@ export const premiumPalettes = [
     "family": "purple",
     "note": "Moody, dark-purple 'villain' aesthetic with glowing orange and crimson highlights."
   },
-
+  {
+    "id": 578,
+    "name": "Obsidian Flare",
+    "colors": ["#0F172A", "#F43F5E", "#FB923C", "#FDE047", "#F8FAFC"],
+    "style": "Minimal",
+    "family": "multi"
+  },
+  {
+    "id": 579,
+    "name": "Velvet Moss",
+    "colors": ["#1A2E05", "#3F6212", "#A3E635", "#BEF264", "#F7FEE7"],
+    "style": "Nature",
+    "family": "green"
+  },
+  {
+    "id": 580,
+    "name": "Indigo Graphite",
+    "colors": ["#1E1B4B", "#312E81", "#4338CA", "#818CF8", "#EEF2FF"],
+    "style": "Luxury",
+    "family": "blue"
+  },
+  {
+    "id": 581,
+    "name": "Retro Marmalade",
+    "colors": ["#451A03", "#9A3412", "#D97706", "#F59E0B", "#FFF7ED"],
+    "style": "Retro",
+    "family": "orange"
+  },
+  {
+    "id": 582,
+    "name": "Brutalist Zinc",
+    "colors": ["#000000", "#18181B", "#525252", "#D4D4D8", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "neutral"
+  },
+  {
+    "id": 583,
+    "name": "Petal Whisper",
+    "colors": ["#500724", "#881337", "#FB7185", "#FFF1F2", "#FFFFFF"],
+    "style": "Pastel",
+    "family": "pink"
+  },
+  {
+    "id": 584,
+    "name": "Vintage Teal",
+    "colors": ["#134E4A", "#0D9488", "#2DD4BF", "#99F6E4", "#F0FDFA"],
+    "style": "Vintage",
+    "family": "green"
+  },
+  {
+    "id": 585,
+    "name": "Bouncy Berry",
+    "colors": ["#4C0519", "#BE123C", "#E11D48", "#FB7185", "#FFF1F2"],
+    "style": "Playful",
+    "family": "red"
+  },
+  {
+    "id": 586,
+    "name": "Cyber Slate",
+    "colors": ["#020617", "#1E293B", "#38BDF8", "#0EA5E9", "#F1F5F9"],
+    "style": "Minimal",
+    "family": "blue"
+  },
+  {
+    "id": 587,
+    "name": "Orchid Luxe",
+    "colors": ["#2E1065", "#5B21B6", "#8B5CF6", "#C4B5FD", "#F5F3FF"],
+    "style": "Luxury",
+    "family": "purple"
+  },
+  {
+    "id": 588,
+    "name": "Forest Ember",
+    "colors": ["#064E3B", "#065F46", "#EA580C", "#FDBA74", "#F0FDFA"],
+    "style": "Nature",
+    "family": "multi"
+  },
+  {
+    "id": 589,
+    "name": "Neon Concrete",
+    "colors": ["#171717", "#262626", "#ADFF2F", "#D1D5DB", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "multi"
+  },
+  {
+    "id": 590,
+    "name": "Candy Cloud",
+    "colors": ["#701A75", "#C026D3", "#F06292", "#FBCFE8", "#FDF4FF"],
+    "style": "Pastel",
+    "family": "pink"
+  },
+  {
+    "id": 591,
+    "name": "Antique Ochre",
+    "colors": ["#422006", "#78350F", "#B45309", "#FDE68A", "#FEFCE8"],
+    "style": "Vintage",
+    "family": "yellow"
+  },
+  {
+    "id": 592,
+    "name": "Electric Meadow",
+    "colors": ["#052E16", "#166534", "#4ADE80", "#22D3EE", "#ECFEFF"],
+    "style": "Playful",
+    "family": "multi"
+  },
+  {
+    "id": 593,
+    "name": "Soot & Saffron",
+    "colors": ["#0A0A0A", "#262626", "#EAB308", "#FDE047", "#FAFAF9"],
+    "style": "Minimal",
+    "family": "yellow"
+  },
+  {
+    "id": 594,
+    "name": "Imperial Plum",
+    "colors": ["#310E0E", "#4C0519", "#881337", "#BE123C", "#F8FAFC"],
+    "style": "Luxury",
+    "family": "red"
+  },
+  {
+    "id": 595,
+    "name": "Deep Sea Bio",
+    "colors": ["#082F49", "#075985", "#06B6D4", "#22D3EE", "#CFFAFE"],
+    "style": "Nature",
+    "family": "blue"
+  },
+  {
+    "id": 596,
+    "name": "Acid Archive",
+    "colors": ["#000000", "#1A1A1A", "#CCFF00", "#404040", "#F5F5F5"],
+    "style": "Retro",
+    "family": "green"
+  },
+  {
+    "id": 597,
+    "name": "Sunset Brutalist",
+    "colors": ["#000000", "#DC2626", "#F97316", "#FB923C", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "orange"
+  },
+  {
+    "id": 598,
+    "name": "Ruby Graphite",
+    "colors": ["#450A0A", "#991B1B", "#DC2626", "#FCA5A5", "#F8FAFC"],
+    "style": "Luxury",
+    "family": "red"
+  },
+  {
+    "id": 599,
+    "name": "Crimson Minimalist",
+    "colors": ["#18181B", "#7F1D1D", "#B91C1C", "#EF4444", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "red"
+  },
+  {
+    "id": 600,
+    "name": "Sunset Persimmon",
+    "colors": ["#431407", "#9A3412", "#EA580C", "#FB923C", "#FFF7ED"],
+    "style": "Nature",
+    "family": "orange"
+  },
+  {
+    "id": 601,
+    "name": "Vintage Marmalade",
+    "colors": ["#2D1B14", "#7C2D12", "#C2410C", "#FDBA74", "#FFEDD5"],
+    "style": "Vintage",
+    "family": "orange"
+  },
+  {
+    "id": 602,
+    "name": "Amber Archive",
+    "colors": ["#0A0A0A", "#78350F", "#B45309", "#F59E0B", "#FEFCE8"],
+    "style": "Retro",
+    "family": "yellow"
+  },
+  {
+    "id": 603,
+    "name": "Saffron Silk",
+    "colors": ["#422006", "#92400E", "#D97706", "#FBBF24", "#FFFBEB"],
+    "style": "Luxury",
+    "family": "yellow"
+  },
+  {
+    "id": 604,
+    "name": "Emerald Deep",
+    "colors": ["#022C22", "#064E3B", "#059669", "#6EE7B7", "#F0FDFA"],
+    "style": "Nature",
+    "family": "green"
+  },
+  {
+    "id": 605,
+    "name": "Wasabi Brutalist",
+    "colors": ["#000000", "#14532D", "#65A30D", "#BEF264", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "green"
+  },
+  {
+    "id": 606,
+    "name": "Boreal Teal",
+    "colors": ["#042F2E", "#0D9488", "#2DD4BF", "#99F6E4", "#F0FDFA"],
+    "style": "Nature",
+    "family": "teal"
+  },
+  {
+    "id": 607,
+    "name": "Cyber Cyan",
+    "colors": ["#083344", "#0E7490", "#06B6D4", "#67E8F9", "#CFFAFE"],
+    "style": "Minimal",
+    "family": "blue"
+  },
+  {
+    "id": 608,
+    "name": "Cobalt Executive",
+    "colors": ["#172554", "#1E3A8A", "#2563EB", "#93C5FD", "#EFF6FF"],
+    "style": "Minimal",
+    "family": "blue"
+  },
+  {
+    "id": 609,
+    "name": "Midnight Indigo",
+    "colors": ["#0F172A", "#312E81", "#4338CA", "#818CF8", "#F8FAFC"],
+    "style": "Luxury",
+    "family": "blue"
+  },
+  {
+    "id": 610,
+    "name": "Deep Orchid",
+    "colors": ["#2E1065", "#5B21B6", "#8B5CF6", "#C4B5FD", "#F5F3FF"],
+    "style": "Pastel",
+    "family": "purple"
+  },
+  {
+    "id": 611,
+    "name": "Amethyst Noir",
+    "colors": ["#000000", "#4C1D95", "#7C3AED", "#A78BFA", "#EDE9FE"],
+    "style": "Brutalist",
+    "family": "purple"
+  },
+  {
+    "id": 612,
+    "name": "Peony Pop",
+    "colors": ["#500724", "#9D174D", "#DB2777", "#F472B6", "#FFF1F2"],
+    "style": "Playful",
+    "family": "pink"
+  },
+  {
+    "id": 613,
+    "name": "Mauve Minimal",
+    "colors": ["#18181B", "#831843", "#BE123C", "#FB7185", "#FFF1F7"],
+    "style": "Minimal",
+    "family": "pink"
+  },
+  {
+    "id": 614,
+    "name": "Walnut Studio",
+    "colors": ["#2D1B14", "#451A03", "#78350F", "#A67B5B", "#FAFAF9"],
+    "style": "Vintage",
+    "family": "brown"
+  },
+  {
+    "id": 615,
+    "name": "Espresso Gold",
+    "colors": ["#0C0A09", "#44403C", "#A8A29E", "#D6D3D1", "#FACC15"],
+    "style": "Luxury",
+    "family": "brown"
+  },
+  {
+    "id": 616,
+    "name": "Zinc Alloy",
+    "colors": ["#09090B", "#27272A", "#52525B", "#A1A1AA", "#F4F4F5"],
+    "style": "Minimal",
+    "family": "neutral"
+  },
+  {
+    "id": 617,
+    "name": "Parchment Slate",
+    "colors": ["#020617", "#1E293B", "#475569", "#94A3B8", "#F8FAFC"],
+    "style": "Brutalist",
+    "family": "neutral"
+  },
+  {
+    "id": 618,
+    "name": "Ink & Acid",
+    "colors": ["#000000", "#FFFFFF", "#DFFF00", "#333333", "#E5E7EB"],
+    "style": "Brutalist",
+    "family": "green"
+  },
+  {
+    "id": 619,
+    "name": "Raw Signal",
+    "colors": ["#000000", "#FF3E00", "#FFFFFF", "#999999", "#F3F4F6"],
+    "style": "Brutalist",
+    "family": "red"
+  },
+  {
+    "id": 620,
+    "name": "Concrete Cobalt",
+    "colors": ["#000000", "#1E40AF", "#FFFFFF", "#64748B", "#F8FAFC"],
+    "style": "Brutalist",
+    "family": "blue"
+  },
+  {
+    "id": 621,
+    "name": "Caution Grid",
+    "colors": ["#000000", "#FACC15", "#FFFFFF", "#171717", "#D4D4D4"],
+    "style": "Brutalist",
+    "family": "yellow"
+  },
+  {
+    "id": 622,
+    "name": "Void Magenta",
+    "colors": ["#000000", "#BE123C", "#FFFFFF", "#525252", "#E11D48"],
+    "style": "Brutalist",
+    "family": "pink"
+  },
+  {
+    "id": 623,
+    "name": "Static Noise",
+    "colors": ["#000000", "#FFFFFF", "#404040", "#A3A3A3", "#D4D4D8"],
+    "style": "Brutalist",
+    "family": "neutral"
+  },
+  {
+    "id": 624,
+    "name": "Xenon Pulse",
+    "colors": ["#000000", "#00FFC8", "#FFFFFF", "#064E3B", "#111827"],
+    "style": "Brutalist",
+    "family": "teal"
+  },
+  {
+    "id": 625,
+    "name": "Industrial Rust",
+    "colors": ["#1A1A1A", "#EA580C", "#FFFFFF", "#7C2D12", "#404040"],
+    "style": "Brutalist",
+    "family": "orange"
+  },
+  {
+    "id": 626,
+    "name": "Hyper-Indigo",
+    "colors": ["#000000", "#4338CA", "#FFFFFF", "#312E81", "#E0E7FF"],
+    "style": "Brutalist",
+    "family": "purple"
+  },
+  {
+    "id": 627,
+    "name": "Asphalt Lime",
+    "colors": ["#0A0A0A", "#84CC16", "#FFFFFF", "#262626", "#D1D5DB"],
+    "style": "Brutalist",
+    "family": "green"
+  },
+  {
+    "id": 628,
+    "name": "Brutal Blueprint",
+    "colors": ["#000000", "#FFFFFF", "#2563EB", "#BFDBFE", "#1D4ED8"],
+    "style": "Brutalist",
+    "family": "blue"
+  },
+  {
+    "id": 629,
+    "name": "Graphite Ember",
+    "colors": ["#000000", "#991B1B", "#FFFFFF", "#450A0A", "#737373"],
+    "style": "Brutalist",
+    "family": "red"
+  },
+  {
+    "id": 630,
+    "name": "Monolith Saffron",
+    "colors": ["#171717", "#EAB308", "#FFFFFF", "#000000", "#A1A1AA"],
+    "style": "Brutalist",
+    "family": "yellow"
+  },
+  {
+    "id": 631,
+    "name": "Zinc Glitch",
+    "colors": ["#000000", "#0891B2", "#FFFFFF", "#164E63", "#ECFEFF"],
+    "style": "Brutalist",
+    "family": "blue"
+  },
+  {
+    "id": 632,
+    "name": "Radical Slate",
+    "colors": ["#000000", "#FFFFFF", "#F97316", "#2D2D2D", "#FB923C"],
+    "style": "Brutalist",
+    "family": "orange"
+  },
+  {
+    "id": 633,
+    "name": "VHS Glitch",
+    "colors": ["#0F172A", "#FF00FF", "#00FFFF", "#F8FAFC", "#7000FF"],
+    "style": "Retro",
+    "family": "multi"
+  },
+  {
+    "id": 634,
+    "name": "8-Bit Sunset",
+    "colors": ["#2D1B14", "#E63946", "#F1FAEE", "#A8DADC", "#457B9D"],
+    "style": "Retro",
+    "family": "multi"
+  },
+  {
+    "id": 635,
+    "name": "Vinyl Warmth",
+    "colors": ["#1A1A1B", "#D97706", "#B45309", "#FEFCE8", "#78350F"],
+    "style": "Retro",
+    "family": "yellow"
+  },
+  {
+    "id": 636,
+    "name": "Polaroid Bloom",
+    "colors": ["#262626", "#F43F5E", "#FBCFE8", "#FFF1F2", "#BE123C"],
+    "style": "Retro",
+    "family": "pink"
+  },
+  {
+    "id": 637,
+    "name": "Arcade Neon",
+    "colors": ["#000000", "#39FF14", "#1F51FF", "#FFFFFF", "#FF3131"],
+    "style": "Retro",
+    "family": "multi"
+  },
+  {
+    "id": 638,
+    "name": "Amber Cinema",
+    "colors": ["#2D1B14", "#B45309", "#D97706", "#FDE68A", "#1C1917"],
+    "style": "Vintage",
+    "family": "yellow"
+  },
+  {
+    "id": 639,
+    "name": "Dusty Teal Archive",
+    "colors": ["#134E4A", "#0D9488", "#5EEAD4", "#CCFBF1", "#2D3748"],
+    "style": "Vintage",
+    "family": "teal"
+  },
+  {
+    "id": 640,
+    "name": "Sepia Postcard",
+    "colors": ["#431407", "#9A3412", "#D4A373", "#F5EFE6", "#1A1A1B"],
+    "style": "Vintage",
+    "family": "brown"
+  },
+  {
+    "id": 641,
+    "name": "Retro Slate Rose",
+    "colors": ["#500724", "#9D174D", "#FB7185", "#FFF1F2", "#1E293B"],
+    "style": "Vintage",
+    "family": "pink"
+  },
+  {
+    "id": 642,
+    "name": "Indigo Newsprint",
+    "colors": ["#1E1B4B", "#3730A3", "#818CF8", "#F1F5F9", "#000000"],
+    "style": "Vintage",
+    "family": "blue"
+  },
+  {
+    "id": 643,
+    "name": "Apothecary Sage",
+    "colors": ["#064E3B", "#065F46", "#A3E635", "#F7FEE7", "#171717"],
+    "style": "Vintage",
+    "family": "green"
+  },
+  {
+    "id": 644,
+    "name": "Velvet Theater",
+    "colors": ["#450A0A", "#7F1D1D", "#B91C1C", "#FCA5A5", "#0A0A0A"],
+    "style": "Vintage",
+    "family": "red"
+  },
+  {
+    "id": 645,
+    "name": "Vinyl Gold",
+    "colors": ["#1A1A1B", "#854D0E", "#CA8A04", "#FEFCE8", "#422006"],
+    "style": "Vintage",
+    "family": "yellow"
+  },
+  {
+    "id": 646,
+    "name": "Linen Cobalt",
+    "colors": ["#172554", "#1E3A8A", "#3B82F6", "#DBEAFE", "#000000"],
+    "style": "Vintage",
+    "family": "blue"
+  },
+  {
+    "id": 647,
+    "name": "Antique Violet",
+    "colors": ["#2E1065", "#5B21B6", "#A78BFA", "#F5F3FF", "#18181B"],
+    "style": "Vintage",
+    "family": "purple"
+  },
+  {
+    "id": 648,
+    "name": "Bubblegum Static",
+    "colors": ["#DB2777", "#F472B6", "#06B6D4", "#FDF2F8", "#1E1B4B"],
+    "style": "Playful",
+    "family": "pink"
+  },
+  {
+    "id": 649,
+    "name": "Citrus Bounce",
+    "colors": ["#EA580C", "#F97316", "#A3E635", "#F7FEE7", "#0C4A6E"],
+    "style": "Playful",
+    "family": "orange"
+  },
+  {
+    "id": 650,
+    "name": "Electric Jellyfish",
+    "colors": ["#7C3AED", "#A78BFA", "#22D3EE", "#ECFEFF", "#000000"],
+    "style": "Playful",
+    "family": "purple"
+  },
+  {
+    "id": 651,
+    "name": "Arcade Punch",
+    "colors": ["#E11D48", "#FB7185", "#FACC15", "#FFFFFF", "#0F172A"],
+    "style": "Playful",
+    "family": "red"
+  },
+  {
+    "id": 652,
+    "name": "Sky High Pop",
+    "colors": ["#0284C7", "#38BDF8", "#FDE047", "#F0F9FF", "#1E293B"],
+    "style": "Playful",
+    "family": "blue"
+  },
+  {
+    "id": 653,
+    "name": "Minty Fresh",
+    "colors": ["#059669", "#10B981", "#6EE7B7", "#F0FDFA", "#064E3B"],
+    "style": "Playful",
+    "family": "green"
+  },
+  {
+    "id": 654,
+    "name": "Cosmic Candy",
+    "colors": ["#9333EA", "#C026D3", "#FF00FF", "#FDF4FF", "#1A1A1B"],
+    "style": "Playful",
+    "family": "multi"
+  },
+  {
+    "id": 655,
+    "name": "Sunny Sidewalk",
+    "colors": ["#D97706", "#F59E0B", "#FDE68A", "#FEFCE8", "#111827"],
+    "style": "Playful",
+    "family": "yellow"
+  },
+  {
+    "id": 656,
+    "name": "Toon Teal",
+    "colors": ["#0D9488", "#2DD4BF", "#99F6E4", "#F0FDFA", "#134E4A"],
+    "style": "Playful",
+    "family": "teal"
+  },
+  {
+    "id": 657,
+    "name": "Neon Berry Fizz",
+    "colors": ["#BE123C", "#E11D48", "#F472B6", "#FFF1F2", "#000000"],
+    "style": "Playful",
+    "family": "pink"
+  },
+  {
+    "id": 658,
+    "name": "Raw Concrete",
+    "colors": ["#000000", "#18181B", "#525252", "#D4D4D8", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "neutral"
+  },
+  {
+    "id": 659,
+    "name": "Acid Hazard",
+    "colors": ["#000000", "#CCFF00", "#FFFFFF", "#404040", "#171717"],
+    "style": "Brutalist",
+    "family": "green"
+  },
+  {
+    "id": 660,
+    "name": "Industrial Warning",
+    "colors": ["#000000", "#EA580C", "#FFFFFF", "#7C2D12", "#D1D5DB"],
+    "style": "Brutalist",
+    "family": "orange"
+  },
+  {
+    "id": 661,
+    "name": "Steel Cobalt",
+    "colors": ["#000000", "#1D4ED8", "#FFFFFF", "#1E3A8A", "#94A3B8"],
+    "style": "Brutalist",
+    "family": "blue"
+  },
+  {
+    "id": 662,
+    "name": "Blood & Ink",
+    "colors": ["#000000", "#B91C1C", "#FFFFFF", "#7F1D1D", "#E5E7EB"],
+    "style": "Brutalist",
+    "family": "red"
+  },
+  {
+    "id": 663,
+    "name": "Grid Saffron",
+    "colors": ["#000000", "#EAB308", "#FFFFFF", "#854D0E", "#262626"],
+    "style": "Brutalist",
+    "family": "yellow"
+  },
+  {
+    "id": 664,
+    "name": "Void Violet",
+    "colors": ["#000000", "#7C3AED", "#FFFFFF", "#4C1D95", "#A1A1AA"],
+    "style": "Brutalist",
+    "family": "purple"
+  },
+  {
+    "id": 665,
+    "name": "Graphite Cyan",
+    "colors": ["#000000", "#0891B2", "#FFFFFF", "#164E63", "#ECFEFF"],
+    "style": "Brutalist",
+    "family": "blue"
+  },
+  {
+    "id": 666,
+    "name": "Static Neutral",
+    "colors": ["#000000", "#FFFFFF", "#404040", "#737373", "#F5F5F5"],
+    "style": "Brutalist",
+    "family": "neutral"
+  },
+  {
+    "id": 667,
+    "name": "Caution Lime",
+    "colors": ["#000000", "#84CC16", "#FFFFFF", "#3F6212", "#D4D4D8"],
+    "style": "Brutalist",
+    "family": "green"
+  },
+  {
+    "id": 668,
+    "name": "Clouded Iris",
+    "colors": ["#F8FAFC", "#E0E7FF", "#818CF8", "#4338CA", "#1E1B4B"],
+    "style": "Minimal",
+    "family": "purple",
+    "note": "A soft gradient of periwinkle balanced by deep indigo for high-contrast typography."
+  },
+  {
+    "id": 669,
+    "name": "Muted Sage Studio",
+    "colors": ["#F1F5F1", "#DCF2E1", "#4ADE80", "#166534", "#052E16"],
+    "style": "Nature",
+    "family": "green",
+    "note": "Gentle mint surfaces paired with a heavy forest anchor to ensure AA legibility."
+  },
+  {
+    "id": 670,
+    "name": "Blush Graphite",
+    "colors": ["#FFF1F2", "#FFE4E6", "#FB7185", "#9F1239", "#18181B"],
+    "style": "Aesthetic",
+    "family": "pink",
+    "note": "Soft rose tones meeting a sharp charcoal neutral for a modern editorial feel."
+  },
+  {
+    "id": 671,
+    "name": "Dusty Apricot",
+    "colors": ["#FFF7ED", "#FFEDD5", "#F97316", "#9A3412", "#2D1B14"],
+    "style": "Vintage",
+    "family": "orange",
+    "note": "Warm, creamy neutrals contrasted with a deep sienna for a soft yet readable UI."
+  },
+  {
+    "id": 672,
+    "name": "Hazy Cobalt",
+    "colors": ["#F0F9FF", "#E0F2FE", "#38BDF8", "#1E40AF", "#0F172A"],
+    "style": "Minimal",
+    "family": "blue",
+    "note": "A fresh, breathable blue palette anchored by a solid professional navy."
+  },
+  {
+    "id": 673,
+    "name": "Sandstone & Slate",
+    "colors": ["#FAF9F6", "#E5E7EB", "#94A3B8", "#334155", "#0F172A"],
+    "style": "Minimal",
+    "family": "neutral",
+    "note": "The ultimate balanced neutral; soft off-whites meeting high-contrast ink blues."
+  },
+  {
+    "id": 674,
+    "name": "Lavender Mist",
+    "colors": ["#FAF5FF", "#F3E8FF", "#A78BFA", "#5B21B6", "#2E1065"],
+    "style": "Aesthetic",
+    "family": "purple",
+    "note": "Dreamy, gentle lilac tones providing focus against a dark, accessible violet."
+  },
+  {
+    "id": 675,
+    "name": "Sun-Bleached Ochre",
+    "colors": ["#FEFCE8", "#FEF9C3", "#EAB308", "#854D0E", "#422006"],
+    "style": "Vintage",
+    "family": "yellow",
+    "note": "Soft yellow tints grounded by an earthy brown for a vintage organic vibe."
+  },
+  {
+    "id": 676,
+    "name": "Glacier Mint",
+    "colors": ["#F0FDFA", "#CCFBF1", "#2DD4BF", "#0F766E", "#042F2E"],
+    "style": "Nature",
+    "family": "teal",
+    "note": "Refreshing and clean; uses deep teal to ground the light, airy mint tones."
+  },
+  {
+    "id": 677,
+    "name": "Taupe Velvet",
+    "colors": ["#FCFAF7", "#F5F2ED", "#D6D3D1", "#78716C", "#1C1917"],
+    "style": "Luxury",
+    "family": "neutral",
+    "note": "Warm, sophisticated greige tones that offer a gentle but high-contrast aesthetic."
+  },
+  {
+    "id": 678,
+    "name": "Borealis Indigo",
+    "colors": ["#0F172A", "#312E81", "#818CF8", "#2DD4BF", "#F0FDFA"],
+    "style": "Aesthetic",
+    "family": "blue"
+  },
+  {
+    "id": 679,
+    "name": "Desert Peony",
+    "colors": ["#450A0A", "#9F1239", "#FB7185", "#FDBA74", "#FFF7ED"],
+    "style": "Nature",
+    "family": "multi"
+  },
+  {
+    "id": 680,
+    "name": "Cyber Lavender",
+    "colors": ["#2E1065", "#7C3AED", "#C4B5FD", "#00F0FF", "#F5F3FF"],
+    "style": "Aesthetic",
+    "family": "purple"
+  },
+  {
+    "id": 681,
+    "name": "Matcha Cream",
+    "colors": ["#064E3B", "#166534", "#4ADE80", "#D1FAE5", "#F7FEE7"],
+    "style": "Nature",
+    "family": "green"
+  },
+  {
+    "id": 682,
+    "name": "Champagne Noir",
+    "colors": ["#000000", "#1A1A1A", "#D4AF37", "#E5E7EB", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "neutral"
+  },
+  {
+    "id": 683,
+    "name": "Arctic Sunset",
+    "colors": ["#082F49", "#0EA5E9", "#F472B6", "#FECDD3", "#F8FAFC"],
+    "style": "Minimal",
+    "family": "multi"
+  },
+  {
+    "id": 684,
+    "name": "Tuscan Harvest",
+    "colors": ["#431407", "#9A3412", "#EA580C", "#FDE68A", "#FEFCE8"],
+    "style": "Vintage",
+    "family": "orange"
+  },
+  {
+    "id": 685,
+    "name": "Electric Orchid",
+    "colors": ["#4C0519", "#BE123C", "#DB2777", "#FBCFE8", "#FFF1F2"],
+    "style": "Aesthetic",
+    "family": "pink"
+  },
+  {
+    "id": 686,
+    "name": "Cobalt Editorial",
+    "colors": ["#172554", "#1E3A8A", "#3B82F6", "#D1D5DB", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "blue"
+  },
+  {
+    "id": 687,
+    "name": "Golden Moss",
+    "colors": ["#052E16", "#3F6212", "#EAB308", "#FEF9C3", "#F7FEE7"],
+    "style": "Nature",
+    "family": "green"
+  },
+  {
+    "id": 688,
+    "name": "Deep Sea Glitch",
+    "colors": ["#020617", "#06B6D4", "#22D3EE", "#FF007F", "#F8FAFC"],
+    "style": "Aesthetic",
+    "family": "multi"
+  },
+  {
+    "id": 689,
+    "name": "Walnut Minimal",
+    "colors": ["#1C1917", "#44403C", "#A8A29E", "#E7E5E4", "#FAFAF9"],
+    "style": "Minimal",
+    "family": "brown"
+  },
+  {
+    "id": 690,
+    "name": "Neon Tulip",
+    "colors": ["#2D0645", "#9333EA", "#F472B6", "#34D399", "#ECFEFF"],
+    "style": "Playful",
+    "family": "multi"
+  },
+  {
+    "id": 691,
+    "name": "Slate Sorbet",
+    "colors": ["#0F172A", "#475569", "#94A3B8", "#FBCFE8", "#FDF2F8"],
+    "style": "Aesthetic",
+    "family": "pink"
+  },
+  {
+    "id": 692,
+    "name": "Saffron Ink",
+    "colors": ["#000000", "#78350F", "#D97706", "#FDE047", "#F8FAFC"],
+    "style": "Brutalist",
+    "family": "yellow"
+  },
+  {
+    "id": 693,
+    "name": "Bio-Synthetic Green",
+    "colors": ["#022C22", "#0D9488", "#2DD4BF", "#A7F3D0", "#FFFFFF"],
+    "style": "Nature",
+    "family": "teal"
+  },
+  {
+    "id": 694,
+    "name": "Royal Plumage",
+    "colors": ["#1E1B4B", "#4338CA", "#8B5CF6", "#FACC15", "#FFFBEB"],
+    "style": "Luxury",
+    "family": "multi"
+  },
+  {
+    "id": 695,
+    "name": "Muted Ember",
+    "colors": ["#18181B", "#7F1D1D", "#EF4444", "#FDBA74", "#FAFAF9"],
+    "style": "Minimal",
+    "family": "red"
+  },
+  {
+    "id": 696,
+    "name": "Cloud Nine",
+    "colors": ["#1E293B", "#38BDF8", "#BAE6FD", "#E0F2FE", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "blue"
+  },
+  {
+    "id": 697,
+    "name": "Espresso Velvet",
+    "colors": ["#1C1917", "#78350F", "#B45309", "#D6D3D1", "#FAF9F6"],
+    "style": "Luxury",
+    "family": "brown"
+  },
+  {
+    "id": 698,
+    "name": "Electric Volt",
+    "colors": ["#000000", "#D9FF00", "#1E40AF", "#3B82F6", "#F8FAFC"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "High-vis lime clashing with deep cobalt for an energetic, tech-forward interface."
+  },
+  {
+    "id": 699,
+    "name": "Hyper-Cherry Pulse",
+    "colors": ["#0F172A", "#F43F5E", "#FB7185", "#22D3EE", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Vivid cherry red paired with a cooling cyan for a high-impact, modern brand feel."
+  },
+  {
+    "id": 700,
+    "name": "Amber Grid",
+    "colors": ["#111111", "#FF9100", "#FACC15", "#475569", "#F1F5F9"],
+    "style": "Brutalist",
+    "family": "orange",
+    "note": "A heavy industrial vibe using saturated oranges grounded by cool slate greys."
+  },
+  {
+    "id": 701,
+    "name": "Kinetic Violet",
+    "colors": ["#1E1B4B", "#7C3AED", "#00FFC8", "#A78BFA", "#F5F3FF"],
+    "style": "Aesthetic",
+    "family": "purple",
+    "note": "Energetic violet balanced by a bioluminescent teal for creative or AI branding."
+  },
+  {
+    "id": 702,
+    "name": "Solar Flare",
+    "colors": ["#450A0A", "#EA580C", "#F97316", "#0D9488", "#FFF7ED"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "A warm, high-energy gradient with a sharp teal contrast for functional actions."
+  },
+  {
+    "id": 703,
+    "name": "Magma Minimal",
+    "colors": ["#000000", "#FF3E00", "#991B1B", "#D1D5DB", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "red",
+    "note": "Aggressive orange-red paired with clean architectural whites for maximum clarity."
+  },
+  {
+    "id": 704,
+    "name": "Cyber Parakeet",
+    "colors": ["#052E16", "#ADFF2F", "#10B981", "#334155", "#F7FEE7"],
+    "style": "Modern",
+    "family": "green",
+    "note": "Saturated parakeet green meets a heavy charcoal neutral for a fresh, bold UI."
+  },
+  {
+    "id": 705,
+    "name": "Ultramarine Pop",
+    "colors": ["#1E3A8A", "#2563EB", "#FF00FF", "#E0E7FF", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Deep corporate blues electrified by a playful magenta accent color."
+  },
+  {
+    "id": 706,
+    "name": "Carbon Saffron",
+    "colors": ["#18181B", "#EAB308", "#FDE047", "#52525B", "#FAFAF9"],
+    "style": "Luxury",
+    "family": "yellow",
+    "note": "Premium black and gold logic updated with a vibrant, accessible saffron yellow."
+  },
+  {
+    "id": 707,
+    "name": "Indigo Surge",
+    "colors": ["#020617", "#4338CA", "#6366F1", "#FB923C", "#F8FAFC"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "Deep midnight ink with high-energy indigo and a warm, punchy orange focal point."
+  },
+  {
+    "id": 708,
+    "name": "Mid-Century Tangerine",
+    "colors": ["#2D1B1B", "#F97316", "#0D9488", "#FDE68A", "#FDFCFB"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "A 1960s aesthetic pairing deep burnt sienna with zesty orange and muted teal."
+  },
+  {
+    "id": 709,
+    "name": "Vinyl Record Pop",
+    "colors": ["#1A1A1A", "#E11D48", "#FB923C", "#A8DADC", "#F1FAEE"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Classic album cover vibes with high-contrast red and cream."
+  },
+  {
+    "id": 710,
+    "name": "Cassette Teal Pulse",
+    "colors": ["#083344", "#2DD4BF", "#F472B6", "#7C3AED", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "80s synthwave influence using high-energy teal and magenta against dark ink."
+  },
+  {
+    "id": 711,
+    "name": "Mustard Groovy",
+    "colors": ["#422006", "#EAB308", "#166534", "#D97706", "#FFFBEB"],
+    "style": "Retro",
+    "family": "yellow",
+    "note": "70s corduroy textures reimagined with accessible mustard and forest green."
+  },
+  {
+    "id": 712,
+    "name": "Arcade Neon Grid",
+    "colors": ["#000000", "#39FF14", "#FF00FF", "#00FFFF", "#F8FAFC"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Brilliant fluorescent tones that meet WCAG standards when used over solid black."
+  },
+  {
+    "id": 713,
+    "name": "Bowling Alley Flare",
+    "colors": ["#1E1B4B", "#FB7185", "#38BDF8", "#FACC15", "#F0F9FF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Whimsical and vibrant tones inspired by vintage leisure center interiors."
+  },
+  {
+    "id": 714,
+    "name": "Disco Velvet",
+    "colors": ["#310E0E", "#BE123C", "#8B5CF6", "#FBCFE8", "#FFFFFF"],
+    "style": "Retro",
+    "family": "purple",
+    "note": "Deep plum and violet paired with a soft rose tint for an editorial retro look."
+  },
+  {
+    "id": 715,
+    "name": "Kodachrome Coast",
+    "colors": ["#0F172A", "#EF4444", "#F59E0B", "#06B6D4", "#FAF9F6"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Rich, film-saturated primaries that offer a bold but readable brand identity."
+  },
+  {
+    "id": 716,
+    "name": "Analog Sunset",
+    "colors": ["#431407", "#EA580C", "#D946EF", "#FFEDD5", "#18181B"],
+    "style": "Retro",
+    "family": "orange",
+    "note": "A warm gradient of orange and orchid inspired by lo-fi photography."
+  },
+  {
+    "id": 717,
+    "name": "Popsicle Stick",
+    "colors": ["#14532D", "#10B981", "#FB923C", "#FFD600", "#F0FDFA"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Playful 90s aesthetic with saturated greens and sunny yellow accents."
+  },
+{
+    "id": 718,
+    "name": "Neon Peppermint",
+    "colors": ["#064E3B", "#2DD4BF", "#A7F3D0", "#FF007F", "#F0FDFA"],
+    "style": "Pastel",
+    "family": "teal",
+    "note": "A refreshing mint base electrified by a high-contrast neon pink pulse."
+  },
+  {
+    "id": 719,
+    "name": "Electric Lavender",
+    "colors": ["#2E1065", "#A78BFA", "#E9D5FF", "#00FFC8", "#FAF5FF"],
+    "style": "Pastel",
+    "family": "purple",
+    "note": "Dreamy lilac layers accented by a sharp, accessible neon cyan."
+  },
+  {
+    "id": 720,
+    "name": "Glowy Peach",
+    "colors": ["#431407", "#FB923C", "#FFEDD5", "#38BDF8", "#FFF7ED"],
+    "style": "Pastel",
+    "family": "orange",
+    "note": "Soft apricot surfaces with a vivid neon sky-blue for action elements."
+  },
+  {
+    "id": 721,
+    "name": "Acidic Marshmallow",
+    "colors": ["#171717", "#CCFF00", "#F4F4F5", "#D4D4D8", "#FFFFFF"],
+    "style": "Pastel",
+    "family": "green",
+    "note": "Soft neutral greys electrified by a punchy neon-lime focal point."
+  },
+  {
+    "id": 722,
+    "name": "Vaporwave Petal",
+    "colors": ["#500724", "#F472B6", "#FBCFE8", "#7000FF", "#FFF1F2"],
+    "style": "Pastel",
+    "family": "pink",
+    "note": "A romantic pink palette grounded by deep burgundy and a neon violet."
+  },
+  {
+    "id": 723,
+    "name": "Biolume Sky",
+    "colors": ["#082F49", "#0EA5E9", "#BAE6FD", "#ADFF2F", "#F0F9FF"],
+    "style": "Pastel",
+    "family": "blue",
+    "note": "Airy blue tones balanced by a heavy navy and a neon-parakeet green."
+  },
+  {
+    "id": 724,
+    "name": "Cyber Sorbet",
+    "colors": ["#1E1B4B", "#DB2777", "#FDF2F8", "#FDE047", "#FFFFFF"],
+    "style": "Pastel",
+    "family": "multi",
+    "note": "A mix of soft berry and cream highlighted by a neon-saffron yellow."
+  },
+  {
+    "id": 725,
+    "name": "Static Orchid",
+    "colors": ["#2A0033", "#D500F9", "#F5F3FF", "#00E5FF", "#FDFCFB"],
+    "style": "Pastel",
+    "family": "purple",
+    "note": "Deep plum meets soft white with high-visibility neon purple and cyan."
+  },
+  {
+    "id": 726,
+    "name": "Radioactive Cream",
+    "colors": ["#064E3B", "#10B981", "#ECFDF5", "#FFD600", "#F7FEE7"],
+    "style": "Pastel",
+    "family": "green",
+    "note": "Gentle organic greens popped with a high-energy neon amber."
+  },
+  {
+    "id": 727,
+    "name": "Frosty Neon Pulse",
+    "colors": ["#0F172A", "#6366F1", "#EEF2FF", "#F43F5E", "#FFFFFF"],
+    "style": "Pastel",
+    "family": "blue",
+    "note": "Clean periwinkle and white anchored by a dark ink and a neon red."
+  },
+  {
+    "id": 728,
+    "name": "Kinetic Cobalt",
+    "colors": ["#000000", "#2962FF", "#D1D5DB", "#FFFFFF", "#448AFF"],
+    "style": "Modern",
+    "family": "blue",
+    "note": "High-voltage electric blue paired with architectural greys for a professional yet energetic UI."
+  },
+  {
+    "id": 729,
+    "name": "Lush Parakeet",
+    "colors": ["#064E3B", "#A3E635", "#F7FEE7", "#166534", "#FFFFFF"],
+    "style": "Nature",
+    "family": "green",
+    "note": "A vibrant lime-green pulse grounded by a deep forest anchor to maintain AA contrast."
+  },
+  {
+    "id": 730,
+    "name": "Saffron Surge",
+    "colors": ["#1C1917", "#FFB300", "#EAB308", "#FAF9F6", "#44403C"],
+    "style": "Luxury",
+    "family": "yellow",
+    "note": "A warm, high-energy saffron yellow set against a dark carbon neutral for a premium feel."
+  },
+  {
+    "id": 731,
+    "name": "Orchid Glitch",
+    "colors": ["#2E1065", "#D500F9", "#F5F3FF", "#A855F7", "#1E1B4B"],
+    "style": "Aesthetic",
+    "family": "purple",
+    "note": "Vivid magenta-purple highlights balanced by a soft lavender neutral and deep ink."
+  },
+  {
+    "id": 732,
+    "name": "Crimson Horizon",
+    "colors": ["#450A0A", "#FF1744", "#FEE2E2", "#991B1B", "#FFFFFF"],
+    "style": "Modern",
+    "family": "red",
+    "note": "A bold, cheerful cherry red paired with a gentle rose-white for a clean, impactful design."
+  },
+  {
+    "id": 733,
+    "name": "Neon Tide",
+    "colors": ["#083344", "#00E5FF", "#ECFEFF", "#0E7490", "#F8FAFC"],
+    "style": "Modern",
+    "family": "teal",
+    "note": "Electric cyan clashing with a heavy midnight teal for a refreshing, high-clarity interface."
+  },
+  {
+    "id": 734,
+    "name": "Sunset Punch",
+    "colors": ["#431407", "#FF6D00", "#FFF7ED", "#EA580C", "#18181B"],
+    "style": "Playful",
+    "family": "orange",
+    "note": "Saturated tangerine orange popping off a warm cream base for a friendly, energetic vibe."
+  },
+  {
+    "id": 735,
+    "name": "Electric Aloe",
+    "colors": ["#022C22", "#00FF9C", "#D1FAE5", "#065F46", "#F9FAFB"],
+    "style": "Nature",
+    "family": "green",
+    "note": "A futuristic bioluminescent green balanced with soft mint and sharp dark-slate neutrals."
+  },
+  {
+    "id": 736,
+    "name": "Royal Pulse",
+    "colors": ["#1E1B4B", "#651FFF", "#E0E7FF", "#312E81", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "purple",
+    "note": "Deep royal indigo paired with a vivid violet spark for creative and high-end tech branding."
+  },
+  {
+    "id": 737,
+    "name": "Solar Graphite",
+    "colors": ["#0A0A0A", "#FFD600", "#D4D4D8", "#FDE047", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "yellow",
+    "note": "Maximum visibility yellow set against heavy charcoal for a bold, industrial, and cheerful look."
+  },
+  {
+    "id": 738,
+    "name": "Sienna Postcard",
+    "colors": ["#2D1B14", "#A0522D", "#D2B48C", "#F5F5DC", "#8B4513"],
+    "style": "Vintage",
+    "family": "brown"
+  },
+  {
+    "id": 739,
+    "name": "Atlantic Diner",
+    "colors": ["#1D3557", "#457B9D", "#A8DADC", "#F1FAEE", "#E63946"],
+    "style": "Retro",
+    "family": "multi"
+  },
+  {
+    "id": 740,
+    "name": "Mustard Vinyl",
+    "colors": ["#1A1A1B", "#854D0E", "#CA8A04", "#EAB308", "#FEFCE8"],
+    "style": "Retro",
+    "family": "yellow"
+  },
+  {
+    "id": 741,
+    "name": "Dusty Orchid Archive",
+    "colors": ["#2E1065", "#5B21B6", "#A78BFA", "#D8B4FE", "#F5F3FF"],
+    "style": "Vintage",
+    "family": "purple"
+  },
+  {
+    "id": 742,
+    "name": "Bakelite Crimson",
+    "colors": ["#450A0A", "#7F1D1D", "#B91C1C", "#FCA5A5", "#000000"],
+    "style": "Vintage",
+    "family": "red"
+  },
+  {
+    "id": 743,
+    "name": "Turquoise Polaroid",
+    "colors": ["#042F2E", "#0D9488", "#5EEAD4", "#CCFBF1", "#1E293B"],
+    "style": "Retro",
+    "family": "teal"
+  },
+  {
+    "id": 744,
+    "name": "Sepia Hearth",
+    "colors": ["#431407", "#7C2D12", "#D97706", "#FDE68A", "#FFF7ED"],
+    "style": "Vintage",
+    "family": "orange"
+  },
+  {
+    "id": 745,
+    "name": "Mid-Mod Slate",
+    "colors": ["#0F172A", "#334155", "#94A3B8", "#CBD5E1", "#F8FAFC"],
+    "style": "Vintage",
+    "family": "neutral"
+  },
+  {
+    "id": 746,
+    "name": "Kodachrome Bloom",
+    "colors": ["#500724", "#9D174D", "#BE123C", "#FB7185", "#FFF1F2"],
+    "style": "Retro",
+    "family": "pink"
+  },
+  {
+    "id": 747,
+    "name": "Botanical Etching",
+    "colors": ["#064E3B", "#166534", "#3F6212", "#A3E635", "#F7FEE7"],
+    "style": "Vintage",
+    "family": "green"
+  },
+  {
+    "id": 748,
+    "name": "Technicolor Indigo",
+    "colors": ["#1E1B4B", "#312E81", "#4338CA", "#818CF8", "#EEF2FF"],
+    "style": "Retro",
+    "family": "blue"
+  },
+  {
+    "id": 749,
+    "name": "Apothecary Amber",
+    "colors": ["#422006", "#92400E", "#D97706", "#FBBF24", "#FFFBEB"],
+    "style": "Vintage",
+    "family": "yellow"
+  },
+  {
+    "id": 750,
+    "name": "Cyber-Retro Glitch",
+    "colors": ["#000000", "#FF00FF", "#00FFFF", "#7C3AED", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi"
+  },
+  {
+    "id": 751,
+    "name": "Unbleached Newsprint",
+    "colors": ["#18181B", "#3F3F46", "#71717A", "#D4D4D8", "#FAFAF9"],
+    "style": "Vintage",
+    "family": "neutral"
+  },
+  {
+    "id": 752,
+    "name": "Burnt Tangerine",
+    "colors": ["#7C2D12", "#C2410C", "#EA580C", "#FDBA74", "#FFEDD5"],
+    "style": "Retro",
+    "family": "orange"
+  },
+  {
+    "id": 753,
+    "name": "Lichen & Stone",
+    "colors": ["#064E3B", "#0D9488", "#94A3B8", "#E2E8F0", "#F0FDFA"],
+    "style": "Vintage",
+    "family": "multi"
+  },
+  {
+    "id": 754,
+    "name": "8-Bit Meadow",
+    "colors": ["#052E16", "#15803D", "#4ADE80", "#D1FAE5", "#111827"],
+    "style": "Retro",
+    "family": "green"
+  },
+  {
+    "id": 755,
+    "name": "Royal Velvet Room",
+    "colors": ["#1E1B4B", "#4C1D95", "#8B5CF6", "#C4B5FD", "#F5F3FF"],
+    "style": "Vintage",
+    "family": "purple"
+  },
+  {
+    "id": 756,
+    "name": "Soda Fountain Pink",
+    "colors": ["#831843", "#BE123C", "#F472B6", "#FBCFE8", "#FFFFFF"],
+    "style": "Retro",
+    "family": "pink"
+  },
+  {
+    "id": 757,
+    "name": "Industrial Chrome",
+    "colors": ["#000000", "#1E293B", "#475569", "#94A3B8", "#F8FAFC"],
+    "style": "Retro",
+    "family": "neutral"
+  },
+  {
+    "id": 758,
+    "name": "M3 Royal Ochre",
+    "colors": ["#1C1B1F", "#6750A4", "#926B00", "#FFD966", "#F6EDFF"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "A deep violet primary with a rich ochre secondary and golden-yellow tertiary for a regal, high-contrast UI."
+  },
+  {
+    "id": 759,
+    "name": "M3 Terracotta Pulse",
+    "colors": ["#211A18", "#BF360C", "#006A6A", "#FFB4A1", "#FBEAE5"],
+    "style": "Nature",
+    "family": "orange",
+    "note": "Vibrant burnt orange clashing with deep teal secondary and soft peach tertiary accents."
+  },
+  {
+    "id": 760,
+    "name": "M3 Indigo Bloom",
+    "colors": ["#1A1B23", "#3F51B5", "#AD1457", "#FFD1E8", "#E8EAF6"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "Classic indigo primary paired with a bold magenta-red secondary and a surprise soft petal pink tertiary."
+  },
+  {
+    "id": 761,
+    "name": "M3 Emerald Drift",
+    "colors": ["#002114", "#00875A", "#6200EE", "#B9F6CA", "#F0FDF4"],
+    "style": "Modern",
+    "family": "green",
+    "note": "A forest-green primary with a deep violet surprise hue, offering high visual interest and grounded neutrals."
+  },
+  {
+    "id": 762,
+    "name": "M3 Crimson Slate",
+    "colors": ["#1C1B1F", "#B71C1C", "#2E7D32", "#FFDAD6", "#F9F9F9"],
+    "style": "Modern",
+    "family": "red",
+    "note": "Bold crimson primary balanced by a deep forest green secondary and an off-white tonal surface."
+  },
+  {
+    "id": 763,
+    "name": "M3 Cobalt Amber",
+    "colors": ["#001A41", "#0D47A1", "#FF8F00", "#D6E2FF", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "blue",
+    "note": "Deep navy primary with a vibrant amber secondary for a high-contrast 'Expressive' brand feel."
+  },
+  {
+    "id": 764,
+    "name": "M3 Plum Saffron",
+    "colors": ["#210044", "#6A1B9A", "#F9A825", "#E9D5FF", "#FFF8E1"],
+    "style": "Luxury",
+    "family": "purple",
+    "note": "Rich plum primary and saffron-yellow secondary, creating a sophisticated, high-energy professional aesthetic."
+  },
+  {
+    "id": 765,
+    "name": "M3 Azure Clay",
+    "colors": ["#001E2F", "#0277BD", "#D84315", "#C1E8FF", "#FBF9F7"],
+    "style": "Nature",
+    "family": "blue",
+    "note": "Oceanic blue primary with a high-chroma burnt-clay secondary and soft sky-blue tertiary."
+  },
+  {
+    "id": 766,
+    "name": "M3 Moss Archive",
+    "colors": ["#1A1C16", "#558B2F", "#8E24AA", "#E8F5E9", "#F3E5F5"],
+    "style": "Nature",
+    "family": "green",
+    "note": "Organic moss green primary with a punchy deep-grape tertiary for an unexpected expressive twist."
+  },
+  {
+    "id": 767,
+    "name": "M3 Obsidian Ruby",
+    "colors": ["#121212", "#C62828", "#00B0FF", "#FFEBEE", "#E1F5FE"],
+    "style": "Modern",
+    "family": "red",
+    "note": "Stark jet-black primary surface with ruby-red and electric-blue expressive accents."
+  },
+  {
+    "id": 768,
+    "name": "Creative Gummy Pulse",
+    "colors": ["#4F46E5", "#FF007A", "#00F5FF", "#FFD700", "#F8FAFC"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A high-octane mix of indigo and neon pink grounded by a crisp off-white for studio-grade UI."
+  },
+  {
+    "id": 769,
+    "name": "Studio Sorbet Pop",
+    "colors": ["#1E1B4B", "#F43F5E", "#FB923C", "#A7F3D0", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Modern coral and apricot accents set against a deep navy for maximum readability and 'pop'."
+  },
+  {
+    "id": 770,
+    "name": "Electric Jelly",
+    "colors": ["#2E1065", "#7C3AED", "#00E5FF", "#FDE047", "#FAF5FF"],
+    "style": "Playful",
+    "family": "purple",
+    "note": "Vivid violet paired with a liquid cyan; designed for interactive creative agencies."
+  },
+  {
+    "id": 771,
+    "name": "Bouncy Bio-Mint",
+    "colors": ["#064E3B", "#10B981", "#DFFF00", "#334155", "#F0FDFA"],
+    "style": "Playful",
+    "family": "green",
+    "note": "A fresh take on sustainability using radioactive lime and deep forest emerald."
+  },
+  {
+    "id": 772,
+    "name": "Lollipop Logic",
+    "colors": ["#000000", "#DB2777", "#6366F1", "#F4F4F5", "#FFFFFF"],
+    "style": "Playful",
+    "family": "pink",
+    "note": "Stark black and white backgrounds made playful with hit-colored berry and periwinkle."
+  },
+  {
+    "id": 773,
+    "name": "Arcade Flux",
+    "colors": ["#0F172A", "#FF3E00", "#FACC15", "#38BDF8", "#F1F5F9"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A professional 'gamified' look using primary reds and yellows with high-contrast slate."
+  },
+  {
+    "id": 774,
+    "name": "Vibrant Parchment",
+    "colors": ["#431407", "#EA580C", "#2DD4BF", "#FEFCE8", "#1C1917"],
+    "style": "Playful",
+    "family": "orange",
+    "note": "Warm, sunny orange clashing with sharp teal on a textured off-white base."
+  },
+  {
+    "id": 775,
+    "name": "Cloud Nine Creative",
+    "colors": ["#1E293B", "#3B82F6", "#F472B6", "#DBEAFE", "#FFFFFF"],
+    "style": "Playful",
+    "family": "blue",
+    "note": "Optimistic sky blue and bubblegum pink for a soft, friendly, and accessible app feel."
+  },
+  {
+    "id": 776,
+    "name": "Neon Jungle Studio",
+    "colors": ["#022C22", "#ADFF2F", "#06B6D4", "#ECFDF5", "#000000"],
+    "style": "Playful",
+    "family": "green",
+    "note": "Deep jungle greens electrified by neon lime; perfect for bold portfolio sites."
+  },
+  {
+    "id": 777,
+    "name": "Grape Soda Dash",
+    "colors": ["#310E0E", "#9333EA", "#FFD600", "#F3E8FF", "#FFFFFF"],
+    "style": "Playful",
+    "family": "purple",
+    "note": "A sophisticated purple primary with a 'surprise' yellow accent for high-energy call-to-actions."
+  },
 ];
 
 

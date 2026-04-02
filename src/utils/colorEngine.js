@@ -100,4 +100,5 @@ export const getShades = (hex) => {
     base,
     base.darken(2.5).saturate(1)
   ]).mode('lch').colors(12);
+
 };

@@ -101,8 +101,8 @@ const Visualizer = ({ onClose }) => {
           </div>
           {isSidebarOpen && (
             <div className="flex flex-col overflow-hidden">
-              <span className="text-xl font-black italic tracking-tighter uppercase leading-none text-white truncate">Rang.Lab</span>
-              <span className="text-[8px] font-black uppercase tracking-[0.3em] text-slate-500 mt-1 truncate">Visualizer Pro V6</span>
+              <span className="text-xl font-black italic tracking-tighter uppercase leading-none text-white truncate">RangLab</span>
+              <span className="text-[8px] font-black uppercase tracking-[0.3em] text-slate-500 mt-1 truncate">Visualizer</span>
             </div>
           )}
         </div>
@@ -193,7 +193,7 @@ const Visualizer = ({ onClose }) => {
                   </div>
                   <div className="relative z-10 space-y-8 md:space-y-12">
                      <div className="space-y-4">
-                        <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.8em] opacity-40" style={{ color: mapping.text }}>Creative Studio V6.0</p>
+                        <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.8em] opacity-40" style={{ color: mapping.text }}>Creative Studio</p>
                         <h2 className="text-5xl md:text-[120px] font-black italic tracking-tighter leading-[0.8]" style={{ color: mapping.text }}>Visual <br/> Architecture.</h2>
                      </div>
                      <p className="max-w-xl text-lg md:text-2xl font-medium leading-relaxed opacity-70" style={{ color: mapping.text }}>
@@ -268,7 +268,7 @@ const Visualizer = ({ onClose }) => {
                      <Zap size={40} md:size={64} fill={mapping.primary} color={mapping.primary} />
                   </div>
                   <div className="text-center space-y-2">
-                     <h2 className="text-3xl md:text-5xl font-black italic tracking-tighter text-white uppercase truncate">Rang.Lab</h2>
+                     <h2 className="text-3xl md:text-5xl font-black italic tracking-tighter text-white uppercase truncate">RangLab</h2>
                      <p className="text-[8px] md:text-[10px] font-black uppercase tracking-[0.6em] text-white/30 italic">Identity Ecosystem</p>
                   </div>
                </div>
@@ -318,8 +318,8 @@ const Visualizer = ({ onClose }) => {
       {/* --- CONTACT HUB (PERSISTENT) --- */}
       <footer className="fixed bottom-0 right-0 p-8 hidden lg:block z-50 pointer-events-none">
           <div className="flex flex-col items-end gap-2 opacity-30 pointer-events-auto hover:opacity-100 transition-all cursor-crosshair">
-            <p className="text-[9px] font-black uppercase tracking-[0.6em] italic text-white">Rang.Lab Architect</p>
-            <p className="text-[7px] font-bold text-slate-500 uppercase tracking-widest">studio@ranglab.net</p>
+            <p className="text-[9px] font-black uppercase tracking-[0.6em] italic text-white">RanLab Studio</p>
+            <p className="text-[7px] font-bold text-slate-500 uppercase tracking-widest">ranglab_</p>
           </div>
       </footer>
     </div>

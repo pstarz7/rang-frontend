@@ -7,7 +7,7 @@ import {
 import { useColor } from '../context/ColorContext';
 import { useAuth } from '../context/AuthContext'; 
 import { useNavigate } from 'react-router-dom';
-import { generateWCAGPalette, getContrastColor, getShades } from '../utils/ColorEngine';
+import { generateWCAGPalette, getContrastColor, getShades } from '../utils/colorEngine';
 import chroma from 'chroma-js';
 import { gsap } from 'gsap';
 

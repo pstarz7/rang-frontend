@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState } from 'react';
-import { generateWCAGPalette } from '../utils/ColorEngine';
+import { generateWCAGPalette } from '../utils/colorEngine';
 
 const ColorContext = createContext();
 

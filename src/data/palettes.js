@@ -5611,6 +5611,2245 @@ export const premiumPalettes = [
     "family": "purple",
     "note": "A sophisticated purple primary with a 'surprise' yellow accent for high-energy call-to-actions."
   },
+  {
+    "id": 778,
+    "name": "Muted Casa Plaster",
+    "colors": ["#4A3F35", "#8C7A6B", "#D6C7B1", "#F5F2ED", "#2C2621"],
+    "style": "Minimal",
+    "family": "brown",
+    "note": "Inspired by the sun-bleached walls and earthy shadows of Casa Pueblo."
+  },
+  {
+    "id": 779,
+    "name": "Botanical Haze",
+    "colors": ["#1B2E26", "#4B635A", "#8EA399", "#D9E3DE", "#F2F5F4"],
+    "style": "Nature",
+    "family": "green",
+    "note": "A sophisticated, low-saturation sage gradient for a holistic feel."
+  },
+  {
+    "id": 780,
+    "name": "Dusk Horizon",
+    "colors": ["#1A1C2C", "#4D506D", "#8286A1", "#B9BBD1", "#E6E7F0"],
+    "style": "Aesthetic",
+    "family": "blue",
+    "note": "Muted twilight blues that provide a calm, steady interface backdrop."
+  },
+  {
+    "id": 781,
+    "name": "Terracotta Strata",
+    "colors": ["#4B231A", "#8D4F41", "#C78C7D", "#EBC8C1", "#FAF3F2"],
+    "style": "Nature",
+    "family": "orange",
+    "note": "Earthy clay tones inspired by geological layers mentioned in the article."
+  },
+  {
+    "id": 782,
+    "name": "MCM Honey",
+    "colors": ["#3D2B19", "#8E6B43", "#D4AF37", "#F2E3C9", "#1F160D"],
+    "style": "Vintage",
+    "family": "yellow",
+    "note": "A Mid-Century Modern amber palette with a low-chroma honey glow."
+  },
+  {
+    "id": 783,
+    "name": "Smoked Lavender",
+    "colors": ["#2D2331", "#5C4D63", "#95869C", "#CDC4D1", "#F6F4F7"],
+    "style": "Aesthetic",
+    "family": "purple",
+    "note": "A desaturated floral palette for a modern, genuine look."
+  },
+  {
+    "id": 784,
+    "name": "Slate & Olive",
+    "colors": ["#1E211A", "#3D4135", "#707563", "#A8AD99", "#E3E5DE"],
+    "style": "Nature",
+    "family": "green",
+    "note": "Quiet forest tones paired with a heavy charcoal for high contrast."
+  },
+  {
+    "id": 785,
+    "name": "Dried Rose Petal",
+    "colors": ["#4A1D24", "#8C4A54", "#C78B94", "#EBC6CC", "#FBF5F6"],
+    "style": "Aesthetic",
+    "family": "pink",
+    "note": "A muted crimson palette that feels safe and nurturing rather than aggressive."
+  },
+  {
+    "id": 786,
+    "name": "Nordic Lichen",
+    "colors": ["#0F1F1E", "#3A5C59", "#789B98", "#B8CCCB", "#F0F5F4"],
+    "style": "Minimal",
+    "family": "teal",
+    "note": "Icy, desaturated teals for a clean and professional branding feel."
+  },
+  {
+    "id": 787,
+    "name": "Faded Ink Newsprint",
+    "colors": ["#18181B", "#3F3F46", "#71717A", "#D4D4D8", "#F9F9FB"],
+    "style": "Minimal",
+    "family": "neutral",
+    "note": "The ultimate muted grey palette for text-heavy editorial designs."
+  },
+  {
+    "id": 788,
+    "name": "Canyon Dusk Pop",
+    "colors": ["#2D1B14", "#8B5E3C", "#C4A484", "#F5EFE6", "#FF5400"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "Follows the article tip: muted earth tones with a single vivid orange pop."
+  },
+  {
+    "id": 789,
+    "name": "Muted Seafoam",
+    "colors": ["#0E2A28", "#3E6B68", "#7FA6A3", "#C1D6D4", "#F0F7F6"],
+    "style": "Nature",
+    "family": "teal",
+    "note": "A calming aquatic palette with low chroma and high tranquility."
+  },
+  {
+    "id": 790,
+    "name": "Brutalist Parchment",
+    "colors": ["#000000", "#525252", "#A3A3A3", "#E5E7EB", "#FAF9F6"],
+    "style": "Brutalist",
+    "family": "neutral",
+    "note": "Raw, muted tones that focus on structural clarity and balance."
+  },
+  {
+    "id": 791,
+    "name": "Vintage Denim",
+    "colors": ["#1A2433", "#415166", "#758699", "#B2BDCC", "#F0F2F5"],
+    "style": "Vintage",
+    "family": "blue",
+    "note": "Soft, desaturated blues inspired by aged textiles and indigo dye."
+  },
+  {
+    "id": 792,
+    "name": "Ochre Sandstone",
+    "colors": ["#423215", "#856A36", "#C9AB6E", "#E8D8B0", "#FDFBF7"],
+    "style": "Nature",
+    "family": "yellow",
+    "note": "A grounding yellow palette that avoids 'bright' energy for steady focus."
+  },
+  {
+    "id": 793,
+    "name": "Charcoal Mulberry",
+    "colors": ["#1F0E1F", "#4A2D4A", "#856485", "#C1A9C1", "#F7F2F7"],
+    "style": "Luxury",
+    "family": "purple",
+    "note": "A deep, desaturated plum that feels premium yet understated."
+  },
+  {
+    "id": 794,
+    "name": "Muted Moss & Gold",
+    "colors": ["#1A2410", "#42502C", "#7C8D5F", "#B8C2A0", "#FACC15"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Muted greens with a tiny gold vivid highlight for interactive elements."
+  },
+  {
+    "id": 795,
+    "name": "Foggy Shoreline",
+    "colors": ["#1E293B", "#475569", "#94A3B8", "#CBD5E1", "#F8FAFC"],
+    "style": "Minimal",
+    "family": "neutral",
+    "note": "A misty, low-saturation blue-grey for modern software interfaces."
+  },
+  {
+    "id": 796,
+    "name": "Burnt Umber Minimal",
+    "colors": ["#261611", "#5C3D34", "#9E7B70", "#D6C3BC", "#FAF7F6"],
+    "style": "Minimal",
+    "family": "brown",
+    "note": "A quiet, earthy brown that provides a sense of safety and permanence."
+  },
+  {
+    "id": 797,
+    "name": "Muted Electric Mint",
+    "colors": ["#064E3B", "#10B981", "#D1FAE5", "#F0FDFA", "#00FFC8"],
+    "style": "Playful",
+    "family": "green",
+    "note": "Soft mint layers with a high-vibrancy pop for a modern, genuine tech feel."
+  },
+  {
+    "id": 798,
+    "name": "Muted Rainbow Gelato",
+    "colors": ["#4A1D1F", "#8C5E58", "#C79F9B", "#F2D5D1", "#0D9488"],
+    "style": "Pastel",
+    "family": "multi",
+    "note": "A harmonious mix of dusty rose and muted teal for a colorful yet calm aesthetic."
+  },
+  {
+    "id": 799,
+    "name": "Saturated Fog",
+    "colors": ["#1E293B", "#6366F1", "#A5B4FC", "#FDE047", "#F8FAFC"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "Muted periwinkle and slate paired with a desaturated lemon pop."
+  },
+  {
+    "id": 800,
+    "name": "Wildflower Meadow",
+    "colors": ["#2D1B14", "#9D174D", "#D97706", "#84CC16", "#FEFCE8"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Low-chroma versions of magenta, orange, and lime for an organic colorful feel."
+  },
+  {
+    "id": 801,
+    "name": "Dusty Retro Wave",
+    "colors": ["#0F172A", "#DB2777", "#06B6D4", "#FACC15", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Classic CMYK colors but with lowered saturation to meet the 'peace of mind' aesthetic."
+  },
+  {
+    "id": 802,
+    "name": "Muted Carnival",
+    "colors": ["#312E81", "#FB7185", "#38BDF8", "#4ADE80", "#F1F5F9"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A high-energy selection of hues dialed back for a professional studio look."
+  },
+  {
+    "id": 803,
+    "name": "Autumnal Bloom",
+    "colors": ["#450A0A", "#9A3412", "#D946EF", "#FDBA74", "#FAF9F6"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Earthy reds and oranges softened by a muted orchid tertiary tone."
+  },
+  {
+    "id": 804,
+    "name": "Deep Sea Flora",
+    "colors": ["#083344", "#0D9488", "#F472B6", "#93C5FD", "#ECFEFF"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Aquatic teals and blues contrasted with a dusty petal pink."
+  },
+  {
+    "id": 805,
+    "name": "Muted Sunset Drift",
+    "colors": ["#1C1917", "#EA580C", "#8B5CF6", "#FFEDD5", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "multi",
+    "note": "Sophisticated pairing of muted orange and desaturated violet for creative UIs."
+  },
+  {
+    "id": 806,
+    "name": "Global Village",
+    "colors": ["#1A2E05", "#B45309", "#0891B2", "#A7F3D0", "#F7FEE7"],
+    "style": "Vintage",
+    "family": "multi",
+    "note": "Inspired by ethnic patterns with muted moss, amber, and turquoise."
+  },
+  {
+    "id": 807,
+    "name": "Orchid Studio Mute",
+    "colors": ["#2E1065", "#A855F7", "#22D3EE", "#E9D5FF", "#FDFCFB"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Deep purple surfaces with airy, desaturated cyan and lilac highlights."
+  },
+  {
+    "id": 808,
+    "name": "Cloud Dancer Minimal",
+    "colors": ["#F0EDE9", "#D6D3D1", "#78716C", "#1C1917", "#FF6A3D"],
+    "style": "Minimal",
+    "family": "neutral",
+    "note": "Uses Pantone's 2026 Color of the Year (Cloud Dancer) as a warm, airy base with a vivid ember accent for CTAs."
+  },
+  {
+    "id": 809,
+    "name": "Night Plum Haze",
+    "colors": ["#1A1423", "#2B1538", "#5A4B8A", "#88A3D6", "#F9F9FB"],
+    "style": "Luxury",
+    "family": "purple",
+    "note": "A cinematic gradient palette that moves from deep night plum to a soft haze blue for immersive studio sites."
+  },
+  {
+    "id": 810,
+    "name": "Eco-Digital Moss",
+    "colors": ["#101417", "#316263", "#3E5C47", "#E7D8C6", "#FFFFFF"],
+    "style": "Nature",
+    "family": "green",
+    "note": "The 'Transformative Teal' and Moss green combo, grounded by deep ink; perfect for sustainable creative brands."
+  },
+  {
+    "id": 811,
+    "name": "Muted Mahogany Web",
+    "colors": ["#221A18", "#7A2E2A", "#D7A3A1", "#F5EFE7", "#C9A46B"],
+    "style": "Luxury",
+    "family": "red",
+    "note": "A premium editorial look featuring warm mahogany and dusty rose for high-end creative agencies."
+  },
+  {
+    "id": 812,
+    "name": "Glacial Blue Reset",
+    "colors": ["#0F172A", "#334155", "#94A3B8", "#BAE6FD", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "blue",
+    "note": "A 'Cool Blue' palette inspired by space-age mid-century design with a crisp, resetting clarity."
+  },
+  {
+    "id": 813,
+    "name": "Clay & Saffron Glow",
+    "colors": ["#1C1917", "#B45309", "#C36A4A", "#FDE68A", "#FAF9F6"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Grounded clay tones paired with a soft saffron yellow highlight for an optimistic but calm agency vibe."
+  },
+  {
+    "id": 814,
+    "name": "Mushroom Studio Neutral",
+    "colors": ["#171717", "#44403C", "#A8A29E", "#E7E5E4", "#FAFAF9"],
+    "style": "Minimal",
+    "family": "neutral",
+    "note": "A desaturated, sophisticated 'Mushroom' palette that feels structural and high-quality."
+  },
+  {
+    "id": 815,
+    "name": "Smoky Jade Digital",
+    "colors": ["#022C22", "#0D9488", "#2DD4BF", "#A7F3D0", "#00F5D4"],
+    "style": "Nature",
+    "family": "teal",
+    "note": "Smoky jade teals that bridge the gap between organic nature and high-tech innovation."
+  },
+  {
+    "id": 816,
+    "name": "Hazelnut Brutalist",
+    "colors": ["#000000", "#78350F", "#A67B5B", "#D6D3D1", "#FAF9F6"],
+    "style": "Brutalist",
+    "family": "brown",
+    "note": "Raw hazelnut browns paired with stark black and white for a bold, structural creative look."
+  },
+  {
+    "id": 817,
+    "name": "Eggplant Neon Twist",
+    "colors": ["#1E1B4B", "#2C003E", "#A78BFA", "#B6FF3B", "#F5F3FF"],
+    "style": "Aesthetic",
+    "family": "purple",
+    "note": "Moody 'Eggplant' purple (the new 2026 neutral) with a single neon chartreuse wasabi accent."
+  },
+  {
+    "id": 818,
+    "name": "Dusty Orchard",
+    "colors": ["#1E293B", "#64748B", "#A78BFA", "#FBCFE8", "#FAF9F6"],
+    "style": "Pastel",
+    "family": "multi",
+    "note": "A harmonious blend of slate blue, muted lavender, and soft petal pink."
+  },
+  {
+    "id": 819,
+    "name": "Smoky Evergreen",
+    "colors": ["#064E3B", "#374151", "#0D9488", "#FDE68A", "#F0FDF4"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Grounded forest greens meeting a desaturated mustard yellow for a sophisticated earthy vibe."
+  },
+  {
+    "id": 820,
+    "name": "Muted Midnight Sun",
+    "colors": ["#0F172A", "#1E3A8A", "#EA580C", "#94A3B8", "#FFF7ED"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "Professional navy paired with a low-saturation burnt orange for high-contrast storytelling."
+  },
+  {
+    "id": 821,
+    "name": "Sage & Terracotta",
+    "colors": ["#2D2314", "#78350F", "#84CC16", "#D6D3D1", "#F7FEE7"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "A dry, organic pairing of terracotta clay and muted sage green."
+  },
+  {
+    "id": 822,
+    "name": "Vaporized Teal",
+    "colors": ["#111827", "#0891B2", "#D946EF", "#E5E7EB", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "A 'Muted Vaporwave' aesthetic using desaturated cyan and orchid against stark neutrals."
+  },
+  {
+    "id": 823,
+    "name": "Parchment Wine",
+    "colors": ["#450A0A", "#991B1B", "#64748B", "#CBD5E1", "#FAFAF9"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Deep burgundy and slate grey for a mature, editorial creative agency feel."
+  },
+  {
+    "id": 824,
+    "name": "Hazy Indigo",
+    "colors": ["#1E1B4B", "#4338CA", "#10B981", "#D1FAE5", "#F8FAFC"],
+    "style": "Minimal",
+    "family": "multi",
+    "note": "Cool-toned indigo surfaces popped with a quiet, desaturated mint green."
+  },
+  {
+    "id": 825,
+    "name": "Muted Gold Coast",
+    "colors": ["#0C4A6E", "#0284C7", "#EAB308", "#FDE68A", "#F0F9FF"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Soft oceanic blues contrasted with a muted saffron yellow."
+  },
+  {
+    "id": 826,
+    "name": "Dusk Rose Studio",
+    "colors": ["#18181B", "#831843", "#3B82F6", "#DBEAFE", "#FAF5FF"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "A moody palette where deep magenta meets a soft, hazy sky blue."
+  },
+  {
+    "id": 827,
+    "name": "Autumnal Graphite",
+    "colors": ["#000000", "#B45309", "#4ADE80", "#94A3B8", "#F9FAFB"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Raw black and amber tones paired with a muted lime for a high-energy structural look."
+  },
+  {
+    "id": 828,
+    "name": "Jellyfish Glow",
+    "colors": ["#0F172A", "#7C3AED", "#00E5FF", "#FF007F", "#F8FAFC"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Deep sea navy providing high contrast for neon-adjacent purple, cyan, and hot pink."
+  },
+  {
+    "id": 829,
+    "name": "Sunny Sidewalk",
+    "colors": ["#1E3A8A", "#FACC15", "#FB923C", "#A3E635", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A primary-heavy palette with royal blue, sun yellow, and bright orange for a cheerful UI."
+  },
+  {
+    "id": 830,
+    "name": "Comic Dash",
+    "colors": ["#000000", "#EF4444", "#3B82F6", "#FDE047", "#F3F4F6"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Bold, ink-black outlines with vibrant superhero reds and blues."
+  },
+  {
+    "id": 831,
+    "name": "Berry Fizz",
+    "colors": ["#4C0519", "#BE123C", "#2DD4BF", "#F472B6", "#FDF2F8"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Deep burgundy anchors a refreshing mix of teal and bubblegum pink."
+  },
+  {
+    "id": 832,
+    "name": "Arcade Fever",
+    "colors": ["#171717", "#8B5CF6", "#10B981", "#F97316", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Retro gaming vibes using violet, emerald, and tangerine against a dark background."
+  },
+  {
+    "id": 833,
+    "name": "Bubblegum Sky",
+    "colors": ["#0284C7", "#F472B6", "#BAE6FD", "#FFD600", "#F0F9FF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Optimistic sky blue and pink paired with a sharp yellow for focal actions."
+  },
+  {
+    "id": 834,
+    "name": "Electric Meadow",
+    "colors": ["#064E3B", "#ADFF2F", "#06B6D4", "#FACC15", "#F7FEE7"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "High-vis lime and cyan grounded by a deep forest green for AA compliance."
+  },
+  {
+    "id": 835,
+    "name": "Candy Shop",
+    "colors": ["#312E81", "#EC4899", "#8B5CF6", "#00F5FF", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A sweet indigo-based palette with punchy pink and electric cyan."
+  },
+  {
+    "id": 836,
+    "name": "Toon Town",
+    "colors": ["#2D1B14", "#FF3E00", "#0EA5E9", "#A3E635", "#FEFCE8"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A bouncy mix of safety orange, sky blue, and parakeet green."
+  },
+  {
+    "id": 837,
+    "name": "Solar Splash",
+    "colors": ["#1E1B4B", "#F59E0B", "#10B981", "#6366F1", "#F8FAFC"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Deep navy paired with an energetic amber and seafoam green."
+  },
+  {
+    "id": 838,
+    "name": "Grape Soda Pop",
+    "colors": ["#2E1065", "#A855F7", "#FB7185", "#34D399", "#FAF5FF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Saturated violet and rose tones with a splash of fresh mint."
+  },
+  {
+    "id": 839,
+    "name": "Tangerine Dream",
+    "colors": ["#431407", "#EA580C", "#0891B2", "#FDE68A", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Bold orange and cyan contrast for high-energy creative platforms."
+  },
+  {
+    "id": 840,
+    "name": "Lollipop Noir",
+    "colors": ["#000000", "#F43F5E", "#818CF8", "#D9F99D", "#F1F5F9"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Stark dark mode with playful pops of crimson, periwinkle, and lime."
+  },
+  {
+    "id": 841,
+    "name": "Confetti Drift",
+    "colors": ["#1E293B", "#D946EF", "#06B6D4", "#EAB308", "#F9FAFB"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Orchid, teal, and saffron yellow balanced by a slate blue neutral."
+  },
+  {
+    "id": 842,
+    "name": "Jungle Jive",
+    "colors": ["#052E16", "#16A34A", "#F472B6", "#FDE047", "#ECFDF5"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Deep tropical green with energetic pink and yellow accents."
+  },
+  {
+    "id": 843,
+    "name": "Cyber Parakeet",
+    "colors": ["#0F172A", "#65A30D", "#00FFC8", "#7C3AED", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Techno-inspired parakeet green and violet grounded by deep ink."
+  },
+  {
+    "id": 844,
+    "name": "Sunset Glide",
+    "colors": ["#310E0E", "#EF4444", "#F97316", "#38BDF8", "#FFF7ED"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Warm red and orange gradients with a sharp, cooling blue contrast."
+  },
+  {
+    "id": 845,
+    "name": "Bouncy Berry",
+    "colors": ["#4C0519", "#DB2777", "#8B5CF6", "#22D3EE", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A rich berry base with high-chroma purple and cyan highlights."
+  },
+  {
+    "id": 846,
+    "name": "Citrus Punch",
+    "colors": ["#14532D", "#F59E0B", "#DC2626", "#F0FDFA", "#111827"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Saturated orange and red on a clean white-green base for food apps."
+  },
+  {
+    "id": 847,
+    "name": "Neon Playground",
+    "colors": ["#000000", "#FF00FF", "#00FFFF", "#CCFF00", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Maximum visibility neon triad for bold, experimental artist portfolios."
+  },
+  {
+    "id": 848,
+    "name": "Industrial Hazard",
+    "colors": ["#000000", "#FACC15", "#FFFFFF", "#71717A", "#EAB308"],
+    "style": "Brutalist",
+    "family": "yellow",
+    "note": "High-vis safety yellow clashing with solid black for a construction-core aesthetic."
+  },
+  {
+    "id": 849,
+    "name": "Acid Signal",
+    "colors": ["#000000", "#D9FF00", "#FF007F", "#FFFFFF", "#404040"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Electric lime and neon pink against a raw charcoal background."
+  },
+  {
+    "id": 850,
+    "name": "Raw Blueprint",
+    "colors": ["#000000", "#2563EB", "#FFFFFF", "#D1D5DB", "#1E40AF"],
+    "style": "Brutalist",
+    "family": "blue",
+    "note": "A technical, architectural blue paired with high-contrast white and heavy black."
+  },
+  {
+    "id": 851,
+    "name": "Digital Rust",
+    "colors": ["#1A1A1B", "#EA580C", "#0D9488", "#F5F5F5", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Oxidized orange and deep teal clashing on a clean industrial white surface."
+  },
+  {
+    "id": 852,
+    "name": "Xenon Glitch",
+    "colors": ["#000000", "#00FFC8", "#7C3AED", "#FFFFFF", "#1E1B4B"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Cyber-Brutalist violet and aqua; perfect for experimental web labs."
+  },
+  {
+    "id": 853,
+    "name": "Radical Saffron",
+    "colors": ["#000000", "#F59E0B", "#FFFFFF", "#451A03", "#D97706"],
+    "style": "Brutalist",
+    "family": "orange",
+    "note": "Bold amber tones used as heavy functional blocks against deep ink."
+  },
+  {
+    "id": 854,
+    "name": "Concrete Poison",
+    "colors": ["#0A0A0A", "#84CC16", "#D4D4D8", "#FFFFFF", "#3F6212"],
+    "style": "Brutalist",
+    "family": "green",
+    "note": "Toxic lime green accents cutting through heavy concrete greys."
+  },
+  {
+    "id": 855,
+    "name": "Ink & Magenta",
+    "colors": ["#000000", "#FF00FF", "#FFFFFF", "#525252", "#BE123C"],
+    "style": "Brutalist",
+    "family": "pink",
+    "note": "A striking, high-chroma pink pulse on a heavy dark-mode framework."
+  },
+  {
+    "id": 856,
+    "name": "Primary Grid",
+    "colors": ["#000000", "#EF4444", "#3B82F6", "#FDE047", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Modernist Bauhaus-inspired triad: red, blue, and yellow with heavy black borders."
+  },
+  {
+    "id": 857,
+    "name": "Static Cyan",
+    "colors": ["#000000", "#06B6D4", "#FFFFFF", "#164E63", "#CFFAFE"],
+    "style": "Brutalist",
+    "family": "blue",
+    "note": "Deep sea cyan clashing with raw white for a tech-brutalist interface."
+  },
+  {
+    "id": 858,
+    "name": "Asphalt Sunset",
+    "colors": ["#171717", "#F43F5E", "#FB923C", "#FFFFFF", "#404040"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Aggressive warm tones used for oversized UI components."
+  },
+  {
+    "id": 859,
+    "name": "Cyber-Lichen",
+    "colors": ["#000000", "#ADFF2F", "#065F46", "#FFFFFF", "#111827"],
+    "style": "Brutalist",
+    "family": "green",
+    "note": "Bioluminescent green paired with deep jungle navy for high-energy layouts."
+  },
+  {
+    "id": 860,
+    "name": "Royal Vandal",
+    "colors": ["#000000", "#6366F1", "#FACC15", "#FFFFFF", "#312E81"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "A heavy indigo primary contrasted with a vandal-spray yellow."
+  },
+  {
+    "id": 861,
+    "name": "Warning Red",
+    "colors": ["#000000", "#DC2626", "#FFFFFF", "#450A0A", "#E5E7EB"],
+    "style": "Brutalist",
+    "family": "red",
+    "note": "Maximum alert red used for bold buttons and structural grids."
+  },
+  {
+    "id": 862,
+    "name": "Obsidian & Chrome",
+    "colors": ["#000000", "#FFFFFF", "#94A3B8", "#475569", "#CBD5E1"],
+    "style": "Brutalist",
+    "family": "neutral",
+    "note": "A non-monochromatic neutral look using cool-toned slates for depth."
+  },
+  {
+    "id": 863,
+    "name": "Electric Orchre",
+    "colors": ["#1C1917", "#D97706", "#22D3EE", "#FFFFFF", "#44403C"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Warm amber clashing with electric cyan; designed for bold studio sites."
+  },
+  {
+    "id": 864,
+    "name": "Concrete Cobalt",
+    "colors": ["#000000", "#1D4ED8", "#D4D4D8", "#FFFFFF", "#1E3A8A"],
+    "style": "Brutalist",
+    "family": "blue",
+    "note": "A heavy-weight cobalt blue used as the primary structural color."
+  },
+  {
+    "id": 865,
+    "name": "Acidic Orchid",
+    "colors": ["#000000", "#A855F7", "#CCFF00", "#FFFFFF", "#2E1065"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "High-contrast purple and acid lime for an experimental digital feel."
+  },
+  {
+    "id": 866,
+    "name": "Iron & Ember",
+    "colors": ["#0A0A0A", "#EA580C", "#525252", "#FFFFFF", "#9A3412"],
+    "style": "Brutalist",
+    "family": "orange",
+    "note": "Saturated safety orange on a background of heavy iron grey."
+  },
+  {
+    "id": 867,
+    "name": "Toxic Teal",
+    "colors": ["#000000", "#0D9488", "#FFD600", "#FFFFFF", "#134E4A"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "A clashing combo of teal and yellow for an high-impact, functional UI."
+  },
+  {
+    "id": 868,
+    "name": "Cloud Dancer Glow",
+    "colors": ["#F0EDE9", "#FFD700", "#10B981", "#1C1917", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "multi",
+    "note": "Features the 2026 neutral 'Cloud Dancer' with a sharp 'Banana Yellow' highlighter accent for fitness tracking."
+  },
+  {
+    "id": 869,
+    "name": "Electric Aloe",
+    "colors": ["#ECFDF5", "#ADFF2F", "#065F46", "#022C22", "#F7FEE7"],
+    "style": "Nature",
+    "family": "green",
+    "note": "A high-vis lime 'highlighter' green over a deep botanical emerald for energy and growth."
+  },
+  {
+    "id": 870,
+    "name": "Fuchsia Pulse",
+    "colors": ["#FFF1F2", "#FF007F", "#4C0519", "#9F1239", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "pink",
+    "note": "Clean white space with a single 'Electric Fuchsia' pulse for high-intensity workout brands."
+  },
+  {
+    "id": 871,
+    "name": "Mermaid Mist",
+    "colors": ["#F0FDFA", "#00F5FF", "#083344", "#0E7490", "#CCFBF1"],
+    "style": "Aesthetic",
+    "family": "teal",
+    "note": "Translucent aqua and deep ocean teal for a restorative, 'Mermaidcore' swimming or spa vibe."
+  },
+  {
+    "id": 872,
+    "name": "Amber Haze",
+    "colors": ["#FFFBEB", "#FACC15", "#78350F", "#422006", "#FEFCE8"],
+    "style": "Aesthetic",
+    "family": "yellow",
+    "note": "A glowing, sun-washed yellow highlighter palette for outdoor activity and positivity."
+  },
+  {
+    "id": 873,
+    "name": "Zen Lavender",
+    "colors": ["#F5F3FF", "#A78BFA", "#2E1065", "#5B21B6", "#FAF5FF"],
+    "style": "Minimal",
+    "family": "purple",
+    "note": "Soothing smoky lavender with high-contrast violet for meditation and mental health apps."
+  },
+  {
+    "id": 874,
+    "name": "Cyber Mint",
+    "colors": ["#F0FFF4", "#00FFC8", "#064E3B", "#166534", "#FFFFFF"],
+    "style": "Modern",
+    "family": "green",
+    "note": "A futuristic 'Biolume' mint green highlighter for tech-driven fitness wearables."
+  },
+  {
+    "id": 875,
+    "name": "Peach Quartz",
+    "colors": ["#FFF7ED", "#FB923C", "#431407", "#7C2D12", "#FFF7ED"],
+    "style": "Aesthetic",
+    "family": "orange",
+    "note": "Soft peach skin tones contrasted with a deep sienna for holistic skincare or pilates."
+  },
+  {
+    "id": 876,
+    "name": "Glacial Blue Reset",
+    "colors": ["#F0F9FF", "#38BDF8", "#0F172A", "#1E3A8A", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "blue",
+    "note": "A crisp, highlighter blue for ice-bath therapy or high-performance athletics."
+  },
+  {
+    "id": 877,
+    "name": "Muskmelon Studio",
+    "colors": ["#FFF8F1", "#FCA5A5", "#7F1D1D", "#450A0A", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Warm, fruity melon tones (Trend 2026) paired with grounding dark cherry."
+  },
+  {
+    "id": 878,
+    "name": "Luminous Sage",
+    "colors": ["#F1F5F1", "#84CC16", "#1A2E05", "#3F6212", "#F7FEE7"],
+    "style": "Nature",
+    "family": "green",
+    "note": "A natural sage neutral base with a sharp lime 'vitality' highlighter accent."
+  },
+  {
+    "id": 879,
+    "name": "Orchid Athletic",
+    "colors": ["#FAF5FF", "#C084FC", "#310E0E", "#581C87", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "purple",
+    "note": "Expressive orchid purple meets a warm charcoal for a boutique gym aesthetic."
+  },
+  {
+    "id": 880,
+    "name": "Sky Aura",
+    "colors": ["#EFF6FF", "#60A5FA", "#172554", "#1E40AF", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "blue",
+    "note": "Soothing but powerful 'Blue Aura' highlighter for yoga and stretching apps."
+  },
+  {
+    "id": 881,
+    "name": "Tangerine Disco",
+    "colors": ["#FFF7ED", "#F97316", "#2D1B14", "#9A3412", "#FFFFFF"],
+    "style": "Retro",
+    "family": "orange",
+    "note": "A nostalgic 2026 trend: vibrant tangerine highlighter over soft, creamy neutrals."
+  },
+  {
+    "id": 882,
+    "name": "Biolume Teal",
+    "colors": ["#ECFEFF", "#22D3EE", "#083344", "#164E63", "#FFFFFF"],
+    "style": "Modern",
+    "family": "teal",
+    "note": "High-chroma cyan used as a 'functional' highlighter for data and metrics."
+  },
+  {
+    "id": 883,
+    "name": "Parchment Clay",
+    "colors": ["#FAF9F6", "#D97706", "#2D2314", "#451A03", "#FEFCE8"],
+    "style": "Minimal",
+    "family": "brown",
+    "note": "A sophisticated earthy palette with an amber highlighter for 'Natural Energy' vibes."
+  },
+  {
+    "id": 884,
+    "name": "Electric Primrose",
+    "colors": ["#FDF2F8", "#F472B6", "#500724", "#831843", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "pink",
+    "note": "A glowing pink highlighter palette for women's wellness and community fitness."
+  },
+  {
+    "id": 885,
+    "name": "Wasabi Minimal",
+    "colors": ["#F7FEE7", "#CCFF00", "#1A1A1A", "#3F6212", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "green",
+    "note": "A stark, high-contrast palette with a 'Wasabi' neon highlighter for modern CrossFit branding."
+  },
+  {
+    "id": 886,
+    "name": "Silk & Graphite",
+    "colors": ["#F5F5F5", "#D1D5DB", "#111827", "#374151", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "neutral",
+    "note": "The ultimate aesthetic neutral; pure grey scales with surgical clarity."
+  },
+  {
+    "id": 887,
+    "name": "Coral Pulse",
+    "colors": ["#FFF1F2", "#FB7185", "#310E0E", "#9F1239", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "red",
+    "note": "Vibrant coral highlights over soft white; balances passion with tranquility."
+  },
+  {
+    "id": 888,
+    "name": "Toy Block Primary",
+    "colors": ["#E11D48", "#2563EB", "#FACC15", "#1E293B", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A modern take on LEGO-style primaries; uses deep slate instead of black for softer contrast."
+  },
+  {
+    "id": 889,
+    "name": "Dino Jungle",
+    "colors": ["#16A34A", "#84CC16", "#EA580C", "#451A03", "#F7FEE7"],
+    "style": "Nature",
+    "family": "green",
+    "note": "Tactile moss and lime greens with a 'lava' orange for navigation buttons."
+  },
+  {
+    "id": 890,
+    "name": "Bubblegum Space",
+    "colors": ["#7C3AED", "#DB2777", "#00F5FF", "#1E1B4B", "#FDF2F8"],
+    "style": "Playful",
+    "family": "purple",
+    "note": "A magical 'Mermaidcore' 2026 trend palette; iridescent violet and cyan for fantasy apps."
+  },
+  {
+    "id": 891,
+    "name": "Banana Boat",
+    "colors": ["#FFD600", "#0EA5E9", "#F472B6", "#0C4A6E", "#FFFFFF"],
+    "style": "Playful",
+    "family": "yellow",
+    "note": "Features 'Banana Yellow' (Trend 2026); cheerful and high-energy but easy on the eyes."
+  },
+  {
+    "id": 892,
+    "name": "Clay Workshop",
+    "colors": ["#C2410C", "#D97706", "#0D9488", "#2D1B14", "#FEFCE8"],
+    "style": "Vintage",
+    "family": "multi",
+    "note": "A 'Human Touch' palette with terracotta and teal; feels like handmade pottery or play-dough."
+  },
+  {
+    "id": 893,
+    "name": "Sky High Kite",
+    "colors": ["#38BDF8", "#F97316", "#10B981", "#0F172A", "#F0F9FF"],
+    "style": "Minimal",
+    "family": "blue",
+    "note": "Optimistic sky blue with safety orange and emerald for sports or outdoor kids' apps."
+  },
+  {
+    "id": 894,
+    "name": "Pixel Monster",
+    "colors": ["#9333EA", "#ADFF2F", "#000000", "#FFFFFF", "#4C1D95"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "A 'Pixel Perfect' 2026 trend; clashing violet and neon green for gaming interfaces."
+  },
+  {
+    "id": 895,
+    "name": "Berry Smoothie",
+    "colors": ["#BE123C", "#FB7185", "#2DD4BF", "#064E3B", "#FFF1F2"],
+    "style": "Playful",
+    "family": "pink",
+    "note": "Yummy, food-inspired tones; deep berry red and fresh mint teal for healthy-eating apps."
+  },
+  {
+    "id": 896,
+    "name": "Crayon Box Sunset",
+    "colors": ["#EF4444", "#F59E0B", "#6366F1", "#1E1B4B", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Nostalgic 90s primary tones with a deep ink anchor for readability."
+  },
+  {
+    "id": 897,
+    "name": "Arctic Penguin",
+    "colors": ["#0F172A", "#3B82F6", "#BAE6FD", "#FFFFFF", "#F8FAFC"],
+    "style": "Minimal",
+    "family": "blue",
+    "note": "A clean, high-contrast palette for educational apps focusing on focus and clarity."
+  },
+  {
+    "id": 898,
+    "name": "Robo-Neon",
+    "colors": ["#000000", "#39FF14", "#00FFFF", "#FFFFFF", "#111827"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "Inspired by tech-toys; neon green and cyan on a 'True Black' background for depth."
+  },
+  {
+    "id": 899,
+    "name": "Sunwashed Soft",
+    "colors": ["#FDE68A", "#FCA5A5", "#93C5FD", "#44403C", "#FAFAF9"],
+    "style": "Pastel",
+    "family": "multi",
+    "note": "A 2026 trend for toddlers; gentle sun-washed tones that reduce digital eye strain."
+  },
+  {
+    "id": 900,
+    "name": "Firefly Night",
+    "colors": ["#020617", "#D9FF00", "#8B5CF6", "#FDFCFB", "#312E81"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "High-contrast 'Thermal Glow' yellow over deep violet for bedtime story apps."
+  },
+  {
+    "id": 901,
+    "name": "Eco-Explorer",
+    "colors": ["#065F46", "#4ADE80", "#D97706", "#FEF9C3", "#064E3B"],
+    "style": "Nature",
+    "family": "green",
+    "note": "Rich 'Eco-Inspired' tones for nature discovery and outdoor learning tools."
+  },
+  {
+    "id": 902,
+    "name": "Lollipop Dash",
+    "colors": ["#EC4899", "#8B5CF6", "#FACC15", "#1E1B4B", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Classic candy colors; punchy pink and grape purple with a high-vis yellow pop."
+  },
+  {
+    "id": 903,
+    "name": "Retro Arcade",
+    "colors": ["#000000", "#FF00FF", "#38BDF8", "#FFFFFF", "#7000FF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "80s-inspired 'Tangerine Disco' neon magenta and electric blue for youth media."
+  },
+  {
+    "id": 904,
+    "name": "Farmhouse Fresh",
+    "colors": ["#B91C1C", "#15803D", "#FDE047", "#451A03", "#F0FDFA"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Barn red and tractor green with a soft straw yellow; great for farm-themed games."
+  },
+  {
+    "id": 905,
+    "name": "Cloud Nine Creative",
+    "colors": ["#FDF2F8", "#F472B6", "#06B6D4", "#083344", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "pink",
+    "note": "A airy, 'Sunwashed' palette for creative drawing and storytelling apps."
+  },
+  {
+    "id": 906,
+    "name": "Circuit Board Kids",
+    "colors": ["#111827", "#10B981", "#3B82F6", "#D1D5DB", "#FFFFFF"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "A professional but approachable tech palette for STEM and coding for kids."
+  },
+  {
+    "id": 907,
+    "name": "Golden Honeybee",
+    "colors": ["#78350F", "#EAB308", "#FDE68A", "#000000", "#FFFBEB"],
+    "style": "Vintage",
+    "family": "yellow",
+    "note": "Inspired by 'Hale Honey' 60s branding; nostalgic and comforting for parent-child apps."
+  },
+  {
+    "id": 908,
+    "name": "Emerald Vault",
+    "colors": ["#022C22", "#064E3B", "#D4AF37", "#F9F6F0", "#111827"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "A deep 'Midnight Emerald' base contrasted with a 24k gold leaf accent and cream neutrals."
+  },
+  {
+    "id": 909,
+    "name": "Imperial Sapphire",
+    "colors": ["#001E2F", "#0277BD", "#EA580C", "#D1D5DB", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Regal sapphire blue paired with a 'Sunwashed' amber for high-end automotive or tech branding."
+  },
+  {
+    "id": 910,
+    "name": "Obsidian Orchid",
+    "colors": ["#1A1A1B", "#4C1D95", "#DB2777", "#F3E8FF", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "A dark-mode masterpiece using jet obsidian with vivid orchid and fuchsia jewel tones."
+  },
+  {
+    "id": 911,
+    "name": "Champagne & Slate",
+    "colors": ["#1E293B", "#475569", "#C9A46B", "#F5F2ED", "#000000"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Sophisticated slate greys balanced by a warm, bubbly champagne gold."
+  },
+  {
+    "id": 912,
+    "name": "Royal Mahogany",
+    "colors": ["#2D1B14", "#7F1D1D", "#0D9488", "#FEFCE8", "#1C1917"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Deep wood-inspired mahogany paired with a 'Smoky Jade' teal for a library or cigar-lounge aesthetic."
+  },
+  {
+    "id": 913,
+    "name": "Midnight Saffron",
+    "colors": ["#0F172A", "#1E3A8A", "#EAB308", "#FDE68A", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "A professional navy anchor with a high-energy saffron yellow highlight for elite finance apps."
+  },
+  {
+    "id": 914,
+    "name": "Bordeaux Muse",
+    "colors": ["#310E0E", "#881337", "#2DD4BF", "#FFF1F2", "#18181B"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Rich Bordeaux wine red clashing with a sharp, modern mint teal for fashion-forward brands."
+  },
+  {
+    "id": 915,
+    "name": "Velvet Indigo",
+    "colors": ["#1E1B4B", "#4338CA", "#FB923C", "#E0E7FF", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Deep velvet indigo paired with a vibrant, glowing apricot for high-contrast accessibility."
+  },
+  {
+    "id": 916,
+    "name": "Graphite Rose Gold",
+    "colors": ["#171717", "#404040", "#FB7185", "#FCE7F3", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Architectural graphite greys softened by a premium, metallic rose gold accent."
+  },
+  {
+    "id": 917,
+    "name": "Platinum Moss",
+    "colors": ["#064E3B", "#14532D", "#94A3B8", "#E2E8F0", "#F0FDFA"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Deep hunter green meets cool-toned platinum slates for a modern 'Quiet Luxury' estate vibe."
+  },
+  {
+    "id": 918,
+    "name": "Midnight Garden Bloom",
+    "colors": ["#1A2410", "#DE5657", "#A78BFA", "#F8FAFC", "#064E3B"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Inspired by 'Midnight Garden' (Trend 2026); deep forest greens contrasted with a dusty rose and soft lavender accent."
+  },
+  {
+    "id": 919,
+    "name": "Cloud Dancer Waterlily",
+    "colors": ["#F0EDE9", "#006A6A", "#FB7185", "#1C1B1F", "#CCFBF1"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Uses Pantone's 2026 'Cloud Dancer' white with deep teal and a luminous waterlily pink for a serene, airy feel."
+  },
+  {
+    "id": 920,
+    "name": "Warm Eucalyptus Glow",
+    "colors": ["#4B635A", "#84CC16", "#FFB300", "#FAF9F6", "#052E16"],
+    "style": "Nature",
+    "family": "green",
+    "note": "Inspired by Valspar's 2026 'Warm Eucalyptus'; soft sage paired with a 'Solar Flare' amber highlighter accent."
+  },
+  {
+    "id": 921,
+    "name": "Terracotta Strata",
+    "colors": ["#451A03", "#9A3412", "#0D9488", "#FEFCE8", "#FDBA74"],
+    "style": "Vintage",
+    "family": "multi",
+    "note": "Deep burnt terracotta and warm rust grounded by a 'Transformative Teal' (WGSN 2026) for organic energy."
+  },
+  {
+    "id": 922,
+    "name": "Hidden Gem Moss",
+    "colors": ["#002114", "#00875A", "#7000FF", "#F0FDFA", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Inspired by Behr's 2026 'Hidden Gem'; deep blue-greens paired with a surprise 'Tech-Violet' flower accent."
+  },
+  {
+    "id": 923,
+    "name": "Sun-Baked Sands",
+    "colors": ["#1C1917", "#B45309", "#C9A46B", "#F5F2ED", "#00F5FF"],
+    "style": "Minimal",
+    "family": "multi",
+    "note": "Warm, earthy 'Universal Khaki' (Trend 2026) neutrals with a sharp, watery cyan pop for contrast."
+  },
+  {
+    "id": 924,
+    "name": "Wildflower Abyss",
+    "colors": ["#020617", "#EA580C", "#9333EA", "#FBCFE8", "#F1F5F9"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "A dark-mode nature palette; deep ink blue featuring vibrant poppy orange and orchid purple highlights."
+  },
+  {
+    "id": 925,
+    "name": "Orchard Mist",
+    "colors": ["#310E0E", "#881337", "#10B981", "#ECFDF5", "#FFFFFF"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Rich berry reds and plum tones balanced by a fresh, misty green for a fruitful, high-energy UI."
+  },
+  {
+    "id": 926,
+    "name": "Lichen & Limestone",
+    "colors": ["#18181B", "#71717A", "#A3E635", "#E5E7EB", "#FAF9F6"],
+    "style": "Minimal",
+    "family": "green",
+    "note": "Structural 'Limestone' neutrals paired with a raw, high-vis neon lichen green."
+  },
+  {
+    "id": 927,
+    "name": "Golden Honeybee",
+    "colors": ["#422006", "#EAB308", "#22D3EE", "#FFFBEB", "#000000"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Deep amber and honeyed gold tones (Trend 2026) contrasted with a sky-blue 'pollen' accent."
+  },
+  {
+    "id": 928,
+    "name": "Vinyl Tangerine",
+    "colors": ["#1A1A1B", "#F97316", "#0D9488", "#FDE68A", "#FDFCFB"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "A high-contrast 1960s soul-inspired palette; burnt tangerine and deep teal over a record-sleeve cream."
+  },
+  {
+    "id": 929,
+    "name": "Arcade Flux",
+    "colors": ["#0F172A", "#FF00FF", "#00FFFF", "#FACC15", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "A 1980s neon-grid aesthetic updated for modern UI; vibrant magenta and cyan balanced by a heavy navy anchor."
+  },
+  {
+    "id": 930,
+    "name": "Kodachrome Coast",
+    "colors": ["#450A0A", "#EF4444", "#3B82F6", "#BAE6FD", "#FAF9F6"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Inspired by 1950s film photography; saturated reds and sky blues with a 'Sun-bleached' white base."
+  },
+  {
+    "id": 931,
+    "name": "Technicolor Suede",
+    "colors": ["#2D1B14", "#8B5CF6", "#F472B6", "#A3E635", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "A quirky, high-energy mix of violet and parakeet green; captures the bold experimentation of 90s indie branding."
+  },
+  {
+    "id": 932,
+    "name": "Bauhaus Modernist",
+    "colors": ["#000000", "#DC2626", "#2563EB", "#FDE047", "#F3F4F6"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "A structural primary triad (Red, Blue, Yellow) with heavy ink-black borders for a brutalist-retro UI."
+  },
+  {
+    "id": 933,
+    "name": "Polaroid Bloom",
+    "colors": ["#310E0E", "#BE123C", "#10B981", "#FDF2F8", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Deep mulberry and mint green inspired by faded instant film; feels romantic yet digitally sharp."
+  },
+  {
+    "id": 934,
+    "name": "Solar Cassette",
+    "colors": ["#1E1B4B", "#FB923C", "#EA580C", "#D1FAE5", "#F8FAFC"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Synthwave-adjacent; uses deep indigo with a warm 'Sunset Glow' orange and fresh seafoam."
+  },
+  {
+    "id": 935,
+    "name": "Apothecary Amber",
+    "colors": ["#422006", "#D97706", "#065F46", "#FFFBEB", "#1C1917"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "A rich, Victorian-meets-Modern aesthetic using honeyed amber and deep botanical green."
+  },
+  {
+    "id": 936,
+    "name": "8-Bit Meadow",
+    "colors": ["#052E16", "#84CC16", "#F43F5E", "#E2E8F0", "#FFFFFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Classic video game 'Grass and Lava' palette; high-vis lime and crimson for an energetic youthful brand."
+  },
+  {
+    "id": 937,
+    "name": "Denim & Saffron",
+    "colors": ["#172554", "#1E40AF", "#EAB308", "#FDE68A", "#F0F9FF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "A clean, collegiate retro look; deep varsity blue paired with a punchy mustard yellow."
+  },
+  {
+    "id": 938,
+    "name": "Minimal Nature Drift",
+    "colors": ["#0F172A", "#10B981", "#FDE68A", "#F8FAFC", "#334155"],
+    "style": "Minimal-Nature",
+    "family": "multi",
+    "note": "A clean architectural slate base with organic emerald and sun-washed yellow accents."
+  },
+  {
+    "id": 939,
+    "name": "Luxury Brutalist Ink",
+    "colors": ["#000000", "#D4AF37", "#FFFFFF", "#4C1D95", "#E5E7EB"],
+    "style": "Luxury-Brutalist",
+    "family": "multi",
+    "note": "Raw black and white grids elevated by 24k gold and a deep royal purple focal point."
+  },
+  {
+    "id": 940,
+    "name": "Retro Playful Pop",
+    "colors": ["#1E1B4B", "#F43F5E", "#00FFFF", "#FFD600", "#FFFFFF"],
+    "style": "Retro-Playful",
+    "family": "multi",
+    "note": "80s arcade energy using deep indigo, neon pink, and electric cyan for high-action UIs."
+  },
+  {
+    "id": 941,
+    "name": "Pastel Vintage Bloom",
+    "colors": ["#310E0E", "#FBCFE8", "#A7F3D0", "#93C5FD", "#FFF1F2"],
+    "style": "Pastel-Vintage",
+    "family": "multi",
+    "note": "Desaturated 1950s candy tones grounded by a deep mahogany for sophisticated softness."
+  },
+  {
+    "id": 942,
+    "name": "Brutalist Nature Acid",
+    "colors": ["#052E16", "#CCFF00", "#FFFFFF", "#111827", "#84CC16"],
+    "style": "Brutalist-Nature",
+    "family": "multi",
+    "note": "High-vis 'Acid Lichen' green clashing with deep jungle greens and stark white."
+  },
+  {
+    "id": 943,
+    "name": "Minimal Luxury Slate",
+    "colors": ["#18181B", "#C9A46B", "#94A3B8", "#F5F2ED", "#000000"],
+    "style": "Minimal-Luxury",
+    "family": "multi",
+    "note": "Architectural charcoal and champagne gold; the 'Quiet Luxury' look for 2026."
+  },
+  {
+    "id": 944,
+    "name": "Vintage Playful Groove",
+    "colors": ["#422006", "#EA580C", "#0D9488", "#FDE047", "#FEFCE8"],
+    "style": "Vintage-Playful",
+    "family": "multi",
+    "note": "70s corduroy vibes with saturated orange and teal; perfect for creative agencies."
+  },
+  {
+    "id": 945,
+    "name": "Pastel Brutalist Grid",
+    "colors": ["#000000", "#F472B6", "#BAE6FD", "#FFFFFF", "#525252"],
+    "style": "Pastel-Brutalist",
+    "family": "multi",
+    "note": "Heavy black borders surrounding soft bubblegum pink and sky blue blocks."
+  },
+  {
+    "id": 946,
+    "name": "Nature Luxury Emerald",
+    "colors": ["#022C22", "#064E3B", "#FB923C", "#F0FDFA", "#FFFFFF"],
+    "style": "Nature-Luxury",
+    "family": "multi",
+    "note": "Deep 'Midnight Emerald' paired with a vibrant apricot glow for premium organic brands."
+  },
+  {
+    "id": 947,
+    "name": "Minimal Retro Denim",
+    "colors": ["#172554", "#1E40AF", "#EF4444", "#F1F5F9", "#FFFFFF"],
+    "style": "Minimal-Retro",
+    "family": "multi",
+    "note": "A clean 'Varsity' look using deep navy and a sharp, nostalgic red pop."
+  },
+  {
+    "id": 948,
+    "name": "Playful Luxury Jewel",
+    "colors": ["#2E1065", "#DB2777", "#FACC15", "#F5F3FF", "#000000"],
+    "style": "Playful-Luxury",
+    "family": "multi",
+    "note": "Vivid amethyst purple and fuchsia grounded by a playful 24k gold sparkle."
+  },
+  {
+    "id": 949,
+    "name": "Vintage Nature Earth",
+    "colors": ["#2D1B14", "#8B5E3C", "#15803D", "#FFEDD5", "#1C1917"],
+    "style": "Vintage-Nature",
+    "family": "multi",
+    "note": "A heritage-inspired mix of walnut wood, forest green, and creamy parchment."
+  },
+  {
+    "id": 950,
+    "name": "Brutalist Playful Neon",
+    "colors": ["#000000", "#39FF14", "#00E5FF", "#FFFFFF", "#7000FF"],
+    "style": "Brutalist-Playful",
+    "family": "multi",
+    "note": "High-impact tech neon (Green/Cyan) used for functional buttons on a dark grid."
+  },
+  {
+    "id": 951,
+    "name": "Minimal Pastel Air",
+    "colors": ["#1E293B", "#38BDF8", "#FBCFE8", "#F8FAFC", "#FFFFFF"],
+    "style": "Minimal-Pastel",
+    "family": "multi",
+    "note": "A breathable, high-contrast mix of soft azure and rose for modern SaaS apps."
+  },
+  {
+    "id": 952,
+    "name": "Retro Luxury Saffron",
+    "colors": ["#1E1B4B", "#EAB308", "#8B5CF6", "#FFFBEB", "#171717"],
+    "style": "Retro-Luxury",
+    "family": "multi",
+    "note": "Elegant indigo and saffron yellow; evokes high-end 60s boutique branding."
+  },
+  {
+    "id": 953,
+    "name": "Nature Playful Sun",
+    "colors": ["#064E3B", "#F59E0B", "#10B981", "#ECFDF5", "#000000"],
+    "style": "Nature-Playful",
+    "family": "multi",
+    "note": "Energetic tropical greens clashing with a warm sunrise orange."
+  },
+  {
+    "id": 954,
+    "name": "Brutalist Vintage Steel",
+    "colors": ["#0A0A0A", "#991B1B", "#94A3B8", "#FFFFFF", "#27272A"],
+    "style": "Brutalist-Vintage",
+    "family": "multi",
+    "note": "Industrial steel greys and oxidized red; captures a 'lo-fi' technical aesthetic."
+  },
+  {
+    "id": 955,
+    "name": "Luxury Pastel Silk",
+    "colors": ["#2D0645", "#A78BFA", "#F472B6", "#FAF5FF", "#FFFFFF"],
+    "style": "Luxury-Pastel",
+    "family": "multi",
+    "note": "Deep violet anchor with silky lavender and rose; designed for high-end wellness."
+  },
+  {
+    "id": 956,
+    "name": "Minimal Playful Mint",
+    "colors": ["#0F172A", "#2DD4BF", "#F43F5E", "#F0FDFA", "#FFFFFF"],
+    "style": "Minimal-Playful",
+    "family": "multi",
+    "note": "A sharp, modern cyan and coral pairing over a clean professional navy."
+  },
+  {
+    "id": 957,
+    "name": "Retro Nature Moss",
+    "colors": ["#451A03", "#65A30D", "#EA580C", "#FEFCE8", "#1A2E05"],
+    "style": "Retro-Nature",
+    "family": "multi",
+    "note": "Earthy 70s-inspired moss green and burnt orange for organic, 'human' digital experiences."
+  },
+  {
+    "id": 958,
+    "name": "Obsidian & Gold Leaf",
+    "colors": ["#0A0A0A", "#171717", "#C5A059", "#F5F2ED", "#FFFFFF"],
+    "style": "Luxury-Minimal",
+    "family": "neutral",
+    "note": "AAA Standard. High-contrast luxury using a jet obsidian base with metallic gold accents. Use #FFFFFF text on dark surfaces."
+  },
+  {
+    "id": 959,
+    "name": "Midnight Emerald Vault",
+    "colors": ["#022C22", "#064E3B", "#D4AF37", "#F0FDFA", "#111827"],
+    "style": "Luxury-Nature",
+    "family": "green",
+    "note": "AAA Standard. Deepest forest green. Use #F0FDFA (Mint White) for body text to ensure maximum legibility over dark emerald."
+  },
+  {
+    "id": 960,
+    "name": "Imperial Sapphire Slate",
+    "colors": ["#001E2F", "#083344", "#94A3B8", "#E2E8F0", "#FFFFFF"],
+    "style": "Luxury-Modern",
+    "family": "blue",
+    "note": "AAA Standard. Midnight navy anchors with silver-grey slates. High-contrast legibility for fintech or premium tech."
+  },
+  {
+    "id": 961,
+    "name": "Bordeaux Muse Noir",
+    "colors": ["#1A0505", "#450A0A", "#D946EF", "#FEE2E2", "#FFFFFF"],
+    "style": "Luxury-Aesthetic",
+    "family": "red",
+    "note": "AA Standard. Deep wine base with orchid accents. Use White text on the dark maroon surfaces to hit 7:1 contrast."
+  },
+  {
+    "id": 962,
+    "name": "Champagne & Graphite",
+    "colors": ["#18181B", "#27272A", "#C5A059", "#FAF9F6", "#000000"],
+    "style": "Luxury-Minimal",
+    "family": "multi",
+    "note": "AAA Standard. Graphite grey surfaces with champagne gold. Use #000000 text on #FAF9F6 for perfect clarity."
+  },
+  {
+    "id": 963,
+    "name": "Obsidian Orchid Jewel",
+    "colors": ["#0F071A", "#2E1065", "#DB2777", "#F3E8FF", "#FFFFFF"],
+    "style": "Luxury-Playful",
+    "family": "purple",
+    "note": "AA Standard. Dark violet base. Use #FFFFFF for text. The magenta (#DB2777) is for high-contrast buttons only."
+  },
+  {
+    "id": 964,
+    "name": "Cognac & Carbon",
+    "colors": ["#000000", "#1C1917", "#78350F", "#B45309", "#FDE68A"],
+    "style": "Luxury-Vintage",
+    "family": "brown",
+    "note": "AAA Standard. Rich leather-inspired tones. Saffron gold (#FDE68A) provides high-contrast UI highlights against black."
+  },
+  {
+    "id": 965,
+    "name": "Platinum Silk Minimal",
+    "colors": ["#F8FAFC", "#E2E8F0", "#475569", "#0F172A", "#000000"],
+    "style": "Luxury-Minimal",
+    "family": "neutral",
+    "note": "AAA Standard. Light silk background (#F8FAFC) paired with #0F172A (Deep Slate) text for flawless readability."
+  },
+  {
+    "id": 966,
+    "name": "Midnight Jade & Pearl",
+    "colors": ["#012A24", "#0D9488", "#CCFBF1", "#F1F5F9", "#FFFFFF"],
+    "style": "Luxury-Nature",
+    "family": "teal",
+    "note": "AAA Standard. Dark jade teal with pearl-white surfaces. Use #012A24 for text on light backgrounds."
+  },
+  {
+    "id": 967,
+    "name": "Espresso & Bronze Glow",
+    "colors": ["#1A0F0A", "#431407", "#C96524", "#FFF7ED", "#FFFFFF"],
+    "style": "Luxury-Aesthetic",
+    "family": "orange",
+    "note": "AA Standard. Warm espresso dark mode with glowing bronze highlights. Ivory text for premium reading."
+  },
+  {
+    "id": 968,
+    "name": "Royal Indigo & Amber",
+    "colors": ["#1E1B4B", "#312E81", "#EAB308", "#EEF2FF", "#FFFFFF"],
+    "style": "Luxury-Modern",
+    "family": "blue",
+    "note": "AAA Standard. High-contrast navy and amber. Use White text on navy surfaces and Navy text on Amber."
+  },
+  {
+    "id": 969,
+    "name": "Slate Plum Archive",
+    "colors": ["#1E1B4B", "#4C1D95", "#A78BFA", "#F5F3FF", "#000000"],
+    "style": "Luxury-Aesthetic",
+    "family": "purple",
+    "note": "AA Standard. Deep plum and slate. Use #000000 text on #F5F3FF surfaces for maximum accessibility."
+  },
+  {
+    "id": 970,
+    "name": "Marble & Onyx Brutalist",
+    "colors": ["#000000", "#525252", "#A3A3A3", "#E5E7EB", "#FFFFFF"],
+    "style": "Luxury-Brutalist",
+    "family": "neutral",
+    "note": "AAA Standard. Stark high-fashion contrast. Pure black and marble white for flawless legibility."
+  },
+  {
+    "id": 971,
+    "name": "Hunter Green & Gold Leaf",
+    "colors": ["#052E16", "#14532D", "#FACC15", "#ECFDF5", "#FFFFFF"],
+    "style": "Luxury-Nature",
+    "family": "green",
+    "note": "AAA Standard. Deepest green paired with high-vis yellow gold. Use #052E16 text on soft mint backgrounds."
+  },
+  {
+    "id": 972,
+    "name": "Deep Sea & Coral Luxe",
+    "colors": ["#083344", "#0E7490", "#F43F5E", "#ECFEFF", "#FFFFFF"],
+    "style": "Luxury-Playful",
+    "family": "teal",
+    "note": "AA Standard. Dark teal oceanic base with coral red highlights. Use #083344 for text on icy backgrounds."
+  },
+  {
+    "id": 973,
+    "name": "Antique Saffron Ink",
+    "colors": ["#1C1917", "#44403C", "#EAB308", "#FEFCE8", "#000000"],
+    "style": "Luxury-Vintage",
+    "family": "yellow",
+    "note": "AAA Standard. Aged parchment paper with deep charcoal ink and saffron gold headers."
+  },
+  {
+    "id": 974,
+    "name": "Midnight Rose Carbon",
+    "colors": ["#121212", "#831843", "#FB7185", "#FCE7F3", "#FFFFFF"],
+    "style": "Luxury-Aesthetic",
+    "family": "pink",
+    "note": "AA Standard. Carbon black base with metallic rose accents. High-end fashion cosmetic feel."
+  },
+  {
+    "id": 975,
+    "name": "Cobalt Chrome Luxury",
+    "colors": ["#001A41", "#1D4ED8", "#93C5FD", "#F0F9FF", "#FFFFFF"],
+    "style": "Luxury-Modern",
+    "family": "blue",
+    "note": "AAA Standard. Deep technical blue with chrome highlights. Perfect for luxury auto or high-tech."
+  },
+  {
+    "id": 976,
+    "name": "Smoked Umber & Clay",
+    "colors": ["#2D1B14", "#78350F", "#C4A484", "#F5EFE6", "#000000"],
+    "style": "Luxury-Minimal",
+    "family": "brown",
+    "note": "AAA Standard. Earthy luxury. Use #000000 (Black) text on #F5EFE6 (Cream) for a textured, clean look."
+  },
+  {
+    "id": 977,
+    "name": "Obsidian Emerald Glow",
+    "colors": ["#000000", "#064E3B", "#10B981", "#D1FAE5", "#FFFFFF"],
+    "style": "Luxury-Modern",
+    "family": "green",
+    "note": "AAA Standard. Jet obsidian with a vibrant emerald glow. Use #FFFFFF for text on dark surfaces."
+  },
+  {
+    "id": 978,
+    "name": "Equinox Slate & Ochre",
+    "colors": ["#1E293B", "#64748B", "#B45309", "#D97706", "#F8FAFC"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "AA Compliant. Mid-tone slate and ochre. Use #1E293B for text on the lighter amber tones."
+  },
+  {
+    "id": 979,
+    "name": "Muted Moss & Mulberry",
+    "colors": ["#365314", "#65A30D", "#9D174D", "#BE123C", "#F7FEE7"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Organic mid-tones. The deep moss (#365314) provides the necessary contrast for text elements."
+  },
+  {
+    "id": 980,
+    "name": "Denim & Terracotta",
+    "colors": ["#1E3A8A", "#3B82F6", "#C2410C", "#EA580C", "#EFF6FF"],
+    "style": "Retro-Modern",
+    "family": "multi",
+    "note": "A balanced mid-tone pairing. Use the deep navy anchor for all navigational UI."
+  },
+  {
+    "id": 981,
+    "name": "Stormy Teal & Coral",
+    "colors": ["#134E4A", "#0D9488", "#FB7185", "#F43F5E", "#F0FDFA"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Vibrant mid-tones. Coral accents pop against a misty teal background."
+  },
+  {
+    "id": 982,
+    "name": "Vintage Sage & Plum",
+    "colors": ["#2E1065", "#7C3AED", "#4D7C0F", "#A3E635", "#FAF5FF"],
+    "style": "Vintage",
+    "family": "multi",
+    "note": "Sophisticated mid-tone clash. Use #2E1065 (Plum) for text over the sage surfaces."
+  },
+  {
+    "id": 983,
+    "name": "Dusty Cobalt & Amber",
+    "colors": ["#1E40AF", "#60A5FA", "#D97706", "#FBBF24", "#F0F9FF"],
+    "style": "Minimal",
+    "family": "multi",
+    "note": "High-clarity mid-tones for SaaS platforms. Clear 4.5:1 ratio when using dark blue text."
+  },
+  {
+    "id": 984,
+    "name": "Autumnal Graphite",
+    "colors": ["#18181B", "#525252", "#C2410C", "#F97316", "#FAF9F6"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Raw graphite greys paired with mid-tone oranges. Use Black text for the orange blocks."
+  },
+  {
+    "id": 985,
+    "name": "Orchid & Seafoam",
+    "colors": ["#581C87", "#A855F7", "#0D9488", "#2DD4BF", "#F5F3FF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Energetic mid-tone violet and teal. Anchored by a deep purple for text accessibility."
+  },
+  {
+    "id": 986,
+    "name": "Steel & Saffron",
+    "colors": ["#334155", "#64748B", "#CA8A04", "#EAB308", "#F8FAFC"],
+    "style": "Modern",
+    "family": "multi",
+    "note": "Industrial steel blues contrasted with a mid-tone saffron yellow."
+  },
+  {
+    "id": 987,
+    "name": "Crimson & Slate",
+    "colors": ["#450A0A", "#991B1B", "#475569", "#94A3B8", "#FEF2F2"],
+    "style": "Luxury",
+    "family": "multi",
+    "note": "Serious mid-tones. The deep bordeaux (#450A0A) acts as the primary accessible anchor."
+  },
+  {
+    "id": 988,
+    "name": "Pacific & Peach",
+    "colors": ["#0C4A6E", "#0284C7", "#EA580C", "#FB923C", "#F0F9FF"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Oceanic blues meeting mid-tone sunset oranges for a refreshing brand feel."
+  },
+  {
+    "id": 989,
+    "name": "Muted Emerald & Rose",
+    "colors": ["#064E3B", "#10B981", "#BE123C", "#FB7185", "#ECFDF5"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Balanced mid-tone greenery with a punchy rose-red accent."
+  },
+  {
+    "id": 990,
+    "name": "Cognac & Indigo",
+    "colors": ["#1E1B4B", "#312E81", "#78350F", "#B45309", "#EEF2FF"],
+    "style": "Luxury-Vintage",
+    "family": "multi",
+    "note": "Rich leather mid-tones paired with a deep royal indigo for a premium feel."
+  },
+  {
+    "id": 991,
+    "name": "Smoky Violet & Lime",
+    "colors": ["#2E1065", "#8B5CF6", "#65A30D", "#ADFF2F", "#F5F3FF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "High-visibility mid-tones. Use the deep purple for all typography."
+  },
+  {
+    "id": 992,
+    "name": "Asphalt & Azure",
+    "colors": ["#27272A", "#71717A", "#2563EB", "#60A5FA", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "multi",
+    "note": "Clean architectural mid-tones. The asphalt grey ensures text legibility on white."
+  },
+  {
+    "id": 993,
+    "name": "Botanical Rust",
+    "colors": ["#14532D", "#16A34A", "#9A3412", "#D97706", "#F0FDFA"],
+    "style": "Nature",
+    "family": "multi",
+    "note": "Earthy mid-tones of forest green and rust orange for a grounded UI."
+  },
+  {
+    "id": 994,
+    "name": "Charcoal & Orchid",
+    "colors": ["#171717", "#404040", "#7C3AED", "#A855F7", "#FAF5FF"],
+    "style": "Aesthetic",
+    "family": "multi",
+    "note": "Moody mid-tones. Vivid purple pops against a neutral charcoal framework."
+  },
+  {
+    "id": 995,
+    "name": "Marine & Mustard",
+    "colors": ["#164E63", "#0891B2", "#854D0E", "#CA8A04", "#ECFEFF"],
+    "style": "Retro",
+    "family": "multi",
+    "note": "Classic mid-tone contrast of teal and mustard yellow. Excellent for branding."
+  },
+  {
+    "id": 996,
+    "name": "Plum & Sagebrush",
+    "colors": ["#4C1D95", "#8B5CF6", "#3F6212", "#4D7C0F", "#F5F3FF"],
+    "style": "Nature-Luxury",
+    "family": "multi",
+    "note": "Sophisticated mid-tones that bridge the gap between organic and premium."
+  },
+  {
+    "id": 997,
+    "name": "Carbon & Crimson",
+    "colors": ["#000000", "#3F3F46", "#991B1B", "#DC2626", "#FFFFFF"],
+    "style": "Brutalist",
+    "family": "multi",
+    "note": "Impactful mid-tone reds anchored by a heavy carbon black for AAA compliance."
+  },{
+    "id": 998,
+    "name": "Bubblegum Arcade",
+    "colors": ["#1E1B4B", "#F472B6", "#06B6D4", "#FACC15", "#FDF2F8"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A high-energy 2026 'Neo-Retro' mix. Pink and cyan pop against a deep midnight navy."
+  },
+  {
+    "id": 999,
+    "name": "Jellyfish Glow",
+    "colors": ["#2E1065", "#A855F7", "#00FFC8", "#FF007F", "#FAF5FF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Bioluminescent purple and mint; perfect for creative studio landing pages."
+  },
+  {
+    "id": 1000,
+    "name": "Toon Town Primary",
+    "colors": ["#000000", "#EF4444", "#3B82F6", "#FDE047", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Modern comic-book aesthetics. Saturated primary tones anchored by heavy ink borders."
+  },
+  {
+    "id": 1001,
+    "name": "Mango Splash",
+    "colors": ["#431407", "#FB923C", "#F59E0B", "#10B981", "#FFF7ED"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A tropical, sunny palette with a refreshing emerald green accent for high-energy branding."
+  },
+  {
+    "id": 1002,
+    "name": "Cyber Parakeet",
+    "colors": ["#0F172A", "#84CC16", "#00F5FF", "#D946EF", "#F8FAFC"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Techno-inspired lime and orchid purple; designed for 'gamified' app interfaces."
+  },
+  {
+    "id": 1003,
+    "name": "Berry Fizz Dash",
+    "colors": ["#4C0519", "#DB2777", "#8B5CF6", "#2DD4BF", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Fruity magenta and violet tones clashing with a modern, sharp seafoam teal."
+  },
+  {
+    "id": 1004,
+    "name": "Lollipop Logic",
+    "colors": ["#312E81", "#EC4899", "#A5B4FC", "#FFD600", "#F1F5F9"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Optimistic indigo-pink base with a sharp highlighter yellow for call-to-actions."
+  },
+  {
+    "id": 1005,
+    "name": "Cosmic Candy",
+    "colors": ["#1E1B4B", "#6366F1", "#F43F5E", "#ADFF2F", "#F5F3FF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "A futuristic candy-mix featuring periwinkle, coral, and neon-lichen green."
+  },
+  {
+    "id": 1006,
+    "name": "Solar Circus",
+    "colors": ["#1C1917", "#EA580C", "#38BDF8", "#FDE68A", "#FAF9F6"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Warm, earthy orange meeting a bouncy sky blue for a friendly, approachable feel."
+  },
+  {
+    "id": 1007,
+    "name": "Gummy Galaxy",
+    "colors": ["#000000", "#7C3AED", "#FF00FF", "#00FFFF", "#FFFFFF"],
+    "style": "Playful",
+    "family": "multi",
+    "note": "Stark black mode with 'High-Chroma' playful neon accents for experimental UIs."
+  },
+  {
+    "id": 1008,
+    "name": "WCAG Obsidian Mint",
+    "colors": ["#0A0A0A", "#10B981", "#D1FAE5", "#064E3B", "#FFFFFF"],
+    "style": "Minimal",
+    "family": "green",
+    "note": "AAA Standard. Use #FFFFFF text on #0A0A0A. Mint (#D1FAE5) for background cards only."
+  },
+  {
+    "id": 1009,
+    "name": "WCAG Royal Indigo",
+    "colors": ["#1E1B4B", "#312E81", "#EAB308", "#EEF2FF", "#FFFFFF"],
+    "style": "Luxury",
+    "family": "blue",
+    "note": "AAA Standard. High-contrast navy and saffron. Navy text on white surfaces passes 7:1 ratio."
+  },
+  {
+    "id": 1010,
+    "name": "WCAG Concrete Saffron",
+    "colors": ["#171717", "#44403C", "#FACC15", "#FAF9F6", "#000000"],
+    "style": "Brutalist",
+    "family": "yellow",
+    "note": "AAA Standard. Structural charcoal and saffron yellow. Use #000000 text on yellow for legibility."
+  },
+  {
+    "id": 1011,
+    "name": "WCAG Deep Sea Mist",
+    "colors": ["#083344", "#0D9488", "#CCFBF1", "#F1F5F9", "#FFFFFF"],
+    "style": "Nature",
+    "family": "teal",
+    "note": "AAA Standard. Deepest teal and pearl white. Use #083344 for all typography on light backgrounds."
+  },
+  {
+    "id": 1012,
+    "name": "WCAG Bordeaux Slate",
+    "colors": ["#450A0A", "#991B1B", "#475569", "#F8FAFC", "#000000"],
+    "style": "Luxury",
+    "family": "red",
+    "note": "AAA Standard. Serious editorial tones. Wine red and slate blue provide professional 7:1 contrast."
+  },
+  {
+    "id": 1013,
+    "name": "WCAG Midnight Rose",
+    "colors": ["#121212", "#BE123C", "#FCE7F3", "#FBCFE8", "#FFFFFF"],
+    "style": "Aesthetic",
+    "family": "pink",
+    "note": "AA Standard. Carbon black base with metallic rose accents. White text on dark surfaces for readability."
+  },
+  {
+    "id": 1014,
+    "name": "WCAG Graphite Lime",
+    "colors": ["#18181B", "#84CC16", "#DCFCE7", "#3F6212", "#000000"],
+    "style": "Modern",
+    "family": "green",
+    "note": "AAA Standard. Industrial grey and high-vis lime. Use #000000 text on lime blocks for accessibility."
+  },
+  {
+    "id": 1015,
+    "name": "WCAG Cobalt Chrome",
+    "colors": ["#001A41", "#1D4ED8", "#93C5FD", "#F0F9FF", "#FFFFFF"],
+    "style": "Luxury-Modern",
+    "family": "blue",
+    "note": "AAA Standard. Technical sapphire blue with icy highlights. Flawless contrast for high-end SaaS."
+  },
+  {
+    "id": 1016,
+    "name": "WCAG Espresso Bronze",
+    "colors": ["#1A0F0A", "#78350F", "#C96524", "#FFF7ED", "#FFFFFF"],
+    "style": "Aesthetic-Luxury",
+    "family": "orange",
+    "note": "AA Standard. Warm espresso dark mode with metallic bronze. Ivory text (#FFF7ED) ensures premium reading."
+  },
+  {
+    "id": 1017,
+    "name": "WCAG Imperial Violet",
+    "colors": ["#2E1065", "#7C3AED", "#DDD6FE", "#F5F3FF", "#000000"],
+    "style": "Luxury-Pastel",
+    "family": "purple",
+    "note": "AAA Standard. Deep purple and lilac. Use #000000 text on the lilac surfaces for maximum clarity."
+  },
+  {
+    "id": 1018,
+    "name": "Mermaidcore Glow",
+    "colors": ["#083344", "#0D9488", "#DB2777", "#F0FDFA", "#FDFCFB"],
+    "style": "Aesthetic-Nature",
+    "family": "multi",
+    "note": "AAA Standard. Deepest teal (#083344) text on Cloud Dancer white (#FDFCFB). Iridescent teal and pink for interactive elements."
+  },
+  {
+    "id": 1019,
+    "name": "Banana Disco",
+    "colors": ["#1C1917", "#FACC15", "#EA580C", "#FAF9F6", "#000000"],
+    "style": "Retro-Playful",
+    "family": "multi",
+    "note": "AA Standard. Trending Banana Yellow and Tangerine accents. Use #000000 text on the yellow blocks for high-energy legibility."
+  },
+  {
+    "id": 1020,
+    "name": "Glacial Space-Age",
+    "colors": ["#0F172A", "#38BDF8", "#94A3B8", "#F1F5F9", "#FFFFFF"],
+    "style": "Minimal-Modern",
+    "family": "blue",
+    "note": "AAA Standard. Cool Blue and icy slate. A professional 2026 'Y3K' tech aesthetic with a 7:1 contrast ratio."
+  },
+  {
+    "id": 1021,
+    "name": "Walnut Retro Tech",
+    "colors": ["#2D1B14", "#78350F", "#22D3EE", "#FFEDD5", "#FFFFFF"],
+    "style": "Vintage-Modern",
+    "family": "multi",
+    "note": "AA Standard. Grounded walnut browns paired with a 'Cyber Cyan' pop. Use dark brown text for clear, organic navigation."
+  },
+  {
+    "id": 1022,
+    "name": "Thermal Neon Shock",
+    "colors": ["#000000", "#D9FF00", "#7C3AED", "#F5F3FF", "#111827"],
+    "style": "Brutalist-Playful",
+    "family": "multi",
+    "note": "AA Standard. 'Wasabi Green' and deep violet. Inspired by thermal imaging gradients; uses black surfaces for high visual impact."
+  },
+  {
+    "id": 1023,
+    "name": "Sunwashed Moss",
+    "colors": ["#064E3B", "#84CC16", "#D9F99D", "#F0FDF4", "#FFFFFF"],
+    "style": "Nature-Minimal",
+    "family": "green",
+    "note": "AAA Standard. A calming 2026 wellness palette. Use #064E3B (Dark Moss) text over the sunwashed lime backgrounds."
+  },
+  {
+    "id": 1024,
+    "name": "Eggplant & Chrome",
+    "colors": ["#1E1B4B", "#4C1D95", "#CBD5E1", "#F8FAFC", "#000000"],
+    "style": "Luxury-Modern",
+    "family": "purple",
+    "note": "AAA Standard. Declared the 'New Neutral' by Vogue, eggplant purple pairs with metallic chrome slates for high-end UI."
+  },
+  {
+    "id": 1025,
+    "name": "Patina Blue Drift",
+    "colors": ["#042F2E", "#0D9488", "#EAB308", "#ECFEFF", "#FFFFFF"],
+    "style": "Nature-Luxury",
+    "family": "teal",
+    "note": "AA Standard. Features Etsy's 2026 Color of the Year: Patina Blue. Grounded by saffron gold and deep teal."
+  },
+  {
+    "id": 1026,
+    "name": "Clubroom Crimson",
+    "colors": ["#1A0505", "#881337", "#C9A46B", "#FAF5FF", "#FFFFFF"],
+    "style": "Luxury-Aesthetic",
+    "family": "red",
+    "note": "AAA Standard. Sophisticated 'Poppy Red' and mahogany pairing. Use #1A0505 (Ink Cherry) text for a mature boutique look."
+  },
+  {
+    "id": 1027,
+    "name": "Holographic Dusk",
+    "colors": ["#2E1065", "#A855F7", "#00FFC8", "#F5F3FF", "#FFFFFF"],
+    "style": "Aesthetic-Playful",
+    "family": "multi",
+    "note": "AA Standard. Immersive 'Cosmic Gradient' palette. Soft violet surfaces with high-vis mint accents for creative agencies."
+  },
+  {
+    "id": 1028,
+    "name": "Spring Bloom Valley",
+    "colors": ["#1A2E05", "#84CC16", "#FB7185", "#FDE68A", "#F7FEE7"],
+    "style": "Nature-Playful",
+    "family": "multi",
+    "note": "Inspired by wildflower valleys. Use #1A2E05 (Deep Moss) for text over the soft yellow and pink petal backgrounds."
+  },
+  {
+    "id": 1029,
+    "name": "Dark Rain Slate",
+    "colors": ["#0F172A", "#334155", "#0EA5E9", "#94A3B8", "#F8FAFC"],
+    "style": "Minimal-Aesthetic",
+    "family": "blue",
+    "note": "Captures a heavy rain atmosphere. Use #0F172A (Midnight Ink) for text. The electric blue represents rain on asphalt."
+  },
+  {
+    "id": 1030,
+    "name": "Luminous Reef",
+    "colors": ["#083344", "#0D9488", "#22D3EE", "#FF007F", "#ECFEFF"],
+    "style": "Nature-Aesthetic",
+    "family": "teal",
+    "note": "A 'Blue Light' underwater feel. Dark teal base with a neon coral pop. Use #083344 for text on icy backgrounds."
+  },
+  {
+    "id": 1031,
+    "name": "Thunderstorm Orchre",
+    "colors": ["#1C1917", "#44403C", "#D97706", "#FDE047", "#FAF9F6"],
+    "style": "Brutalist-Nature",
+    "family": "yellow",
+    "note": "The sky before a storm. Heavy charcoal and saffron yellow. High contrast for functional, moody branding."
+  },
+  {
+    "id": 1032,
+    "name": "Misty Alpine Forest",
+    "colors": ["#064E3B", "#166534", "#A7F3D0", "#CFD8DC", "#FFFFFF"],
+    "style": "Nature-Minimal",
+    "family": "green",
+    "note": "A foggy morning in the pines. Use #064E3B (Dark Pine) for text. Mint and slate provide a breathable UI."
+  },
+  {
+    "id": 933,
+    "name": "Sunset Petal Haze",
+    "colors": ["#310E0E", "#881337", "#F97316", "#FCE7F3", "#FFFFFF"],
+    "style": "Aesthetic-Luxury",
+    "family": "multi",
+    "note": "Spring sunset over flowers. Deep cherry anchors a mix of tangerine and rose. Use #310E0E for text."
+  },
+  {
+    "id": 1034,
+    "name": "Arctic Blue Glow",
+    "colors": ["#001A41", "#1E40AF", "#60A5FA", "#BAE6FD", "#FFFFFF"],
+    "style": "Minimal-Modern",
+    "family": "blue",
+    "note": "Clean 'Blue Light' tech-nature look. Use #001A41 (Oceanic Black) for text to meet AAA standards."
+  },
+  {
+    "id": 1035,
+    "name": "Drenched Terracotta",
+    "colors": ["#431407", "#9A3412", "#D946EF", "#FFF7ED", "#FFFFFF"],
+    "style": "Nature-Modern",
+    "family": "multi",
+    "note": "Wet earth after rain. Burnt orange and magenta highlights on a cream base. Use #431407 for body copy."
+  },
+  {
+    "id": 1036,
+    "name": "Willow & Lavender",
+    "colors": ["#2E1065", "#A78BFA", "#4D7C0F", "#E9D5FF", "#FDFCFB"],
+    "style": "Nature-Pastel",
+    "family": "multi",
+    "note": "A peaceful garden aesthetic. Use #2E1065 (Midnight Violet) text over the soft lavender and green surfaces."
+  },
+  {
+    "id": 1037,
+    "name": "Solar Lichen Pulse",
+    "colors": ["#000000", "#ADFF2F", "#06B6D4", "#FACC15", "#FFFFFF"],
+    "style": "Brutalist-Playful",
+    "family": "multi",
+    "note": "Nature’s highlighter colors. Neon lichen green and cyan on a black base. Maximum visibility for active brands."
+  },
+  {
+    "id": 1038,
+    "name": "2027 Bio-Lume Indigo",
+    "colors": ["#0F172A", "#6366F1", "#00FFC8", "#F1F5F9", "#FFFFFF"],
+    "style": "Modern-Tech",
+    "family": "multi",
+    "note": "The 'Tech-Nature' trend. Deep indigo base with a bioluminescent mint accent. Perfect for AI/SaaS."
+  },
+  {
+    "id": 1039,
+    "name": "Obsidian Poppy Glow",
+    "colors": ["#1A0505", "#EF4444", "#FB923C", "#FCE7F3", "#FFFFFF"],
+    "style": "Luxury-Aesthetic",
+    "family": "red",
+    "note": "A sophisticated 'High-Fashion' look. Deep mahogany anchored with vibrant poppy red and peach."
+  },
+  {
+    "id": 1040,
+    "name": "Cyber-Lichen Brutalist",
+    "colors": ["#000000", "#D9FF00", "#7C3AED", "#FFFFFF", "#525252"],
+    "style": "Brutalist-Playful",
+    "family": "multi",
+    "note": "Maximum visibility. Acid lime and electric violet clashing on a raw black grid."
+  },
+  {
+    "id": 1041,
+    "name": "2026 Cloud Dancer Saffron",
+    "colors": ["#FDFCFB", "#EAB308", "#22D3EE", "#1C1917", "#44403C"],
+    "style": "Minimal-Luxury",
+    "family": "multi",
+    "note": "Uses 2026's Neutral of the Year (Cloud Dancer) with a premium saffron and cyan 'pop'."
+  },
+  {
+    "id": 1042,
+    "name": "Midnight Emerald Archive",
+    "colors": ["#022C22", "#0D9488", "#FACC15", "#ECFDF5", "#FFFFFF"],
+    "style": "Nature-Vintage",
+    "family": "green",
+    "note": "Heritage meets Tech. Deepest green paired with a nostalgic gold leaf highlight."
+  },
+  {
+    "id": 1043,
+    "name": "Solar Cobalt Reset",
+    "colors": ["#1E3A8A", "#2563EB", "#FFD600", "#F0F9FF", "#FFFFFF"],
+    "style": "Modern-Playful",
+    "family": "blue",
+    "note": "Optimistic and high-energy. A professional cobalt blue contrasted with a sharp solar yellow."
+  },
+  {
+    "id": 1044,
+    "name": "Petal & Iron Slate",
+    "colors": ["#18181B", "#F472B6", "#94A3B8", "#FDF2F8", "#FFFFFF"],
+    "style": "Minimal-Aesthetic",
+    "family": "pink",
+    "note": "Architectural slate greys softened by a vibrant 'highlighter' pink. Great for lifestyle tech."
+  },
+  {
+    "id": 1045,
+    "name": "Tangerine Disco Haze",
+    "colors": ["#2D1B14", "#F97316", "#8B5CF6", "#FFF7ED", "#FFFFFF"],
+    "style": "Retro-Aesthetic",
+    "family": "multi",
+    "note": "2027 trend: Muted earth tones with a psychadelic violet and orange energy."
+  },
+  {
+    "id": 1046,
+    "name": "Glacial Mint Lab",
+    "colors": ["#083344", "#2DD4BF", "#BAE6FD", "#F0FDFA", "#FFFFFF"],
+    "style": "Modern-Health",
+    "family": "teal",
+    "note": "Sterile but fresh. Aquatic teals and icy blues for health and wellness innovation."
+  },
+  {
+    "id": 1047,
+    "name": "Walnut & Cyber Cyan",
+    "colors": ["#422006", "#78350F", "#00E5FF", "#FEFCE8", "#1C1917"],
+    "style": "Vintage-Tech",
+    "family": "multi",
+    "note": "Human-centric tech. Warm wood tones with a glowing digital cyan pulse."
+  },
+  {
+    "id": 1048,
+    "name": "Bordeaux Wine Digital",
+    "colors": ["#310E0E", "#991B1B", "#06B6D4", "#FCE7F3", "#FFFFFF"],
+    "style": "Luxury-Modern",
+    "family": "multi",
+    "note": "Moody burgundy anchors a refreshing sky-teal pop. A mature yet creative aesthetic."
+  },
+  {
+    "id": 1049,
+    "name": "Kinetic Mango",
+    "colors": ["#1E1B4B", "#FB923C", "#F59E0B", "#E0E7FF", "#FFFFFF"],
+    "style": "Playful-Modern",
+    "family": "multi",
+    "note": "A high-contrast 2026 favorite: Deep royal navy with a kinetic mango-orange glow."
+  },
+  {
+    "id": 1050,
+    "name": "Graphite Rose Garden",
+    "colors": ["#171717", "#BE123C", "#10B981", "#FAF5FF", "#FFFFFF"],
+    "style": "Aesthetic-Minimal",
+    "family": "multi",
+    "note": "Dark mode editorial. Graphite grey surfaces with floral crimson and mint accents."
+  },
+  {
+    "id": 1051,
+    "name": "Arctic Amber Drift",
+    "colors": ["#001A41", "#60A5FA", "#EAB308", "#EEF2FF", "#FFFFFF"],
+    "style": "Modern-Luxury",
+    "family": "multi",
+    "note": "Financial/Luxury Tech. Deep navy paired with an accessible gold and icy blue."
+  },
+  {
+    "id": 1052,
+    "name": "Terracotta Space-Age",
+    "colors": ["#451A03", "#D97706", "#38BDF8", "#FFF7ED", "#000000"],
+    "style": "Nature-Tech",
+    "family": "multi",
+    "note": "Earthy clay tones paired with an astronaut-blue highlighter. High impact UI."
+  },
+  {
+    "id": 1053,
+    "name": "Eggplant & Wasabi",
+    "colors": ["#1E1B4B", "#4C1D95", "#ADFF2F", "#F5F3FF", "#000000"],
+    "style": "Luxury-Playful",
+    "family": "multi",
+    "note": "Trending Eggplant purple (2026/27 Neutral) with a sharp wasabi neon twist."
+  },
+  {
+    "id": 1054,
+    "name": "Concrete Parakeet",
+    "colors": ["#000000", "#A3E635", "#94A3B8", "#E5E7EB", "#FFFFFF"],
+    "style": "Brutalist-Modern",
+    "family": "green",
+    "note": "Raw industrial vibes. Heavy greys and black electrified by a parakeet green accent."
+  },
+  {
+    "id": 1055,
+    "name": "Orchid Studio Minimal",
+    "colors": ["#2E1065", "#A855F7", "#22D3EE", "#FAF5FF", "#FFFFFF"],
+    "style": "Aesthetic-Luxury",
+    "family": "multi",
+    "note": "Premium creative agency look. Deep violet surfaces with airy cyan highlights."
+  },
+  {
+    "id": 1056,
+    "name": "Sun-Bleached Primary",
+    "colors": ["#1C1917", "#EF4444", "#3B82F6", "#FDE68A", "#FFFFFF"],
+    "style": "Retro-Modern",
+    "family": "multi",
+    "note": "A 2027 'Digital Nostalgia' look. Classic red and blue, but desaturated for eye comfort."
+  },
+  {
+    "id": 1057,
+    "name": "Obsidian Moss Pulse",
+    "colors": ["#000000", "#16A34A", "#00FFC8", "#ECFDF5", "#FFFFFF"],
+    "style": "Nature-Modern",
+    "family": "green",
+    "note": "Maximum focus. Jet black background with a pulsing emerald and mint core."
+  }
 ];
 
 
